@@ -1,0 +1,14 @@
+---
+title: '661193'
+r_url: http://plantuml.com/salt.html
+r_date: 2016-08-14 17:45:07.576000000 Z
+r_wrapped_url: https://www.reading.am/p/4oxT/http://plantuml.com/salt.html
+r_page_description: Salt is a subproject included in PlantUML that may help you to
+  design graphical interface. You can define button, radio button, checkbox, window,
+  tree, menu, table…
+r_page_title: Draw GUI mockup with Salt
+r_title: Draw GUI mockup with Salt
+r_id: '661193'
+r_page_id: '483089'
+---
+
