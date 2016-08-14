@@ -1,0 +1,15 @@
+---
+title: '661226'
+r_url: https://en.wikipedia.org/wiki/What3words
+r_date: 2016-08-14 19:02:26.911000000 Z
+r_wrapped_url: https://www.reading.am/p/4oys/https://en.wikipedia.org/wiki/What3words
+r_page_description: What3words (stylized what3words) is a geocoding system for the
+  simple communication of locations with a resolution of 3 m. What3words encodes geographic
+  coordinates into 3 dictionary words (for example, the Statue of Liberty is located
+  at planet.inches.most). What3words is different...
+r_page_title: what3words - Wikipedia, the free encyclopedia
+r_title: what3words - Wikipedia, the free encyclopedia
+r_id: '661226'
+r_page_id: '483120'
+---
+
