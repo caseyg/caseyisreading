@@ -1,0 +1,17 @@
+---
+title: '661118'
+r_url: http://query.nytimes.com/gst/abstract.html?res=9505E6D91731E433A2575BC0A9629C94629FD7CF
+r_date: 2016-08-14 13:09:32.234000000 Z
+r_wrapped_url: https://www.reading.am/p/4owA/http://query.nytimes.com/gst/abstract.html?res=9505E6D91731E433A2575BC0A9629C94629FD7CF
+r_page_description: A fine drizzling rain was falling yesterday morning when the body
+  of the late Peter Cooper was carried into All Souls' Church, at Fourth avenue and
+  Twentieth-street, to be viewed for the last time by that public to which his features
+  have so long been familiar.
+r_page_title: PETER COOPER'S FUNERAL; THE LAST TRIBUTE OF RESPECT PAID TO THE DEAD.
+  THE SERVICES IN THE CHURCH. THE FUNERAL PROCESSION. FROM THE FERRY TO GREEN-WOOD.
+r_title: PETER COOPER'S FUNERAL; THE LAST TRIBUTE OF RESPECT PAID TO THE DEAD. THE
+  SERVICES IN THE CHURCH. THE FUNERAL PROCESSION. FROM THE FERRY TO GREEN-WOOD.
+r_id: '661118'
+r_page_id: '483018'
+---
+
