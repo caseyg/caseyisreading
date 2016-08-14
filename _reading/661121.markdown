@@ -1,0 +1,14 @@
+---
+title: '661121'
+r_url: http://www.nytimes.com/2015/10/22/nyregion/new-york-says-farewell-to-american-bible-society-and-its-building.html
+r_date: 2016-08-14 13:20:31.491000000 Z
+r_wrapped_url: https://www.reading.am/p/4owD/http://www.nytimes.com/2015/10/22/nyregion/new-york-says-farewell-to-american-bible-society-and-its-building.html
+r_page_description: The 12-story building at 1865 Broadway had for nearly a half-century
+  housed the group, which recently relocated to Philadelphia. Now the structure is
+  being torn down.
+r_page_title: New York Says Farewell to American Bible Society, and Its Building
+r_title: New York Says Farewell to American Bible Society, and Its Building
+r_id: '661121'
+r_page_id: '483021'
+---
+
