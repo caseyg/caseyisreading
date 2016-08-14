@@ -1,0 +1,14 @@
+---
+title: '661119'
+r_url: https://en.wikipedia.org/wiki/McSorley%27s_Old_Ale_House
+r_date: 2016-08-14 13:15:29.241000000 Z
+r_wrapped_url: https://www.reading.am/p/4owB/https://en.wikipedia.org/wiki/McSorley%27s_Old_Ale_House
+r_page_description: McSorley's Old Ale House, generally known as McSorley's, is the
+  oldest "Irish" tavern in New York City.[1] Located at 15 East 7th Street in the
+  East Village neighborhood of Manhattan, it was one of the last of the "Men Only"...
+r_page_title: McSorley's Old Ale House - Wikipedia, the free encyclopedia
+r_title: McSorley's Old Ale House - Wikipedia, the free encyclopedia
+r_id: '661119'
+r_page_id: '483019'
+---
+
