@@ -1,0 +1,13 @@
+---
+title: '661209'
+r_url: https://wordpress.org/plugins/wp-github-sync/
+r_date: 2016-08-14 18:08:36.388000000 Z
+r_wrapped_url: https://www.reading.am/p/4oya/https://wordpress.org/plugins/wp-github-sync/
+r_page_description: A WordPress plugin to sync content with a GitHub repository (or
+  Jekyll site).
+r_page_title: WordPress  GitHub Sync
+r_title: WordPress  GitHub Sync
+r_id: '661209'
+r_page_id: '483104'
+---
+
