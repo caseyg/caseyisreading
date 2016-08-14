@@ -1,0 +1,15 @@
+---
+title: '661112'
+r_url: https://en.wikipedia.org/wiki/Abu_Dhabi_Investment_Council
+r_date: 2016-08-14 12:44:34.464000000 Z
+r_wrapped_url: https://www.reading.am/p/4owu/https://en.wikipedia.org/wiki/Abu_Dhabi_Investment_Council
+r_page_description: The Abu Dhabi Investment Council (The Council) is an investment
+  arm of the Government of Abu Dhabi. It started operations in April 2007 and is responsible
+  for investing part of the government’s surplus financial resources through a globally
+  diversified investment...
+r_page_title: Abu Dhabi Investment Council - Wikipedia, the free encyclopedia
+r_title: Abu Dhabi Investment Council - Wikipedia, the free encyclopedia
+r_id: '661112'
+r_page_id: '483013'
+---
+
