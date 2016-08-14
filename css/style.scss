@@ -25,12 +25,12 @@ blockquote p {
 }
 
 blockquote:before {
-  content: "“";
+  content: "“…";
   color: gray;
 }
 
 blockquote:after {
-  content: "”";
+  content: "…”";
   color: gray;
 }
 
