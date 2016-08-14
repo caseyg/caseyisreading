@@ -1,0 +1,14 @@
+---
+title: '661293'
+r_url: http://madebyevan.com/webgl-water/
+r_date: 2016-08-14 22:55:31.139000000 Z
+r_wrapped_url: https://www.reading.am/p/4ozB/http://madebyevan.com/webgl-water/
+r_page_description: 'Made by Evan Wallace This demo requires a decent graphics card
+  and up-to-date drivers. If you can''t run the demo, you can still see it on YouTube.
+  Interactions: Draw on the water to make ripples Drag…'
+r_page_title: WebGL Water
+r_title: WebGL Water
+r_id: '661293'
+r_page_id: '129559'
+---
+
