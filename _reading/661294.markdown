@@ -1,0 +1,13 @@
+---
+title: '661294'
+r_url: http://david.li/waves/
+r_date: 2016-08-14 23:03:50.503000000 Z
+r_wrapped_url: https://www.reading.am/p/4ozC/http://david.li/waves/
+r_page_description: Your browser does not appear to support the required technologies.
+  You can still view this on YouTube.
+r_page_title: Ocean Wave Simulation
+r_title: Ocean Wave Simulation
+r_id: '661294'
+r_page_id: '223928'
+---
+
