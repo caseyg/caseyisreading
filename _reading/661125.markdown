@@ -1,0 +1,17 @@
+---
+title: '661125'
+r_url: https://books.google.com/books/about/New_York_Magazine.html?id=LScAAAAAMBAJ
+r_date: 2016-08-14 13:27:11.302000000 Z
+r_wrapped_url: https://www.reading.am/p/4owH/https://books.google.com/books/about/New_York_Magazine.html?id=LScAAAAAMBAJ
+r_page_description: New York magazine was born in 1968 after a run as an insert of
+  the New York Herald Tribune and quickly made a place for itself as the trusted resource
+  for readers across the country. With award-winning writing and photography covering
+  everything from politics and food to theater and fashion, the magazine's consistent
+  mission has been to reflect back to its audience the energy and excitement of the
+  city itself, while celebrating New York as both a place and an idea.
+r_page_title: New York Magazine
+r_title: New York Magazine
+r_id: '661125'
+r_page_id: '483025'
+---
+
