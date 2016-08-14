@@ -1,0 +1,14 @@
+---
+title: '661222'
+r_url: http://map.what3words.com/amount.heavy.stone
+r_date: 2016-08-14 18:50:44.155000000 Z
+r_wrapped_url: https://www.reading.am/p/4oyo/http://map.what3words.com/amount.heavy.stone
+r_page_description: Explore the world in 3 words. what3words is a giant grid comprised
+  of 57 trillion 3m x 3m squares that cover the entire globe. It is the simplest way
+  to communicate location.
+r_page_title: amount.heavy.stone
+r_title: amount.heavy.stone
+r_id: '661222'
+r_page_id: '483117'
+---
+
