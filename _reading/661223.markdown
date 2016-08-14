@@ -1,0 +1,13 @@
+---
+title: '661223'
+r_url: https://what3words.com/about/
+r_date: 2016-08-14 18:50:46.334000000 Z
+r_wrapped_url: https://www.reading.am/p/4oyp/https://what3words.com/about/
+r_page_description: what3words is a giant grid comprised of 57 trillion 3m x 3m squares
+  that cover the entire globe. It is the simplest way to communicate location.
+r_page_title: About
+r_title: About
+r_id: '661223'
+r_page_id: '471670'
+---
+
