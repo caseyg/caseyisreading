@@ -5,18 +5,40 @@
   <meta charset="UTF-8">
   <title>TITLE</title>
   <meta name="description" content="DESCRIPTION">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
 </head>
 
 <body>
-<h1>Casey is</h1>
+<h1><a href="http://twitter.com/caseyisreading">@caseyisreading</a></h1>
 <main>
+<section id="annotating">
+  <h2>Annotating <a href="https://hypothes.is/stream?q=user:caseyg">at hypothes.is</a></h2>
+  <ul>
+    {% assign annotations = site.annotations | sort: 'h_date' | reverse %}
+    {% for a in annotations %}
+    <li>
+      <time datetime="{{a.h_date}}" title="{{a.h_date | date: "%a, %b %d, %Y at%l%P" }}">about</time><br>
+      <a href="{{ a.h_link_source }}" class="title"><strong>{{ a.h_title }}</strong></a>
+      <blockquote><p>{{ a.h_prefix | lstrip }}<a href="{{a.h_link_incontext}}"><mark>{{ a.h_exact }}</mark></a>{{ a.h_suffix }}</p></blockquote>
+      <a href="{{ a.h_link_source }}" class="title">{{ domain[2] | replace: "www.", "" }}</a>
+      {% if.h_tags %}<p>{{ a.h_tags }}</p>{% endif %}
+      <small>
+        {% assign domain = a.h_link_source | split: "/" %}
+        <a href="http://via.hypothes.is/{{a.h_link_source}}">annotate</a>
+        <a href="#" onClick="javascript:void(t=open('https://pinboard.in/add?later=yes&noui=yes&jump=close&url={{ a.h_link_source | url_encode }}&title={{ a.h_title | url_encode }}','Pinboard','toolbar=no,width=100,height=100'));t.blur();">quick pin</a>
+        <a href="#" onClick="javascript:void(open('https://pinboard.in/add?showtags=yes&url={{ a.h_link_source | url_encode }}&title={{ a.h_title | url_encode }}','Pinboard','toolbar=no,scrollbars=yes,width=750,height=700'));">pin with tags</a>
+      </small>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
 <section id="reading">
-<h2>Reading</h2>
+<h2>Reading <a href="http://reading.am/CaseyG">at reading.am</a></h2>
 <ul>
   {% for r in site.reading %}
   <li>
-    <a href="{{ r.r_url }}" class="title"><strong>{{ r.r_page_title }}</strong> {% assign domain = r.r_url | split: "/" %}</a><blockquote><p>{{ r.r_page_description }}</p></blockquote>
+    <a href="{{ r.r_url }}" class="title"><strong>{{ r.r_page_title }}</strong> {% assign domain = r.r_url | split: "/" %}</a>
     <a href="{{ r.r_url }}" class="title">{{ domain[2] | replace: "www.", "" }}</a>
     <small>
       <a href="http://via.hypothes.is/{{r.r_url}}">annotate</a>
@@ -27,25 +49,13 @@
   {% endfor %}
 </ul>
 </section>
-<section id="annotating">
-<h2>Annotating</h2>
-<ul>
-  {% for a in site.annotations %}
-  <li>
-    <blockquote><p>{{ a.h_prefix | lstrip }}<a href="{{a.h_link_incontext}}"><mark>{{ a.h_exact }}</mark></a>{{ a.h_suffix }}</p></blockquote>
-    <a href="{{ a.h_link_source }}" class="title"><strong>{{ a.h_title }}</strong> {{ domain[2] | replace: "www.", "" }}</a>
-    {% if.h_tags %}<p>{{ a.h_tags }}</p>{% endif %}
-    <small>
-      {% assign domain = a.h_link_source | split: "/" %}
-      <a href="http://via.hypothes.is/{{a.h_link_source}}">annotate</a>
-      <a href="#" onClick="javascript:void(t=open('https://pinboard.in/add?later=yes&noui=yes&jump=close&url={{ a.h_link_source | url_encode }}&title={{ a.h_title | url_encode }}','Pinboard','toolbar=no,width=100,height=100'));t.blur();">quick pin</a>
-      <a href="#" onClick="javascript:void(open('https://pinboard.in/add?showtags=yes&url={{ a.h_link_source | url_encode }}&title={{ a.h_title | url_encode }}','Pinboard','toolbar=no,scrollbars=yes,width=750,height=700'));">pin with tags</a>
-    </small>
-  </li>
-  {% endfor %}
-</ul>
-</section>
 </main>
-<script src="https://use.fontawesome.com/5450ef4433.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-timeago/1.5.3/jquery.timeago.min.js" type="text/javascript"></script>
+<script>
+jQuery(document).ready(function() {
+  jQuery("time").timeago();
+});
+</script>
 </body>
 </html>

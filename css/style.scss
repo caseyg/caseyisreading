@@ -3,20 +3,35 @@
 
 body {
   background: #fff;
-  font-family: sans-serif;
-  font-weight: 100;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+h1 a {
+  color: #000!important;
+  text-decoration: none;
+  font-weight: 300;
+  margin: 15px;
+}
+
+h1 a:hover {
+  text-decoration: underline;
 }
 
 blockquote p {
   display: inline;
+  color: gray;
 }
 
 blockquote:before {
   content: "“";
+  color: gray;
 }
 
 blockquote:after {
   content: "”";
+  color: gray;
 }
 
 ul {
@@ -65,6 +80,7 @@ main {
 
 section {
   margin: 15px;
+  min-width: 40%;
 }
 
 a {
@@ -72,8 +88,9 @@ a {
   color: lightgray;
 }
 
-a strong {
+li:hover a strong {
   text-decoration: underline;
+  font-weight: bold;
 }
 
 a:link strong {
@@ -81,5 +98,10 @@ a:link strong {
 }
 
 a:visited strong {
-  color: purple;
+  color: blue;
+}
+
+time {
+  font-size: 1em;
+  color: lightgray;
 }
