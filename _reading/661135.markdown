@@ -1,0 +1,15 @@
+---
+title: '661135'
+r_url: https://www.nycgovparks.org/parks/imagination-playground
+r_date: 2016-08-14 14:20:11.293000000 Z
+r_wrapped_url: https://www.reading.am/p/4owT/https://www.nycgovparks.org/parks/imagination-playground
+r_page_description: "  Find A Park &gt; Imagination Playground    Imagination Playground
+  at Burling Slip, designed by famed architect David Rockwell, is an interactive,
+  \ transformable space that prompts children to manipulate their  environment and
+  create a play..."
+r_page_title: 'Imagination Playground : NYC Parks'
+r_title: 'Imagination Playground : NYC Parks'
+r_id: '661135'
+r_page_id: '483034'
+---
+
