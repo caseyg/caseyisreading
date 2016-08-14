@@ -1,0 +1,12 @@
+---
+title: '661130'
+r_url: https://en.wikipedia.org/wiki/American_Bank_Note_Company
+r_date: 2016-08-14 14:02:34.117000000 Z
+r_wrapped_url: https://www.reading.am/p/4owN/https://en.wikipedia.org/wiki/American_Bank_Note_Company
+r_page_description: ''
+r_page_title: American Bank Note Company - Wikipedia, the free encyclopedia
+r_title: American Bank Note Company - Wikipedia, the free encyclopedia
+r_id: '661130'
+r_page_id: '483030'
+---
+
