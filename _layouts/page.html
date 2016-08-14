@@ -1,0 +1,51 @@
+ <!DOCTYPE html>
+ <html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>TITLE</title>
+  <meta name="description" content="DESCRIPTION">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+<h1>Casey is</h1>
+<main>
+<section id="reading">
+<h2>Reading</h2>
+<ul>
+  {% for r in site.reading %}
+  <li>
+    <a href="{{ r.r_url }}" class="title"><strong>{{ r.r_page_title }}</strong> {% assign domain = r.r_url | split: "/" %}</a><blockquote><p>{{ r.r_page_description }}</p></blockquote>
+    <a href="{{ r.r_url }}" class="title">{{ domain[2] | replace: "www.", "" }}</a>
+    <small>
+      <a href="http://via.hypothes.is/{{r.r_url}}">annotate</a>
+      <a href="#" onClick="javascript:q=location.href;p=document.title;void(t=open('https://pinboard.in/add?later=yes&noui=yes&jump=close&url={{ r.r_url | url_encode }}&title={{ r.r_page_title | url_encode }}','Pinboard','toolbar=no,width=100,height=100'));t.blur();">quick pin</a>
+      <a href="#" onClick="javascript:void(open('https://pinboard.in/add?showtags=yes&url={{ r.r_url | url_encode }}&title={{ r.r_page_title | url_encode }}','Pinboard','toolbar=no,scrollbars=yes,width=750,height=700'));">pin with tags</a>
+    </small>
+  </li>
+  {% endfor %}
+</ul>
+</section>
+<section id="annotating">
+<h2>Annotating</h2>
+<ul>
+  {% for a in site.annotations %}
+  <li>
+    <blockquote><p>{{ a.h_prefix | lstrip }}<a href="{{a.h_link_incontext}}"><mark>{{ a.h_exact }}</mark></a>{{ a.h_suffix }}</p></blockquote>
+    <a href="{{ a.h_link_source }}" class="title"><strong>{{ a.h_title }}</strong> {{ domain[2] | replace: "www.", "" }}</a>
+    {% if.h_tags %}<p>{{ a.h_tags }}</p>{% endif %}
+    <small>
+      {% assign domain = a.h_link_source | split: "/" %}
+      <a href="http://via.hypothes.is/{{a.h_link_source}}">annotate</a>
+      <a href="#" onClick="javascript:void(t=open('https://pinboard.in/add?later=yes&noui=yes&jump=close&url={{ a.h_link_source | url_encode }}&title={{ a.h_title | url_encode }}','Pinboard','toolbar=no,width=100,height=100'));t.blur();">quick pin</a>
+      <a href="#" onClick="javascript:void(open('https://pinboard.in/add?showtags=yes&url={{ a.h_link_source | url_encode }}&title={{ a.h_title | url_encode }}','Pinboard','toolbar=no,scrollbars=yes,width=750,height=700'));">pin with tags</a>
+    </small>
+  </li>
+  {% endfor %}
+</ul>
+</section>
+</main>
+<script src="https://use.fontawesome.com/5450ef4433.js"></script>
+</body>
+</html>
