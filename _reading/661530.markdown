@@ -1,0 +1,15 @@
+---
+title: '661530'
+r_url: https://www.theguardian.com/technology/2016/aug/15/roomba-robot-vacuum-poopocalypse-facebook-post
+r_date: 2016-08-16 02:32:56.694000000 Z
+r_wrapped_url: https://www.reading.am/p/4oDG/https://www.theguardian.com/technology/2016/aug/15/roomba-robot-vacuum-poopocalypse-facebook-post
+r_page_description: Robotic vacuum cleaner is said to run over animal feces and continue
+  its cleaning cycle around the house, spreading the mess over ‘every conceivable
+  surface’
+r_page_title: 'Roomba creator responds to reports of ‘poopocalypse’: ‘We see this
+  a lot’'
+r_title: 'Roomba creator responds to reports of ‘poopocalypse’: ‘We see this a lot’'
+r_id: '661530'
+r_page_id: '483349'
+---
+
