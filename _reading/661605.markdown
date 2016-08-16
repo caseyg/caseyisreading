@@ -1,0 +1,12 @@
+---
+title: '661605'
+r_url: http://www.nytimes.com/interactive/2015/12/29/arts/design/sound-architecture.html
+r_date: 2016-08-16 15:06:22.707000000 Z
+r_wrapped_url: https://www.reading.am/p/4oEZ/http://www.nytimes.com/interactive/2015/12/29/arts/design/sound-architecture.html
+r_page_description: Architects often don’t think about sound. Here’s why they should.
+r_page_title: 'Dear Architects: Sound Matters'
+r_title: 'Dear Architects: Sound Matters'
+r_id: '661605'
+r_page_id: '438383'
+---
+
