@@ -1,0 +1,13 @@
+---
+title: '661909'
+r_url: https://mapzen.com/blog/mapping-with-bias
+r_date: 2016-08-17 15:27:38.464000000 Z
+r_wrapped_url: https://www.reading.am/p/4oLe/https://mapzen.com/blog/mapping-with-bias
+r_page_description: I like that idea that there might be an instrument to measure
+  the motion – the velocity – of people’s understanding of place
+r_page_title: Mapping with Bias
+r_title: Mapping with Bias
+r_id: '661909'
+r_page_id: '483649'
+---
+
