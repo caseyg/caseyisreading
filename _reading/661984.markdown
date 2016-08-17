@@ -1,0 +1,11 @@
+---
+title: '661984'
+r_url: http://nickm.com/post/
+r_date: 2016-08-17 22:17:29.010000000 Z
+r_id: '661984'
+r_wrapped_url: https://www.reading.am/p/4oMw/http://nickm.com/post/
+r_page_id: '483716'
+r_page_title: Post Position
+r_title: Post Position
+---
+
