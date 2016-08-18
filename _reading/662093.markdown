@@ -1,0 +1,13 @@
+---
+title: '662093'
+r_url: http://www.slideshare.net/arnicas/mining-someone-elses-magic-world-dwarf-fortress-story-generation
+r_date: 2016-08-18 17:38:07.819000000 Z
+r_wrapped_url: https://www.reading.am/p/4oPp/http://www.slideshare.net/arnicas/mining-someone-elses-magic-world-dwarf-fortress-story-generation
+r_page_description: A talk for an "unconference" on magick in NYC, this is a talk
+  about writing story generation code for xml files exported from the game Dwarf Fortress.
+r_page_title: 'Mining Someone Else''s Magic World: Dwarf Fortress Story Generation'
+r_title: 'Mining Someone Else''s Magic World: Dwarf Fortress Story Generation'
+r_id: '662093'
+r_page_id: '435566'
+---
+

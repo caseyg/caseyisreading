@@ -1,0 +1,13 @@
+---
+title: '662094'
+r_url: https://cache9.pinboard.in/caseygollan/d01b44e110a22462384f/index.html
+r_date: 2016-08-18 17:38:17.935000000 Z
+r_wrapped_url: https://www.reading.am/p/4oPq/https://cache9.pinboard.in/caseygollan/d01b44e110a22462384f/index.html
+r_page_description: How Systems Work and Especially How They FailJohn GallIllustrated
+  by R. O. Blechman. (c) 1975 John Gall
+r_page_title: Systemantics
+r_title: Systemantics
+r_id: '662094'
+r_page_id: '483787'
+---
+
