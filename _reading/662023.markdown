@@ -1,0 +1,15 @@
+---
+title: '662023'
+r_url: https://www.youtube.com/watch?v=cKy57re_6BY
+r_date: 2016-08-18 05:43:37.401000000 Z
+r_wrapped_url: https://www.reading.am/p/4oNc/https://www.youtube.com/watch?v=cKy57re_6BY
+r_page_description: My personal  best of collection of Amiga 500 Demos and Intros
+  from 1988+. Some of them are pretty rare. Created with WinUAE. The music is not
+  processed in any way. I tried to keep it as original as possible. E.g. there's mostly
+  a hard stereo separation.
+r_page_title: Best Of Amiga Demos 1988
+r_title: Best Of Amiga Demos 1988
+r_id: '662023'
+r_page_id: '483738'
+---
+
