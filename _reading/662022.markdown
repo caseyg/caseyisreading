@@ -1,0 +1,12 @@
+---
+title: '662022'
+r_url: https://www.youtube.com/watch?v=QPtOmK9GkuA
+r_date: 2016-08-18 05:32:18.336000000 Z
+r_wrapped_url: https://www.reading.am/p/4oNb/https://www.youtube.com/watch?v=QPtOmK9GkuA
+r_page_description: Amiga Mega Demo Desert Dream by Kefrens year 1993.
+r_page_title: "{DEMOSCENE}{AMIGA} : Desert Dream by Kefrens (1993)"
+r_title: "{DEMOSCENE}{AMIGA} : Desert Dream by Kefrens (1993)"
+r_id: '662022'
+r_page_id: '483737'
+---
+
