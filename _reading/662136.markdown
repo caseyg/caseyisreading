@@ -1,0 +1,13 @@
+---
+title: '662136'
+r_url: http://nomeproject.com/exhibitions/reconnaissance
+r_date: 2016-08-18 22:51:17.909000000 Z
+r_wrapped_url: https://www.reading.am/p/4oQ9/http://nomeproject.com/exhibitions/reconnaissance
+r_page_description: NOME is pleased to present Ingrid Burrington's debut solo show
+  Reconnaissance.
+r_page_title: 'Reconnaissance  '
+r_title: 'Reconnaissance  '
+r_id: '662136'
+r_page_id: '483823'
+---
+
