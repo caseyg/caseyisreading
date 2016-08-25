@@ -1,0 +1,14 @@
+---
+title: '663440'
+r_url: http://www.curbed.com/2016/7/29/12304842/world-population-cities
+r_date: 2016-08-25 19:31:25.962000000 Z
+r_wrapped_url: https://www.reading.am/p/4pdC/http://www.curbed.com/2016/7/29/12304842/world-population-cities
+r_page_description: Alexandra Lange debunks the oft-cited statistic that 50 percent
+  of the world's population lives in cities, and makes a case for why holding on to
+  that number is harming our design discourse.
+r_page_title: The problem with believing half the world’s population lives in cities
+r_title: The problem with believing half the world’s population lives in cities
+r_id: '663440'
+r_page_id: '481830'
+---
+
