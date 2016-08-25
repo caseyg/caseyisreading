@@ -1,0 +1,13 @@
+---
+title: '663351'
+r_url: https://news.artnet.com/art-world/museum-unpaid-workers-bjork-619625
+r_date: 2016-08-25 14:26:51.832000000 Z
+r_wrapped_url: https://www.reading.am/p/4pc6/https://news.artnet.com/art-world/museum-unpaid-workers-bjork-619625
+r_page_description: London's Somerset House has drawn complaints on social media over
+  its call for unpaid workers to staff a ticketed show devoted to Björk.
+r_page_title: 'Museum Seeks Björk Volunteers for Upcoming VR Show '
+r_title: 'Museum Seeks Björk Volunteers for Upcoming VR Show '
+r_id: '663351'
+r_page_id: '484833'
+---
+
