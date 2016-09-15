@@ -1,0 +1,12 @@
+---
+title: '667588'
+r_url: https://github.com/MuseumofModernArt/collection
+r_date: 2016-09-15 18:55:35.468000000 Z
+r_wrapped_url: https://www.reading.am/p/4qs9/https://github.com/MuseumofModernArt/collection
+r_page_description: The Museum of Modern Art (MoMA) collection data
+r_page_title: collection
+r_title: collection
+r_id: '667588'
+r_page_id: '488248'
+---
+
