@@ -1,0 +1,13 @@
+---
+title: '667905'
+r_url: http://www.nytimes.com/2016/09/15/t-magazine/design/bathroom-debate-accidental-power-of-design.html
+r_date: 2016-09-16 23:23:35.304000000 Z
+r_wrapped_url: https://www.reading.am/p/4qxB/http://www.nytimes.com/2016/09/15/t-magazine/design/bathroom-debate-accidental-power-of-design.html
+r_page_description: 'Consider the current public bathroom kerfuffle: Considerations
+  for men and women may seem self-evident now, but are a relic of the Victorian era.'
+r_page_title: The Accidental Power of Design
+r_title: The Accidental Power of Design
+r_id: '667905'
+r_page_id: '488386'
+---
+
