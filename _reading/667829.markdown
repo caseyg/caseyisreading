@@ -1,0 +1,15 @@
+---
+title: '667829'
+r_url: http://interactiondesign.sva.edu/blog/2016/new-entry?platform=hootsuite
+r_date: 2016-09-16 16:51:51.410000000 Z
+r_wrapped_url: https://www.reading.am/p/4qwi/http://interactiondesign.sva.edu/blog/2016/new-entry?platform=hootsuite
+r_page_description: This year we launch our new Alumni in Residence program designed
+  to help our second year students navigate through their thesis year. We were lucky
+  enough to talk with department chair Liz Danzico, and our very first Alumni in Residence
+  Tina Ye to learn a little more.
+r_page_title: Introducing the Alumni in Residence Program - SVA MFA Interaction Design
+r_title: Introducing the Alumni in Residence Program - SVA MFA Interaction Design
+r_id: '667829'
+r_page_id: '488451'
+---
+
