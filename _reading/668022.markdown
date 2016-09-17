@@ -1,0 +1,13 @@
+---
+title: '668022'
+r_url: https://www.udacity.com/drive?utm_source=facebook&utm_medium=ads&utm_campaign=fb-ads-ML-interests-self-driving-car
+r_date: 2016-09-17 21:39:17.378000000 Z
+r_wrapped_url: https://www.reading.am/p/4qzC/https://www.udacity.com/drive?utm_source=facebook&utm_medium=ads&utm_campaign=fb-ads-ML-interests-self-driving-car
+r_page_description: Groundbreaking curriculum, cutting-edge technology, globally-recognized
+  expertise. Build the future, today. Only at Udacity.
+r_page_title: Self-Driving Car Engineer
+r_title: Self-Driving Car Engineer
+r_id: '668022'
+r_page_id: '488599'
+---
+
