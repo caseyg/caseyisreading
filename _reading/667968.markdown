@@ -1,0 +1,13 @@
+---
+title: '667968'
+r_url: https://www.fastcompany.com/3062995/mind-and-machine/how-ai-is-changing-human-resources
+r_date: 2016-09-17 11:39:23.954000000 Z
+r_wrapped_url: https://www.reading.am/p/4qyG/https://www.fastcompany.com/3062995/mind-and-machine/how-ai-is-changing-human-resources
+r_page_description: Companies including IBM, GE, and Hilton Worldwide are using algorithms
+  to screen, test, and hire new talent.
+r_page_title: How AI Is Changing Human Resources
+r_title: How AI Is Changing Human Resources
+r_id: '667968'
+r_page_id: '488554'
+---
+
