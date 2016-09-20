@@ -1,0 +1,13 @@
+---
+title: '668625'
+r_url: https://www.propublica.org/article/amazon-says-it-puts-customers-first-but-its-pricing-algorithm-doesnt
+r_date: 2016-09-20 17:07:23.569000000 Z
+r_wrapped_url: https://www.reading.am/p/4qL2/https://www.propublica.org/article/amazon-says-it-puts-customers-first-but-its-pricing-algorithm-doesnt
+r_page_description: Amazon bills itself as “Earth’s most customer-centric company.”
+  Yet its algorithm is hiding the best deal from many customers.
+r_page_title: Amazon Says It Puts Customers First. But Its Pricing Algorithm Doesn’t.
+r_title: Amazon Says It Puts Customers First. But Its Pricing Algorithm Doesn’t.
+r_id: '668625'
+r_page_id: '489045'
+---
+
