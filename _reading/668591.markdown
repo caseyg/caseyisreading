@@ -1,0 +1,15 @@
+---
+title: '668591'
+r_url: http://www.aaronland.info/weblog/2016/09/18/marshmallows/#iiif
+r_date: 2016-09-20 15:04:11.860000000 Z
+r_wrapped_url: https://www.reading.am/p/4qKr/http://www.aaronland.info/weblog/2016/09/18/marshmallows/#iiif
+r_page_description: For a whole bunch of reasons I've found myself thinking about
+  the International Image Interoperability Framework which is often just referred
+  to as IIIF, lately. If you've never heard of IIIF it is a standard developed principally
+  by the library...
+r_page_title: "[this is aaronland] sea marshmallows"
+r_title: "[this is aaronland] sea marshmallows"
+r_id: '668591'
+r_page_id: '489014'
+---
+
