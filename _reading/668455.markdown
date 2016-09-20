@@ -1,0 +1,15 @@
+---
+title: '668455'
+r_url: https://en.wikipedia.org/wiki/Colourbox
+r_date: 2016-09-20 03:04:37.606000000 Z
+r_wrapped_url: https://www.reading.am/p/4qH6/https://en.wikipedia.org/wiki/Colourbox
+r_page_description: Colourbox were an English electronic musical group on the 4AD
+  label, releasing a number of records between 1982 and 1987. The band was formed
+  by musicians brothers' Martyn and Steve Young and Ian Robbins, along with vocalist
+  Debian Curry. Curry...
+r_page_title: Colourbox - Wikipedia, the free encyclopedia
+r_title: Colourbox - Wikipedia, the free encyclopedia
+r_id: '668455'
+r_page_id: '488936'
+---
+
