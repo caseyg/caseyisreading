@@ -1,0 +1,14 @@
+---
+title: '668626'
+r_url: https://www.propublica.org/article/how-we-analyzed-amazons-shopping-algorithm
+r_date: 2016-09-20 17:08:49.759000000 Z
+r_wrapped_url: https://www.reading.am/p/4qL3/https://www.propublica.org/article/how-we-analyzed-amazons-shopping-algorithm
+r_page_description: We examined the listings for 250 bestselling products across a
+  wide range of categories, from electronics to household supplies, over a period
+  of several weeks this summer.
+r_page_title: How We Analyzed Amazon’s Shopping Algorithm
+r_title: How We Analyzed Amazon’s Shopping Algorithm
+r_id: '668626'
+r_page_id: '489046'
+---
+
