@@ -1,0 +1,12 @@
+---
+title: '668975'
+r_url: https://staticman.net/
+r_date: 2016-09-21 21:45:56.874000000 Z
+r_wrapped_url: https://www.reading.am/p/4qS4/https://staticman.net/
+r_page_description: I bring user-generated content to static sites
+r_page_title: Staticman
+r_title: Staticman
+r_id: '668975'
+r_page_id: '489318'
+---
+
