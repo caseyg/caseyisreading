@@ -1,0 +1,14 @@
+---
+title: '669092'
+r_url: http://www.wnyc.org/story/tale-two-newsfeeds-police-shootings-and-brangelina/
+r_date: 2016-09-22 14:26:43.414000000 Z
+r_wrapped_url: https://www.reading.am/p/4qU5/http://www.wnyc.org/story/tale-two-newsfeeds-police-shootings-and-brangelina/
+r_page_description: Have you ever looked at your social media feeds and thought, wow,
+  people are consuming this news moment in entirely different ways? Listen to a tale
+  of two newsfeeds.
+r_page_title: 'A Tale of Two Newsfeeds: Police Shootings and Brangelina'
+r_title: 'A Tale of Two Newsfeeds: Police Shootings and Brangelina'
+r_id: '669092'
+r_page_id: '489394'
+---
+
