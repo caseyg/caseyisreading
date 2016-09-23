@@ -1,0 +1,14 @@
+---
+title: '669398'
+r_url: http://www.wsj.com/articles/facebook-overestimated-key-video-metric-for-two-years-1474586951
+r_date: 2016-09-23 17:25:05.842000000 Z
+r_wrapped_url: https://www.reading.am/p/4qZm/http://www.wsj.com/articles/facebook-overestimated-key-video-metric-for-two-years-1474586951
+r_page_description: Ad buyers and marketers are upset with Facebook after learning
+  the tech giant miscalculated the average time people spent watching video ads on
+  its platform.
+r_page_title: Facebook Overestimated Key Video Metric for Two Years
+r_title: Facebook Overestimated Key Video Metric for Two Years
+r_id: '669398'
+r_page_id: '489551'
+---
+
