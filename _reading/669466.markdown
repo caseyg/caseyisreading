@@ -1,0 +1,13 @@
+---
+title: '669466'
+r_url: http://www.wnyc.org/story/book-train-finds-its-station-new-york-public-library/
+r_date: 2016-09-23 23:45:53.348000000 Z
+r_wrapped_url: https://www.reading.am/p/4r1w/http://www.wnyc.org/story/book-train-finds-its-station-new-york-public-library/
+r_page_description: Here comes the Book Train, the New York Public Library's newest
+  way to streamline book delivery.
+r_page_title: Book Train Finds Its Station at the New York Public Library
+r_title: Book Train Finds Its Station at the New York Public Library
+r_id: '669466'
+r_page_id: '489700'
+---
+
