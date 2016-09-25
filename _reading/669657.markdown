@@ -1,0 +1,13 @@
+---
+title: '669657'
+r_url: https://theintercept.com/2016/09/24/a-walking-tour-of-new-yorks-massive-surveillance-network/
+r_date: 2016-09-25 16:27:56.860000000 Z
+r_wrapped_url: https://www.reading.am/p/4r4P/https://theintercept.com/2016/09/24/a-walking-tour-of-new-yorks-massive-surveillance-network/
+r_page_description: A new “field guide” by Ingrid Burrington makes visible the infrastructure
+  of surveillance in New York, and explains the money and politics behind it.
+r_page_title: A Walking Tour of New York’s Massive Surveillance Network
+r_title: A Walking Tour of New York’s Massive Surveillance Network
+r_id: '669657'
+r_page_id: '489850'
+---
+
