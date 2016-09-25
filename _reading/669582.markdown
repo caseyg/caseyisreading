@@ -1,0 +1,14 @@
+---
+title: '669582'
+r_url: https://en.wikipedia.org/wiki/Auroville
+r_date: 2016-09-25 00:44:05.460000000 Z
+r_wrapped_url: https://www.reading.am/p/4r3w/https://en.wikipedia.org/wiki/Auroville
+r_page_description: Auroville (City of Dawn) is an experimental township in Viluppuram
+  district mostly in the state of Tamil Nadu, India with some parts in the Union Territory
+  of Puducherry in South India.[1] It was founded in 1968 by Mirra Alfassa (known...
+r_page_title: Auroville - Wikipedia, the free encyclopedia
+r_title: Auroville - Wikipedia, the free encyclopedia
+r_id: '669582'
+r_page_id: '489803'
+---
+
