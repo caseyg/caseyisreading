@@ -1,0 +1,13 @@
+---
+title: '670511'
+r_url: http://www.sapiens.org/
+r_date: 2016-09-29 20:37:58.102000000 Z
+r_wrapped_url: https://www.reading.am/p/4rjx/http://www.sapiens.org/
+r_page_description: SAPIENS, an editorially independent publication of the Wenner-Gren
+  Foundation, is dedicated to popularizing anthropology to a broad audience.
+r_page_title: SAPIENS - Anthropology / Everything Human
+r_title: SAPIENS - Anthropology / Everything Human
+r_id: '670511'
+r_page_id: '490498'
+---
+
