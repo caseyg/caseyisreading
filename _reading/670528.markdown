@@ -1,0 +1,15 @@
+---
+title: '670528'
+r_url: http://cloud.googleblog.com/2016/09/all-together-now-introducing-G-Suite.html
+r_date: 2016-09-29 21:44:34.450000000 Z
+r_wrapped_url: https://www.reading.am/p/4rjQ/http://cloud.googleblog.com/2016/09/all-together-now-introducing-G-Suite.html
+r_page_description: Posted by Kelly Campbell, Senior Director of G Suite Marketing,
+  Google Cloud All around the world, businesses are filling up with busyness. Employees
+  today are more plugged-in than ever before, but technology too often gets in the
+  way of turning...
+r_page_title: All together now. Introducing G Suite.
+r_title: All together now. Introducing G Suite.
+r_id: '670528'
+r_page_id: '490513'
+---
+

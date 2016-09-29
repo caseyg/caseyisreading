@@ -1,0 +1,15 @@
+---
+title: '670529'
+r_url: http://cloud.googleblog.com/2016/09/intelligent-tools-built-for-teams.html
+r_date: 2016-09-29 21:44:45.933000000 Z
+r_wrapped_url: https://www.reading.am/p/4rjR/http://cloud.googleblog.com/2016/09/intelligent-tools-built-for-teams.html
+r_page_description: Posted by Prabhakar Raghavan, Vice President Apps, Google Cloud
+  Research shows that each week we spend the equivalent of three work days on common
+  tasks like emailing, scheduling and attending meetings and gathering information,
+  and only two work days on...
+r_page_title: 'G Suite: intelligent tools designed for teams'
+r_title: 'G Suite: intelligent tools designed for teams'
+r_id: '670529'
+r_page_id: '490514'
+---
+
