@@ -1,0 +1,15 @@
+---
+title: '670547'
+r_url: https://en.wikipedia.org/wiki/Fire_Emblem
+r_date: 2016-09-29 23:54:50.126000000 Z
+r_wrapped_url: https://www.reading.am/p/4rka/https://en.wikipedia.org/wiki/Fire_Emblem
+r_page_description: Fire Emblem (ファイアーエムブレム, Faiā Emuburemu?) is a tactical role-playing
+  video game franchise developed by Intelligent Systems and published by Nintendo.
+  First produced and published for the Family Computer (Famicom), the series currently
+  consists of fifteen games, including remakes, across multiple...
+r_page_title: Fire Emblem - Wikipedia, the free encyclopedia
+r_title: Fire Emblem - Wikipedia, the free encyclopedia
+r_id: '670547'
+r_page_id: '490530'
+---
+
