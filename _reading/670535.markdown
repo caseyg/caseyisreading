@@ -1,0 +1,16 @@
+---
+title: '670535'
+r_url: http://www.adweek.com/news/technology/retailers-can-now-request-uber-drop-customers-right-front-their-stores-173763
+r_date: 2016-09-29 22:03:55.608000000 Z
+r_wrapped_url: https://www.reading.am/p/4rjX/http://www.adweek.com/news/technology/retailers-can-now-request-uber-drop-customers-right-front-their-stores-173763
+r_page_description: Holiday shopping is just about to kick into gear, and brands now
+  have one more app to consider for marketing this year—Uber. Today the ride-hailing
+  app is partnering with location-data company Yext to let brands create in-app campaigns.
+r_page_title: Retailers Can Now Request That Uber Drop Off Customers Right in Front
+  of Their Stores
+r_title: Retailers Can Now Request That Uber Drop Off Customers Right in Front of
+  Their Stores
+r_id: '670535'
+r_page_id: '490519'
+---
+
