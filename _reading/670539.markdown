@@ -1,0 +1,12 @@
+---
+title: '670539'
+r_url: http://www.recode.net/2016/9/28/13095218/twitter-moments-open-all-users
+r_date: 2016-09-29 22:27:01.123000000 Z
+r_wrapped_url: https://www.reading.am/p/4rk2/http://www.recode.net/2016/9/28/13095218/twitter-moments-open-all-users
+r_page_description: More Moments = more content.
+r_page_title: Anyone on Twitter can now create a Moment
+r_title: Anyone on Twitter can now create a Moment
+r_id: '670539'
+r_page_id: '490523'
+---
+
