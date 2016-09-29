@@ -1,0 +1,13 @@
+---
+title: '670524'
+r_url: http://www.citylab.com/tech/2016/09/londons-recent-past-collides-in-apples-new-uk-headquarters/502037/
+r_date: 2016-09-29 21:09:41.452000000 Z
+r_wrapped_url: https://www.reading.am/p/4rjL/http://www.citylab.com/tech/2016/09/londons-recent-past-collides-in-apples-new-uk-headquarters/502037/
+r_page_description: At Battersea Power Station, once a rock icon, techies and plutocrats
+  will play where pigs once flew.
+r_page_title: Apple's New London HQ Couldn't Be More Perfect
+r_title: Apple's New London HQ Couldn't Be More Perfect
+r_id: '670524'
+r_page_id: '490489'
+---
+
