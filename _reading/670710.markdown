@@ -1,0 +1,15 @@
+---
+title: '670710'
+r_url: https://en.wikipedia.org/wiki/Service_design
+r_date: 2016-09-30 19:40:05.637000000 Z
+r_wrapped_url: https://www.reading.am/p/4rnY/https://en.wikipedia.org/wiki/Service_design
+r_page_description: Service design is a form of conceptual design that involves the
+  activity of planning and organizing people, infrastructure, communication and material
+  components of a service in order to improve its quality and the interaction between
+  the service provider and its...
+r_page_title: Service design - Wikipedia, the free encyclopedia
+r_title: Service design - Wikipedia, the free encyclopedia
+r_id: '670710'
+r_page_id: '490669'
+---
+
