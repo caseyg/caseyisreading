@@ -1,0 +1,13 @@
+---
+title: '670816'
+r_url: http://cooper.edu/about/news/architecture-archive-awarded-grant
+r_date: 2016-10-01 13:22:41.340000000 Z
+r_wrapped_url: https://www.reading.am/p/4rpN/http://cooper.edu/about/news/architecture-archive-awarded-grant
+r_page_description: The Irwin S. Chanin School of Architecture Archive was awarded
+  a federal grant to digitize its Student Work Collection
+r_page_title: Architecture Archive Awarded Grant
+r_title: Architecture Archive Awarded Grant
+r_id: '670816'
+r_page_id: '490769'
+---
+
