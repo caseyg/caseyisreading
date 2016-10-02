@@ -1,0 +1,16 @@
+---
+title: '671069'
+r_url: http://blog.stephenwolfram.com/2016/05/solomon-golomb-19322016/
+r_date: 2016-10-02 20:14:42.762000000 Z
+r_wrapped_url: https://www.reading.am/p/4rua/http://blog.stephenwolfram.com/2016/05/solomon-golomb-19322016/
+r_page_description: The Most-Used Mathematical Algorithm Idea in History An octillion.
+  A billion billion billion. That’s a fairly conservative estimate of the number of
+  times a cellphone or other device somewhere in the world has generated a bit using
+  a maximum-length linear-feedback shift register sequence. It’s probably the single
+  most-used mathematical algorithm idea in history. And the…
+r_page_title: Solomon Golomb (1932–2016)
+r_title: Solomon Golomb (1932–2016)
+r_id: '671069'
+r_page_id: '470189'
+---
+
