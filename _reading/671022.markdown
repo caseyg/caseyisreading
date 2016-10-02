@@ -1,0 +1,15 @@
+---
+title: '671022'
+r_url: https://habitica.com/static/front
+r_date: 2016-10-02 18:45:56.641000000 Z
+r_wrapped_url: https://www.reading.am/p/4rtm/https://habitica.com/static/front
+r_page_description: Habitica is a free habit building and productivity app that treats
+  your real life like a game. With in-game rewards and punishments to motivate you
+  and a strong social network to inspire you, Habitica can help you achieve your goals
+  to become healthy, hard-working, and happy.
+r_page_title: 'Habitica: Your Life the Role Playing Game'
+r_title: 'Habitica: Your Life the Role Playing Game'
+r_id: '671022'
+r_page_id: '490935'
+---
+
