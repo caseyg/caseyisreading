@@ -1,0 +1,12 @@
+---
+title: '671254'
+r_url: http://worldbrain.arte.tv/#/
+r_date: 2016-10-03 18:58:35.417000000 Z
+r_wrapped_url: https://www.reading.am/p/4rxm/http://worldbrain.arte.tv/#/
+r_page_description: Map
+r_page_title: http://worldbrain.arte.tv/#/
+r_title: http://worldbrain.arte.tv/#/
+r_id: '671254'
+r_page_id: '491134'
+---
+
