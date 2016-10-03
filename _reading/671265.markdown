@@ -1,0 +1,12 @@
+---
+title: '671265'
+r_url: http://selfcare.tech/
+r_date: 2016-10-03 20:34:24.275000000 Z
+r_wrapped_url: https://www.reading.am/p/4rxx/http://selfcare.tech/
+r_page_description: ''
+r_page_title: selfcare.tech - developer resources for self-care
+r_title: selfcare.tech - developer resources for self-care
+r_id: '671265'
+r_page_id: '488174'
+---
+

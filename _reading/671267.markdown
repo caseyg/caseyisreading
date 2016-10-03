@@ -1,0 +1,15 @@
+---
+title: '671267'
+r_url: https://en.wikipedia.org/wiki/Meritocracy
+r_date: 2016-10-03 20:43:11.822000000 Z
+r_wrapped_url: https://www.reading.am/p/4rxz/https://en.wikipedia.org/wiki/Meritocracy
+r_page_description: Meritocracy (merit, from Latin mereō "I earn" and -cracy, from
+  Ancient Greek κράτος kratos "strength, power") is a political philosophy holding
+  that power should be vested in individuals almost exclusively based on ability and
+  talent.[1] Advancement in such a system...
+r_page_title: Meritocracy - Wikipedia, the free encyclopedia
+r_title: Meritocracy - Wikipedia, the free encyclopedia
+r_id: '671267'
+r_page_id: '491146'
+---
+
