@@ -1,0 +1,13 @@
+---
+title: '671249'
+r_url: http://www.hanoverresearch.com/
+r_date: 2016-10-03 18:45:57.906000000 Z
+r_wrapped_url: https://www.reading.am/p/4rxg/http://www.hanoverresearch.com/
+r_page_description: A full-service market research firm providing custom insights
+  that help businesses make better, more informed decisions.
+r_page_title: Home
+r_title: Home
+r_id: '671249'
+r_page_id: '491128'
+---
+
