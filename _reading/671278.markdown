@@ -1,0 +1,16 @@
+---
+title: '671278'
+r_url: http://diakron.dk/organisation
+r_date: 2016-10-03 22:32:31.536000000 Z
+r_wrapped_url: https://www.reading.am/p/4rxL/http://diakron.dk/organisation
+r_page_description: Diakron is a platform and studio for transdisciplinary research
+  and practice. We are located in Amager, Copenhagen. We establish collaborations
+  across disciplinary backgrounds and institutional frameworks. Our own backgrounds
+  are composed of experiences from artistic practices, curatorial practices, social
+  sciences...
+r_page_title: Diakron
+r_title: Diakron
+r_id: '671278'
+r_page_id: '491157'
+---
+
