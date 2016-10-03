@@ -1,0 +1,12 @@
+---
+title: '671118'
+r_url: https://natecraun.net/articles/linux-guide-to-book-scanning.html
+r_date: 2016-10-03 00:25:36.527000000 Z
+r_wrapped_url: https://www.reading.am/p/4rv1/https://natecraun.net/articles/linux-guide-to-book-scanning.html
+r_page_description: Posted 2013-07-27
+r_page_title: A Linux Guide to Book Scanning
+r_title: A Linux Guide to Book Scanning
+r_id: '671118'
+r_page_id: '491018'
+---
+
