@@ -1,0 +1,13 @@
+---
+title: '671459'
+r_url: https://mitpress.mit.edu/books/obfuscation
+r_date: 2016-10-04 22:48:11.883000000 Z
+r_wrapped_url: https://www.reading.am/p/4rAT/https://mitpress.mit.edu/books/obfuscation
+r_page_description: How we can evade, protest, and sabotage today’s pervasive digital
+  surveillance by deploying more data, not less—and why we should.
+r_page_title: Obfuscation
+r_title: Obfuscation
+r_id: '671459'
+r_page_id: '491303'
+---
+
