@@ -1,0 +1,13 @@
+---
+title: '671408'
+r_url: http://dfkoz.com/nyc-tech/
+r_date: 2016-10-04 15:56:40.989000000 Z
+r_wrapped_url: https://www.reading.am/p/4rA1/http://dfkoz.com/nyc-tech/
+r_page_description: List of New York City tech startups and jobs. Use this database
+  of hot NYC companies if you are interested in a career in tech.
+r_page_title: Find a Job at an NYC Startup - List of New York Startups that are Hiring
+r_title: Find a Job at an NYC Startup - List of New York Startups that are Hiring
+r_id: '671408'
+r_page_id: '491260'
+---
+
