@@ -1,0 +1,12 @@
+---
+title: '671759'
+r_url: http://www.centerforthehumanities.org/programming/on-indigenous-art
+r_date: 2016-10-06 04:27:25.239000000 Z
+r_wrapped_url: https://www.reading.am/p/4rG4/http://www.centerforthehumanities.org/programming/on-indigenous-art
+r_page_description: About the event
+r_page_title: Scales of Visibility in Global Indigenous Art
+r_title: Scales of Visibility in Global Indigenous Art
+r_id: '671759'
+r_page_id: '491529'
+---
+
