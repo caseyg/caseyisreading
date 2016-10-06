@@ -1,0 +1,13 @@
+---
+title: '671813'
+r_url: https://en.wikipedia.org/wiki/Grey_Poupon
+r_date: 2016-10-06 15:07:34.218000000 Z
+r_wrapped_url: https://www.reading.am/p/4rGZ/https://en.wikipedia.org/wiki/Grey_Poupon
+r_page_description: Grey Poupon is a brand of whole-grain mustard and Dijon mustard
+  which originated in Dijon, France.[1]
+r_page_title: Grey Poupon - Wikipedia, the free encyclopedia
+r_title: Grey Poupon - Wikipedia, the free encyclopedia
+r_id: '671813'
+r_page_id: '491570'
+---
+
