@@ -1,0 +1,15 @@
+---
+title: '671794'
+r_url: https://explosion.ai/blog/displacy-ent-named-entity-visualizer
+r_date: 2016-10-06 13:28:50.667000000 Z
+r_wrapped_url: https://www.reading.am/p/4rGE/https://explosion.ai/blog/displacy-ent-named-entity-visualizer
+r_page_description: Named Entity Recognition is a crucial technology for NLP. Whatever
+  you're doing with text, you usually want to handle names, numbers, dates and other
+  entities differently from regular words. To help you make use of NER, we've released
+  displaCy-ent.js. This post explains how the library works, and how to use it.
+r_page_title: An open-source named entity visualiser for the modern web
+r_title: An open-source named entity visualiser for the modern web
+r_id: '671794'
+r_page_id: '491559'
+---
+
