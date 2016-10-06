@@ -1,0 +1,14 @@
+---
+title: '671730'
+r_url: https://www.propublica.org/podcast/item/how-a-reporter-pierced-the-hype-behind-theranos
+r_date: 2016-10-06 03:00:28.088000000 Z
+r_wrapped_url: https://www.reading.am/p/4rFy/https://www.propublica.org/podcast/item/how-a-reporter-pierced-the-hype-behind-theranos
+r_page_description: 'Podcast: Wall Street Journal reporter John Carreyrou tells ProPublica''s
+  Charles Ornstein about the fallout from his report that a blood-testing company’s
+  bold claims outpaced its actual science.'
+r_page_title: How a Reporter Pierced the Hype Behind Theranos
+r_title: How a Reporter Pierced the Hype Behind Theranos
+r_id: '671730'
+r_page_id: '491504'
+---
+
