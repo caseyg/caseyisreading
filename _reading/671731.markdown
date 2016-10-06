@@ -1,0 +1,14 @@
+---
+title: '671731'
+r_url: https://www.wired.com/2016/10/new-google-hardware-trojan-horse-ai/
+r_date: 2016-10-06 03:01:32.021000000 Z
+r_wrapped_url: https://www.reading.am/p/4rFz/https://www.wired.com/2016/10/new-google-hardware-trojan-horse-ai/
+r_page_description: Five years ago, experts thought the phone would be the interface
+  to everything. That's not the case anymore. The post All That New Google Hardware?
+  It's a Trojan Horse for AI appeared first on WIRED.
+r_page_title: All That New Google Hardware? It’s a Trojan Horse for AI
+r_title: All That New Google Hardware? It’s a Trojan Horse for AI
+r_id: '671731'
+r_page_id: '491505'
+---
+
