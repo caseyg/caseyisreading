@@ -1,0 +1,13 @@
+---
+title: '671796'
+r_url: http://www.cnn.com/2016/08/01/health/elizabeth-holmes-theranos-rise-fall/index.html
+r_date: 2016-10-06 13:37:38.343000000 Z
+r_wrapped_url: https://www.reading.am/p/4rGG/http://www.cnn.com/2016/08/01/health/elizabeth-holmes-theranos-rise-fall/index.html
+r_page_description: Elizabeth Holmes speaks to CNN's Dr. Sanjay Gupta about the past
+  and future of her blood testing startup.
+r_page_title: Theranos CEO speaks on its rise and fall
+r_title: Theranos CEO speaks on its rise and fall
+r_id: '671796'
+r_page_id: '491561'
+---
+
