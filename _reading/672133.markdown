@@ -1,0 +1,13 @@
+---
+title: '672133'
+r_url: https://frieze.com/article/ideascity-athens
+r_date: 2016-10-07 22:52:54.658000000 Z
+r_wrapped_url: https://www.reading.am/p/4rNv/https://frieze.com/article/ideascity-athens
+r_page_description: A report from the residency and conference asking how art and
+  artists should engage in places of political or economic instability
+r_page_title: IdeasCity Athens
+r_title: IdeasCity Athens
+r_id: '672133'
+r_page_id: '491844'
+---
+
