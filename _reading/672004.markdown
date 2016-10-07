@@ -1,0 +1,13 @@
+---
+title: '672004'
+r_url: https://www.publitas.com/
+r_date: 2016-10-07 15:23:31.731000000 Z
+r_wrapped_url: https://www.reading.am/p/4rLh/https://www.publitas.com/
+r_page_description: Easily publish your PDFs online and turn them into beautiful,
+  online publications that work on any device.
+r_page_title: 'Publitas: Turn Your PDFs Into Beautiful Online Publications'
+r_title: 'Publitas: Turn Your PDFs Into Beautiful Online Publications'
+r_id: '672004'
+r_page_id: '491725'
+---
+
