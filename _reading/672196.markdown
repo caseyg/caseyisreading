@@ -1,0 +1,14 @@
+---
+title: '672196'
+r_url: http://www.nytimes.com/2016/10/08/nyregion/president-city-college-quits.html
+r_date: 2016-10-08 14:43:06.384000000 Z
+r_wrapped_url: https://www.reading.am/p/4rPA/http://www.nytimes.com/2016/10/08/nyregion/president-city-college-quits.html
+r_page_description: The administrator, Lisa S. Coico, announced her resignation a
+  day after The New York Times contacted officials with questions about the handling
+  of more than $150,000 of her personal expenses.
+r_page_title: President of City College Quits Abruptly Amid Scrutiny of Her Finances
+r_title: President of City College Quits Abruptly Amid Scrutiny of Her Finances
+r_id: '672196'
+r_page_id: '491886'
+---
+
