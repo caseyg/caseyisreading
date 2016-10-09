@@ -1,0 +1,13 @@
+---
+title: '672349'
+r_url: http://idlewords.com/talks/deep_fried_data.htm
+r_date: 2016-10-09 16:31:58.252000000 Z
+r_wrapped_url: https://www.reading.am/p/4rSe/http://idlewords.com/talks/deep_fried_data.htm
+r_page_description: This is the text version of a talk I gave on September 27, 2016,
+  at the Collections as Data event at the Library of Congress.  [video] (21 mins)
+r_page_title: http://idlewords.com/talks/deep_fried_data.htm
+r_title: http://idlewords.com/talks/deep_fried_data.htm
+r_id: '672349'
+r_page_id: '490998'
+---
+

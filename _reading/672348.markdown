@@ -1,0 +1,15 @@
+---
+title: '672348'
+r_url: http://www.vox.com/new-money/2016/10/3/13076152/silicon-valley-disruption-slow
+r_date: 2016-10-09 16:31:49.648000000 Z
+r_wrapped_url: https://www.reading.am/p/4rSd/http://www.vox.com/new-money/2016/10/3/13076152/silicon-valley-disruption-slow
+r_page_description: Silicon Valley gurus think software can disrupt any industry.
+  Here's what they're missing.
+r_page_title: Why the next 20 years will see a lot less technological disruption than
+  the past 20
+r_title: Why the next 20 years will see a lot less technological disruption than the
+  past 20
+r_id: '672348'
+r_page_id: '492004'
+---
+
