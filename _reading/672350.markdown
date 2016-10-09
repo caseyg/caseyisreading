@@ -1,0 +1,15 @@
+---
+title: '672350'
+r_url: http://www.cjr.org/tow_center_reports/constructive_technology_criticism.php
+r_date: 2016-10-09 16:32:09.674000000 Z
+r_wrapped_url: https://www.reading.am/p/4rSf/http://www.cjr.org/tow_center_reports/constructive_technology_criticism.php
+r_page_description: "“This is a work of criticism. If it were literary criticism,
+  everyone would immediately understand the underlying purpose is positive. A critic
+  of literature examines a work, analyzing its features, evaluating its qualities,
+  seeking a deeper appreciation that..."
+r_page_title: Toward a Constructive Technology Criticism
+r_title: Toward a Constructive Technology Criticism
+r_id: '672350'
+r_page_id: '491460'
+---
+
