@@ -1,0 +1,14 @@
+---
+title: '672347'
+r_url: https://www.propublica.org/article/breaking-the-black-box-when-algorithms-decide-what-you-pay/
+r_date: 2016-10-09 16:31:31.918000000 Z
+r_wrapped_url: https://www.reading.am/p/4rSc/https://www.propublica.org/article/breaking-the-black-box-when-algorithms-decide-what-you-pay/
+r_page_description: The phone you use, the computer you own and the ZIP code you live
+  in can all be factors in what prices you see when shopping online. Welcome to the
+  world of mass customization.
+r_page_title: 'Breaking the Black Box: When Algorithms Decide What You Pay'
+r_title: 'Breaking the Black Box: When Algorithms Decide What You Pay'
+r_id: '672347'
+r_page_id: '492003'
+---
+

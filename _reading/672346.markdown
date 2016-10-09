@@ -1,0 +1,17 @@
+---
+title: '672346'
+r_url: http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot
+r_date: 2016-10-09 16:31:08.089000000 Z
+r_wrapped_url: https://www.reading.am/p/4rSb/http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot
+r_page_description: When the engineers had at last finished their work, Eugenia Kuyda
+  opened a console on her laptop and began to type. “Roman,” she wrote. “This is your
+  digital monument.” It had been three months since Roman Mazurenko, Kuyda’s closest
+  friend, had died. Kuyda had spent...
+r_page_title: When her best friend died, she used artificial intelligence to keep
+  talking to him
+r_title: When her best friend died, she used artificial intelligence to keep talking
+  to him
+r_id: '672346'
+r_page_id: '491831'
+---
+
