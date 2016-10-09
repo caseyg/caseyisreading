@@ -1,0 +1,14 @@
+---
+title: '672483'
+r_url: https://ethicalweb.org/
+r_date: 2016-10-09 23:22:03.749000000 Z
+r_wrapped_url: https://www.reading.am/p/4rUx/https://ethicalweb.org/
+r_page_description: Ethical Web Development will be a series of short digital books
+  that explore the ethics of practical development topics. The books will be released
+  throughout 2016 and early 2017 as free downloads from O'Reilly.
+r_page_title: Ethical Web Development
+r_title: Ethical Web Development
+r_id: '672483'
+r_page_id: '492117'
+---
+
