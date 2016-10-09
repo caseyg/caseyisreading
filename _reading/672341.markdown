@@ -1,0 +1,13 @@
+---
+title: '672341'
+r_url: http://www.nytimes.com/2016/10/09/opinion/sunday/when-the-hurricane-hits-texas.html
+r_date: 2016-10-09 16:08:06.022000000 Z
+r_wrapped_url: https://www.reading.am/p/4rS6/http://www.nytimes.com/2016/10/09/opinion/sunday/when-the-hurricane-hits-texas.html
+r_page_description: The petrochemical industry from Galveston to Houston is an environmental
+  catastrophe waiting to happen.
+r_page_title: When the Next Hurricane Hits Texas
+r_title: When the Next Hurricane Hits Texas
+r_id: '672341'
+r_page_id: '491998'
+---
+
