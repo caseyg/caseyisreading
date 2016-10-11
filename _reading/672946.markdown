@@ -1,0 +1,15 @@
+---
+title: '672946'
+r_url: https://en.wikipedia.org/wiki/Participant_observation
+r_date: 2016-10-11 19:08:21.413000000 Z
+r_wrapped_url: https://www.reading.am/p/4s3w/https://en.wikipedia.org/wiki/Participant_observation
+r_page_description: Participant observation is one type of data collection method
+  typically used in qualitative research. It is a widely used methodology in many
+  disciplines, particularly cultural anthropology and (European) ethnology, less so
+  in sociology, communication studies, human geography and social psychology....
+r_page_title: Participant observation - Wikipedia, the free encyclopedia
+r_title: Participant observation - Wikipedia, the free encyclopedia
+r_id: '672946'
+r_page_id: '492511'
+---
+
