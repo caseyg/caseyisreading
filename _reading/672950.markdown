@@ -1,0 +1,15 @@
+---
+title: '672950'
+r_url: https://mitpress.mit.edu/books/sorting-things-out
+r_date: 2016-10-11 19:28:13.376000000 Z
+r_wrapped_url: https://www.reading.am/p/4s3A/https://mitpress.mit.edu/books/sorting-things-out
+r_page_description: "“This book provides a tool to help all of us -- from designers
+  of technical systems to users of e-mail -- understand and knowledgeably influence
+  the infrastructures that shape our lives.”—JoAnne Yates, Professor of Communication,
+  Information, and Organization Studies, Sloan..."
+r_page_title: Sorting Things Out
+r_title: Sorting Things Out
+r_id: '672950'
+r_page_id: '492515'
+---
+
