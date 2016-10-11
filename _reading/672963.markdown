@@ -1,0 +1,12 @@
+---
+title: '672963'
+r_url: http://software.arts.ucla.edu/
+r_date: 2016-10-11 20:46:56.030000000 Z
+r_wrapped_url: https://www.reading.am/p/4s3P/http://software.arts.ucla.edu/
+r_page_description: ''
+r_page_title: UCLA ARTS S0FTWARE STUDI0
+r_title: UCLA ARTS S0FTWARE STUDI0
+r_id: '672963'
+r_page_id: '492524'
+---
+
