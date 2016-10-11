@@ -1,0 +1,15 @@
+---
+title: '672964'
+r_url: http://blog.sfpc.io/post/151670554466/fall-2016-students
+r_date: 2016-10-11 20:54:49.398000000 Z
+r_wrapped_url: https://www.reading.am/p/4s3Q/http://blog.sfpc.io/post/151670554466/fall-2016-students
+r_page_description: We are excited to announce new students for Fall 2016 session
+  at SFPC. Baku HashimotoBorn in 1992. After dropping out of Musashino Art University,
+  he has worked in the fields of music videos, web design, installation, and experimental
+  visual computing. He...
+r_page_title: Fall 2016 Students
+r_title: Fall 2016 Students
+r_id: '672964'
+r_page_id: '492525'
+---
+
