@@ -1,0 +1,12 @@
+---
+title: '672944'
+r_url: http://rhizome.org/editorial/2016/oct/11/hiring-developer-generalist/
+r_date: 2016-10-11 18:28:52.498000000 Z
+r_wrapped_url: https://www.reading.am/p/4s3u/http://rhizome.org/editorial/2016/oct/11/hiring-developer-generalist/
+r_page_description: Proven ability to find, share interesting links a plus.
+r_page_title: Rhizome is Hiring a Talented Developer Generalist
+r_title: Rhizome is Hiring a Talented Developer Generalist
+r_id: '672944'
+r_page_id: '492509'
+---
+
