@@ -1,0 +1,15 @@
+---
+title: '673052'
+r_url: https://en.wikipedia.org/wiki/Jack_Ma
+r_date: 2016-10-12 03:44:45.476000000 Z
+r_wrapped_url: https://www.reading.am/p/4s5m/https://en.wikipedia.org/wiki/Jack_Ma
+r_page_description: 'Ma Yun (Chinese: 马云, Mandarin pronunciation: [mǎ yún]; born September
+  10, 1964),[3] known professionally as Jack Ma, is a Chinese business magnate who
+  is the founder and executive chairman of Alibaba Group, a family of successful Internet-based
+  businesses. He is the...'
+r_page_title: Jack Ma - Wikipedia, the free encyclopedia
+r_title: Jack Ma - Wikipedia, the free encyclopedia
+r_id: '673052'
+r_page_id: '492593'
+---
+
