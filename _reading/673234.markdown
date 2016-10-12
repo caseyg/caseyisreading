@@ -1,0 +1,15 @@
+---
+title: '673234'
+r_url: https://www.theinformation.com/snap-builds-engineering-team-in-san-francisco
+r_date: 2016-10-12 21:40:18.582000000 Z
+r_wrapped_url: https://www.reading.am/p/4s8u/https://www.theinformation.com/snap-builds-engineering-team-in-san-francisco
+r_page_description: Snap is for the first time hiring engineers in San Francisco,
+  partly in an effort to strengthen its capabilities in search.Since the summer, the
+  newly renamed parent company of Snapchat has hired fewer than a dozen engineers
+  who are working out of a small office in North Beach. Among the most ...
+r_page_title: Snap Builds Engineering Team in San Francisco
+r_title: Snap Builds Engineering Team in San Francisco
+r_id: '673234'
+r_page_id: '492731'
+---
+

@@ -1,0 +1,14 @@
+---
+title: '673226'
+r_url: http://www.siteleaf.com/blog/jekyll-environments/
+r_date: 2016-10-12 21:35:05.588000000 Z
+r_wrapped_url: https://www.reading.am/p/4s8m/http://www.siteleaf.com/blog/jekyll-environments/
+r_page_description: When working with Jekyll and Siteleaf, you typically have 3 distinct
+  environments to help you code, preview, and publish your site. Here are some tips
+  &amp; tricks on using .
+r_page_title: Jekyll environments
+r_title: Jekyll environments
+r_id: '673226'
+r_page_id: '492725'
+---
+
