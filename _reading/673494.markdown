@@ -1,0 +1,13 @@
+---
+title: '673494'
+r_url: http://autonomy.datasociety.net/patternlanguage/
+r_date: 2016-10-13 19:22:42.947000000 Z
+r_wrapped_url: https://www.reading.am/p/4scY/http://autonomy.datasociety.net/patternlanguage/
+r_page_description: "How are practitioners grappling with the social impacts of AI
+  systems?\r"
+r_page_title: 'Intelligence and Autonomy '
+r_title: 'Intelligence and Autonomy '
+r_id: '673494'
+r_page_id: '492930'
+---
+

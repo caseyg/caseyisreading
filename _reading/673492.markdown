@@ -1,0 +1,12 @@
+---
+title: '673492'
+r_url: https://www.youtube.com/watch?v=1MQUleX1PeA
+r_date: 2016-10-13 19:15:56.174000000 Z
+r_wrapped_url: https://www.reading.am/p/4scW/https://www.youtube.com/watch?v=1MQUleX1PeA
+r_page_description: 'Official video for ''Hey QT'' by QT released through XL Recordings. '
+r_page_title: QT - Hey QT
+r_title: QT - Hey QT
+r_id: '673492'
+r_page_id: '369937'
+---
+
