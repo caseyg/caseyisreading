@@ -1,0 +1,13 @@
+---
+title: '673482'
+r_url: http://www.marathono.com/
+r_date: 2016-10-13 18:37:58.456000000 Z
+r_wrapped_url: https://www.reading.am/p/4scL/http://www.marathono.com/
+r_page_description: Marathono is a GUI tool that helps you manage long-running processes
+  in macOS.
+r_page_title: Marathono, a GUI tool for managing long-running processes in macOS
+r_title: Marathono, a GUI tool for managing long-running processes in macOS
+r_id: '673482'
+r_page_id: '492922'
+---
+
