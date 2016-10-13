@@ -1,0 +1,14 @@
+---
+title: '673486'
+r_url: http://blog.framerjs.com/
+r_date: 2016-10-13 18:43:33.975000000 Z
+r_wrapped_url: https://www.reading.am/p/4scQ/http://blog.framerjs.com/
+r_page_description: Design interactive high-fidelity prototypes for iOS, Android,
+  desktop or the web. Invent new animations and interactions. Integrates with Sketch
+  and Photoshop.
+r_page_title: Framer Blog
+r_title: Framer Blog
+r_id: '673486'
+r_page_id: '430929'
+---
+

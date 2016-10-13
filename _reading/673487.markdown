@@ -1,0 +1,12 @@
+---
+title: '673487'
+r_url: http://www.modqueries.com/
+r_date: 2016-10-13 18:48:07.124000000 Z
+r_wrapped_url: https://www.reading.am/p/4scR/http://www.modqueries.com/
+r_page_description: ''
+r_page_title: CSS Mod Queries and Range Selectors
+r_title: CSS Mod Queries and Range Selectors
+r_id: '673487'
+r_page_id: '492925'
+---
+
