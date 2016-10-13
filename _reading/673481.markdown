@@ -1,0 +1,13 @@
+---
+title: '673481'
+r_url: http://alistapart.com/article/using-css-mod-queries-with-range-selectors
+r_date: 2016-10-13 18:37:18.220000000 Z
+r_wrapped_url: https://www.reading.am/p/4scK/http://alistapart.com/article/using-css-mod-queries-with-range-selectors
+r_page_description: Patrick Clancey plies a creative use of mod queries and range
+  selectors to change the layout of elements in lists.
+r_page_title: Using CSS Mod Queries with Range Selectors
+r_title: Using CSS Mod Queries with Range Selectors
+r_id: '673481'
+r_page_id: '492921'
+---
+
