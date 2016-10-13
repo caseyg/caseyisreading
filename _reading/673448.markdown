@@ -1,0 +1,13 @@
+---
+title: '673448'
+r_url: http://www.bloomsbury.com/uk/beyond-critique-9781501323461/
+r_date: 2016-10-13 15:43:14.951000000 Z
+r_wrapped_url: https://www.reading.am/p/4scb/http://www.bloomsbury.com/uk/beyond-critique-9781501323461/
+r_page_description: Your pre-order item will usually be shipped on the publishing
+  date of the book.
+r_page_title: Beyond Critique
+r_title: Beyond Critique
+r_id: '673448'
+r_page_id: '492896'
+---
+
