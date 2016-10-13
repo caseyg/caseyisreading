@@ -1,0 +1,14 @@
+---
+title: '673425'
+r_url: https://www.propublica.org/article/breaking-the-black-box-when-machines-learn-by-experimenting-on-us
+r_date: 2016-10-13 14:17:53.624000000 Z
+r_wrapped_url: https://www.reading.am/p/4sbM/https://www.propublica.org/article/breaking-the-black-box-when-machines-learn-by-experimenting-on-us
+r_page_description: As we enter the era of artificial intelligence, machines regularly
+  conduct experiments on human behavior. Here’s a look at how software used by the
+  New York Times and New York Post uses you to test their headlines.
+r_page_title: 'Breaking the Black Box: When Machines Learn by Experimenting on Us'
+r_title: 'Breaking the Black Box: When Machines Learn by Experimenting on Us'
+r_id: '673425'
+r_page_id: '492883'
+---
+
