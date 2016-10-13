@@ -1,0 +1,15 @@
+---
+title: '673427'
+r_url: http://techcrunch.com/2016/10/13/tinders-new-smart-photos-show-just-how-well-the-app-knows-you/
+r_date: 2016-10-13 14:28:13.438000000 Z
+r_wrapped_url: https://www.reading.am/p/4sbP/http://techcrunch.com/2016/10/13/tinders-new-smart-photos-show-just-how-well-the-app-knows-you/
+r_page_description: Ever wonder which of your selfies is best? Tinder wants to help
+  you figure it out, with the launch of a new feature called Smart Photos. And Smart
+  Photos, in turn, show us just how much Tinder is a big data company, meticulously
+  collecting information about what (and who) you like and don’t like.
+r_page_title: Tinder’s new Smart Photos show just how well the app knows you
+r_title: Tinder’s new Smart Photos show just how well the app knows you
+r_id: '673427'
+r_page_id: '492884'
+---
+
