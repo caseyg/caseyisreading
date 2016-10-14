@@ -1,0 +1,13 @@
+---
+title: '673730'
+r_url: https://www.whitehouse.gov/blog/2016/10/12/administrations-report-future-artificial-intelligence
+r_date: 2016-10-14 09:50:14.199000000 Z
+r_wrapped_url: https://www.reading.am/p/4sh3/https://www.whitehouse.gov/blog/2016/10/12/administrations-report-future-artificial-intelligence
+r_page_description: A new report from the Administration focuses on the opportunities,
+  considerations, and challenges of Artificial Intelligence (AI).
+r_page_title: The Administration’s Report on the Future of Artificial Intelligence
+r_title: The Administration’s Report on the Future of Artificial Intelligence
+r_id: '673730'
+r_page_id: '493062'
+---
+

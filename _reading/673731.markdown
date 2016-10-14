@@ -1,0 +1,15 @@
+---
+title: '673731'
+r_url: http://www.frontiersconference.org/
+r_date: 2016-10-14 09:51:11.190000000 Z
+r_wrapped_url: https://www.reading.am/p/4sh4/http://www.frontiersconference.org/
+r_page_description: President Obama will host the White House Frontiers Conference,
+  a national convening co-hosted with the University of Pittsburgh and Carnegie Mellon
+  University to explore the future of innovation here and around the world. The convening
+  will include topics inspired by...
+r_page_title: The White House Frontiers Conference
+r_title: The White House Frontiers Conference
+r_id: '673731'
+r_page_id: '493063'
+---
+
