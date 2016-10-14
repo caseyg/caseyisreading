@@ -1,0 +1,13 @@
+---
+title: '673640'
+r_url: https://tisch.nyu.edu/itp/events/fall-2016/artist-talk-tega-brain-taeyoon-choi
+r_date: 2016-10-14 01:19:47.507000000 Z
+r_wrapped_url: https://www.reading.am/p/4sfu/https://tisch.nyu.edu/itp/events/fall-2016/artist-talk-tega-brain-taeyoon-choi
+r_page_description: Artists Tega Brain and Taeyoon Choi will talk about their work
+  in art and technology.
+r_page_title: 'Artist Talk: Tega Brain & Taeyoon Choi'
+r_title: 'Artist Talk: Tega Brain & Taeyoon Choi'
+r_id: '673640'
+r_page_id: '492991'
+---
+
