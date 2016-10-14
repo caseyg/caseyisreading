@@ -1,0 +1,14 @@
+---
+title: '673729'
+r_url: http://www.nature.com/news/there-is-a-blind-spot-in-ai-research-1.20805
+r_date: 2016-10-14 09:49:48.919000000 Z
+r_wrapped_url: https://www.reading.am/p/4sh2/http://www.nature.com/news/there-is-a-blind-spot-in-ai-research-1.20805
+r_page_description: Fears about the future impacts of artificial intelligence are
+  distracting researchers from the real risks of deployed systems, argue Kate Crawford
+  and Ryan Calo.
+r_page_title: There is a blind spot in AI research
+r_title: There is a blind spot in AI research
+r_id: '673729'
+r_page_id: '493061'
+---
+
