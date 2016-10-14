@@ -1,0 +1,15 @@
+---
+title: '673885'
+r_url: http://opentranscripts.org/transcript/artificial-intelligence-and-internet/
+r_date: 2016-10-14 23:35:14.870000000 Z
+r_wrapped_url: https://www.reading.am/p/4sjH/http://opentranscripts.org/transcript/artificial-intelligence-and-internet/
+r_page_description: I have a few examples of things that are starting to happen. And
+  you can see that AI normally stands for artificial intelligence, but I've often
+  concluded it stands for "artificial idiot." And the reason is very simple. It turns
+  out that these systems are good, but they're good in kind of narrow ways.
+r_page_title: Artificial Intelligence and the Internet
+r_title: Artificial Intelligence and the Internet
+r_id: '673885'
+r_page_id: '493184'
+---
+
