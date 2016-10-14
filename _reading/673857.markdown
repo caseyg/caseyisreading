@@ -1,0 +1,14 @@
+---
+title: '673857'
+r_url: http://kottke.org/16/10/www-the-way-we-were
+r_date: 2016-10-14 18:30:48.498000000 Z
+r_wrapped_url: https://www.reading.am/p/4sje/http://kottke.org/16/10/www-the-way-we-were
+r_page_description: 'Note: There are some *major* unavoidable spoilers about the finale
+  of season three of Halt and Catch Fire in this post. If you''ve been watching (and
+  you definitely should be), you might want to catch the finale first and'
+r_page_title: 'WWW: The Way We Were'
+r_title: 'WWW: The Way We Were'
+r_id: '673857'
+r_page_id: '493160'
+---
+
