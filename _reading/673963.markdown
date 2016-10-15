@@ -1,0 +1,12 @@
+---
+title: '673963'
+r_url: https://en.wikipedia.org/wiki/Loki
+r_date: 2016-10-15 15:26:35.924000000 Z
+r_wrapped_url: https://www.reading.am/p/4sm4/https://en.wikipedia.org/wiki/Loki
+r_page_description: '"Loke" redirects here. For the ethnic group of Nigeria, see Yakurr.'
+r_page_title: Loki - Wikipedia
+r_title: Loki - Wikipedia
+r_id: '673963'
+r_page_id: '493247'
+---
+
