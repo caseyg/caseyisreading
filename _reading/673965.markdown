@@ -1,0 +1,12 @@
+---
+title: '673965'
+r_url: https://commons.wikimedia.org/wiki/File:Lokistone.jpg
+r_date: 2016-10-15 15:26:48.658000000 Z
+r_wrapped_url: https://www.reading.am/p/4sm6/https://commons.wikimedia.org/wiki/File:Lokistone.jpg
+r_page_description: From Wikipedia, the free encyclopedia
+r_page_title: File:Lokistone.jpg - Wikipedia
+r_title: File:Lokistone.jpg - Wikipedia
+r_id: '673965'
+r_page_id: '493249'
+---
+
