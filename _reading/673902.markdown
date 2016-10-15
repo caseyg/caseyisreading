@@ -1,0 +1,13 @@
+---
+title: '673902'
+r_url: http://kk.org
+r_date: 2016-10-15 01:08:03.401000000 Z
+r_wrapped_url: https://www.reading.am/p/4sk1/http://kk.org
+r_page_description: "[Translations: Chinese, French, German, Hebrew, Italian, Japanese,
+  Portuguese, Romanian, Spanish]"
+r_page_title: 'The Technium: 1,000 True Fans'
+r_title: 'The Technium: 1,000 True Fans'
+r_id: '673902'
+r_page_id: '415817'
+---
+
