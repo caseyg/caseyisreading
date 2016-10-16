@@ -1,0 +1,15 @@
+---
+title: '674185'
+r_url: https://en.wikipedia.org/wiki/Jonas_Mekas
+r_date: 2016-10-16 17:00:58.085000000 Z
+r_wrapped_url: https://www.reading.am/p/4spT/https://en.wikipedia.org/wiki/Jonas_Mekas
+r_page_description: Jonas Mekas (Lithuanian: [ˈjonɐs ˈmækɐs]; born December 24,[1]
+  1922) is a Lithuanian-American filmmaker, poet and artist who has often been called
+  "the godfather of American avant-garde cinema." His work has been exhibited in museums
+  and festivals worldwide.
+r_page_title: Jonas Mekas - Wikipedia
+r_title: Jonas Mekas - Wikipedia
+r_id: '674185'
+r_page_id: '493438'
+---
+
