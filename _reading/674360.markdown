@@ -1,0 +1,18 @@
+---
+title: '674360'
+r_url: https://www.google.com/patents/US6658577
+r_date: 2016-10-17 15:21:26.959000000 Z
+r_wrapped_url: https://www.reading.am/p/4ssU/https://www.google.com/patents/US6658577
+r_page_description: A new and improved status LED indicator provides a pleasing visual
+  appeal. An embodiment of the present invention includes a sleep-mode indicator for
+  laptop computers. The LED indicator is energized by pulse-width modulated electrical
+  pulses. The effect of these pulses on the indicator varies in intensity and mimics
+  a rhythm typical of breathing. It is another aspect of the invention to provide
+  an electrical apparatus that generates a sleep-mode indicator blinking pattern based
+  on a sinusoidal function using PWM (pulse width modulation) designs.
+r_page_title: Patent US6658577 - Breathing status LED indicator
+r_title: Patent US6658577 - Breathing status LED indicator
+r_id: '674360'
+r_page_id: '493569'
+---
+
