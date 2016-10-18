@@ -1,0 +1,13 @@
+---
+title: '674455'
+r_url: http://facebook.design/ios10
+r_date: 2016-10-18 01:15:11.113000000 Z
+r_wrapped_url: https://www.reading.am/p/4sux/http://facebook.design/ios10
+r_page_description: Sketch, Photoshop, and Figma templates of GUI elements found in
+  the public release of iOS 10.
+r_page_title: Facebook Design — iOS 10 GUI (iPhone)
+r_title: Facebook Design — iOS 10 GUI (iPhone)
+r_id: '674455'
+r_page_id: '493637'
+---
+
