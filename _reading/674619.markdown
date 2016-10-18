@@ -1,0 +1,13 @@
+---
+title: '674619'
+r_url: http://www.nytimes.com/2016/10/19/sports/football/bill-belichick-patriots-might-be-a-mac-guy.html
+r_date: 2016-10-18 23:06:51.670000000 Z
+r_wrapped_url: https://www.reading.am/p/4sxn/http://www.nytimes.com/2016/10/19/sports/football/bill-belichick-patriots-might-be-a-mac-guy.html
+r_page_description: The Patriots’ reticent coach goes on and on about how unhappy
+  he is with the Microsoft Surface tablet.
+r_page_title: Bill Belichick Might Be a Mac Guy
+r_title: Bill Belichick Might Be a Mac Guy
+r_id: '674619'
+r_page_id: '493778'
+---
+
