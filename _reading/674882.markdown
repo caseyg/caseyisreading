@@ -1,0 +1,12 @@
+---
+title: '674882'
+r_url: http://learnkirby.xyz/
+r_date: 2016-10-19 23:33:09.745000000 Z
+r_wrapped_url: https://www.reading.am/p/4sBU/http://learnkirby.xyz/
+r_page_description: 'Kirby is Perfect For:'
+r_page_title: 'Learn Kirby '
+r_title: 'Learn Kirby '
+r_id: '674882'
+r_page_id: '493985'
+---
+
