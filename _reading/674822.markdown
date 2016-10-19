@@ -1,0 +1,12 @@
+---
+title: '674822'
+r_url: http://cloudindx.com/history
+r_date: 2016-10-19 16:06:49.127000000 Z
+r_wrapped_url: https://www.reading.am/p/4sAS/http://cloudindx.com/history
+r_page_description: A history of weather modification - and a future.
+r_page_title: Cloud History, Cloud Thinking - James Bridle
+r_title: Cloud History, Cloud Thinking - James Bridle
+r_id: '674822'
+r_page_id: '491979'
+---
+
