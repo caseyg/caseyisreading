@@ -1,0 +1,12 @@
+---
+title: '674637'
+r_url: https://gka.github.io/canvid/
+r_date: 2016-10-19 00:18:15.957000000 Z
+r_wrapped_url: https://www.reading.am/p/4sxF/https://gka.github.io/canvid/
+r_page_description: javascript library for playing video on canvas elements
+r_page_title: canvid.js
+r_title: canvid.js
+r_id: '674637'
+r_page_id: '493787'
+---
+
