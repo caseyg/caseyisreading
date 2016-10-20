@@ -1,0 +1,14 @@
+---
+title: '675025'
+r_url: http://rcpp.lensbased.net/meta/
+r_date: 2016-10-20 17:10:47.191000000 Z
+r_wrapped_url: https://www.reading.am/p/4sEn/http://rcpp.lensbased.net/meta/
+r_page_description: The Research Center for Proxy Politics aims to explore and reflect
+  upon the nature of medial networks and their actors, that is, machines and things
+  as well as humans.
+r_page_title: Research Center for Proxy Politics
+r_title: Research Center for Proxy Politics
+r_id: '675025'
+r_page_id: '494104'
+---
+
