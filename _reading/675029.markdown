@@ -1,0 +1,14 @@
+---
+title: '675029'
+r_url: https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis
+r_date: 2016-10-20 17:33:33.131000000 Z
+r_wrapped_url: https://www.reading.am/p/4sEr/https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis
+r_page_description: A BuzzFeed News analysis found that three big right-wing Facebook
+  pages published false or misleading information 38% of the time during the period
+  analyzed, and three large left-wing pages did so ...
+r_page_title: Huge Hyperpartisan Facebook Pages Are Pushing False And Misleading Info
+r_title: Huge Hyperpartisan Facebook Pages Are Pushing False And Misleading Info
+r_id: '675029'
+r_page_id: '494107'
+---
+
