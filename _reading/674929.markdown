@@ -1,0 +1,13 @@
+---
+title: '674929'
+r_url: http://scratchingthesurface.fm/
+r_date: 2016-10-20 02:02:55.826000000 Z
+r_wrapped_url: https://www.reading.am/p/4sCH/http://scratchingthesurface.fm/
+r_page_description: is a podcast about the intersection of criticism and practice
+  for graphic designers by Jarrett Fuller.
+r_page_title: Scratching the Surface
+r_title: Scratching the Surface
+r_id: '674929'
+r_page_id: '494014'
+---
+
