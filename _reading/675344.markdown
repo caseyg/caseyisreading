@@ -1,0 +1,13 @@
+---
+title: '675344'
+r_url: http://www.aljazeera.com/news/2016/10/morocco-restores-world-oldest-university-161021112728607.html
+r_date: 2016-10-21 19:45:43.469000000 Z
+r_wrapped_url: https://www.reading.am/p/4sKS/http://www.aljazeera.com/news/2016/10/morocco-restores-world-oldest-university-161021112728607.html
+r_page_description: The University of al-Qarawiyyin takes steps to preserve decaying
+  medieval manuscripts.
+r_page_title: Morocco restores world's oldest university
+r_title: Morocco restores world's oldest university
+r_id: '675344'
+r_page_id: '494352'
+---
+
