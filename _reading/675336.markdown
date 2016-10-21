@@ -1,0 +1,13 @@
+---
+title: '675336'
+r_url: http://www.nintendo.com/switch
+r_date: 2016-10-21 19:30:54.387000000 Z
+r_wrapped_url: https://www.reading.am/p/4sKJ/http://www.nintendo.com/switch
+r_page_description: Learn more about the next home gaming system from Nintendo, the
+  Nintendo Switch™.
+r_page_title: Nintendo Switch™ - Official Site - Nintendo's New Video Game System
+r_title: Nintendo Switch™ - Official Site - Nintendo's New Video Game System
+r_id: '675336'
+r_page_id: '494345'
+---
+

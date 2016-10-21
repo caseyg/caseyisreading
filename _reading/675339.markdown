@@ -1,0 +1,14 @@
+---
+title: '675339'
+r_url: http://www.theverge.com/2016/10/21/13331208/refreshing-the-verge-no-platform-like-home
+r_date: 2016-10-21 19:33:18.574000000 Z
+r_wrapped_url: https://www.reading.am/p/4sKM/http://www.theverge.com/2016/10/21/13331208/refreshing-the-verge-no-platform-like-home
+r_page_description: The Verge turns five on November 1st, and we’re in the process
+  of refreshing our entire brand for the next five years. In Refreshing The Verge,
+  we’ll be looking at how that refresh process works,...
+r_page_title: 'Refreshing The Verge: no platform like home'
+r_title: 'Refreshing The Verge: no platform like home'
+r_id: '675339'
+r_page_id: '494329'
+---
+
