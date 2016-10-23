@@ -1,0 +1,14 @@
+---
+title: '675740'
+r_url: http://sound-capsule.org/
+r_date: 2016-10-23 23:40:22.223000000 Z
+r_wrapped_url: https://www.reading.am/p/4sSG/http://sound-capsule.org/
+r_page_description: Clocktower’s audio guide for the exhibition presented by seminal
+  media and architecture group LST. Click below to hear archival content and contemporary
+  interviews with artists Chip Lord, Curtis Schreier, and Bruce Tomb.
+r_page_title: http://sound-capsule.org/
+r_title: http://sound-capsule.org/
+r_id: '675740'
+r_page_id: '494650'
+---
+
