@@ -1,0 +1,13 @@
+---
+title: '675946'
+r_url: http://www.dezeen.com/2016/10/20/donald-trump-mexican-border-wall-envisioned-barragan-inspired-pink-barrier-estudio-314/
+r_date: 2016-10-25 00:02:33.726000000 Z
+r_wrapped_url: https://www.reading.am/p/4sWf/http://www.dezeen.com/2016/10/20/donald-trump-mexican-border-wall-envisioned-barragan-inspired-pink-barrier-estudio-314/
+r_page_description: Mexican firm Estudio 3.14 has visualised US presidential candidate
+  Donald Trump's plan to build a wall along the countries' border
+r_page_title: Trump's Mexican border wall envisioned as Barragán-inspired pink barrier
+r_title: Trump's Mexican border wall envisioned as Barragán-inspired pink barrier
+r_id: '675946'
+r_page_id: '494806'
+---
+
