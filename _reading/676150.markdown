@@ -1,0 +1,14 @@
+---
+title: '676150'
+r_url: http://dyn.com/blog/dyn-statement-on-10212016-ddos-attack/
+r_date: 2016-10-25 21:40:53.039000000 Z
+r_wrapped_url: https://www.reading.am/p/4sZL/http://dyn.com/blog/dyn-statement-on-10212016-ddos-attack/
+r_page_description: It’s likely that at this point you’ve seen some of the many news
+  accounts of the Distributed Denial of Service (DDoS) attack Dyn sustained against
+  our Managed DNS infrastructure this past Friday,...
+r_page_title: Dyn Statement on 10/21/2016 DDoS Attack
+r_title: Dyn Statement on 10/21/2016 DDoS Attack
+r_id: '676150'
+r_page_id: '494968'
+---
+
