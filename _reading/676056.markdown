@@ -1,0 +1,13 @@
+---
+title: '676056'
+r_url: https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details
+r_date: 2016-10-25 12:37:50.168000000 Z
+r_wrapped_url: https://www.reading.am/p/4sY9/https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details
+r_page_description: 'how-to-create-an-operating-system: Learn how to write, test and
+  run, an operating system in C++ and Assembly from scratch.'
+r_page_title: How to make an Operating System · GitBook
+r_title: How to make an Operating System · GitBook
+r_id: '676056'
+r_page_id: '494907'
+---
+
