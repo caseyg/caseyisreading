@@ -1,0 +1,16 @@
+---
+title: '676522'
+r_url: https://www.moma.org/m/tours/57/tour_stops?locale=en
+r_date: 2016-10-27 18:10:57.860000000 Z
+r_wrapped_url: https://www.reading.am/p/4t7b/https://www.moma.org/m/tours/57/tour_stops?locale=en
+r_page_description: 'The Museum of Modern Art (MoMA) is a place that fuels creativity,
+  ignites minds, and provides inspiration. Its extraordinary exhibitions and collection
+  of modern and contemporary art are dedicated to helping you understand and enjoy
+  the art of our time. Caption: The Museum of Modern Art, designed by Yoshio Taniguchi.
+  Entrance at 53rd Street. Photo © 2011 Timothy Hursley'
+r_page_title: 'Museum of Modern Art '
+r_title: 'Museum of Modern Art '
+r_id: '676522'
+r_page_id: '495253'
+---
+
