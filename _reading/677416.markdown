@@ -1,0 +1,13 @@
+---
+title: '677416'
+r_url: http://www.nytimes.com/2016/10/30/magazine/barack-obama-brought-silicon-valley-to-washington-is-that-a-good-thing.html
+r_date: 2016-10-30 02:06:30.652000000 Z
+r_wrapped_url: https://www.reading.am/p/4tnA/http://www.nytimes.com/2016/10/30/magazine/barack-obama-brought-silicon-valley-to-washington-is-that-a-good-thing.html
+r_page_description: His administration embraced some of the tech industry’s best ideas
+  — but also some of its worst values.
+r_page_title: Obama Brought Silicon Valley to Washington
+r_title: Obama Brought Silicon Valley to Washington
+r_id: '677416'
+r_page_id: '496032'
+---
+
