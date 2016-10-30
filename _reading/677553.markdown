@@ -1,0 +1,14 @@
+---
+title: '677553'
+r_url: https://www.youtube.com/watch?v=ecIWPzGEbFc
+r_date: 2016-10-30 08:55:33.797000000 Z
+r_wrapped_url: https://www.reading.am/p/4tpX/https://www.youtube.com/watch?v=ecIWPzGEbFc
+r_page_description: How did our industry start, what paths did it take to get to where
+  we are, and where is it going. What big problems did programmers encounter in the
+  past? Ho...
+r_page_title: '"Uncle" Bob Martin - "The Future of Programming"'
+r_title: '"Uncle" Bob Martin - "The Future of Programming"'
+r_id: '677553'
+r_page_id: '496159'
+---
+
