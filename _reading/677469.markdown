@@ -1,0 +1,11 @@
+---
+title: '677469'
+r_url: https://en.wikipedia.org/wiki/Gregory_Bateson
+r_date: 2016-10-30 02:31:28.911000000 Z
+r_id: '677469'
+r_wrapped_url: https://www.reading.am/p/4tov/https://en.wikipedia.org/wiki/Gregory_Bateson
+r_page_id: '496084'
+r_page_title: Gregory Bateson - Wikipedia
+r_title: Gregory Bateson - Wikipedia
+---
+
