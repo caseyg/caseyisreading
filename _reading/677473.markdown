@@ -1,0 +1,11 @@
+---
+title: '677473'
+r_url: https://en.wikipedia.org/wiki/Paul_Virilio
+r_date: 2016-10-30 02:33:50.663000000 Z
+r_id: '677473'
+r_wrapped_url: https://www.reading.am/p/4toz/https://en.wikipedia.org/wiki/Paul_Virilio
+r_page_id: '496088'
+r_page_title: Paul Virilio - Wikipedia
+r_title: Paul Virilio - Wikipedia
+---
+

@@ -1,0 +1,11 @@
+---
+title: '677472'
+r_url: https://en.wikipedia.org/wiki/Stuart_Sherman_(artist)
+r_date: 2016-10-30 02:33:47.807000000 Z
+r_id: '677472'
+r_wrapped_url: https://www.reading.am/p/4toy/https://en.wikipedia.org/wiki/Stuart_Sherman_(artist)
+r_page_id: '496087'
+r_page_title: Stuart Sherman (artist) - Wikipedia
+r_title: Stuart Sherman (artist) - Wikipedia
+---
+
