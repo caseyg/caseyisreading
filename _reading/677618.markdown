@@ -1,0 +1,14 @@
+---
+title: '677618'
+r_url: http://www.nytimes.com/2016/10/28/us/placebo-buttons-elevators-crosswalks.html
+r_date: 2016-10-30 17:05:03.926000000 Z
+r_wrapped_url: https://www.reading.am/p/4tr5/http://www.nytimes.com/2016/10/28/us/placebo-buttons-elevators-crosswalks.html
+r_page_description: Some buttons, such as the door-close button on an elevator, are
+  mere artifices — placebos that promote an illusion of control but in reality do
+  not work.
+r_page_title: Pushing That Crosswalk Button May Make You Feel Better, but …
+r_title: Pushing That Crosswalk Button May Make You Feel Better, but …
+r_id: '677618'
+r_page_id: '496217'
+---
+
