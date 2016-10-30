@@ -1,0 +1,12 @@
+---
+title: '677547'
+r_url: http://www.bbc.co.uk/programmes/b01dvw6t
+r_date: 2016-10-30 08:02:28.452000000 Z
+r_wrapped_url: https://www.reading.am/p/4tpR/http://www.bbc.co.uk/programmes/b01dvw6t
+r_page_description: Melvyn Bragg and his guests discuss the measurement of time.
+r_page_title: The Measurement of Time, In Our Time - BBC Radio 4
+r_title: The Measurement of Time, In Our Time - BBC Radio 4
+r_id: '677547'
+r_page_id: '496154'
+---
+
