@@ -1,0 +1,11 @@
+---
+title: '677858'
+r_url: http://witheve.com/deepdives/literate.html
+r_date: 2016-10-31 01:32:18.217000000 Z
+r_id: '677858'
+r_wrapped_url: https://www.reading.am/p/4tvd/http://witheve.com/deepdives/literate.html
+r_page_id: '496444'
+r_page_title: Literate Programming and Eve
+r_title: Literate Programming and Eve
+---
+
