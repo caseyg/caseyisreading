@@ -1,0 +1,14 @@
+---
+title: '677863'
+r_url: http://www.nytimes.com/2016/10/31/business/media/publishers-rethink-outbrain-taboola-ads.html
+r_date: 2016-10-31 01:40:19.856000000 Z
+r_wrapped_url: https://www.reading.am/p/4tvi/http://www.nytimes.com/2016/10/31/business/media/publishers-rethink-outbrain-taboola-ads.html
+r_page_description: The ads, which appear mostly via the services Outbrain and Taboola,
+  can lead to questionable websites. Now some publishers wonder about the effect on
+  their readers.
+r_page_title: Publishers Are Rethinking Those ‘Around the Web’ Ads
+r_title: Publishers Are Rethinking Those ‘Around the Web’ Ads
+r_id: '677863'
+r_page_id: '496449'
+---
+
