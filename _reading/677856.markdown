@@ -1,0 +1,14 @@
+---
+title: '677856'
+r_url: http://witheve.com/
+r_date: 2016-10-31 01:23:01.525000000 Z
+r_wrapped_url: https://www.reading.am/p/4tvb/http://witheve.com/
+r_page_description: Eve is our way of bringing the power of computation to everyone,
+  not by making everyone a programmer but by finding a better way for us to interact
+  with computers. On the surface, Eve is an environment a little like...
+r_page_title: Eve
+r_title: Eve
+r_id: '677856'
+r_page_id: '411110'
+---
+
