@@ -1,0 +1,14 @@
+---
+title: '678420'
+r_url: http://www.theverge.com/2016/10/31/13479070/refreshing-the-verge-vox-media-hymnal-concert-revenue
+r_date: 2016-11-01 23:00:57.762000000 Z
+r_wrapped_url: https://www.reading.am/p/4tEU/http://www.theverge.com/2016/10/31/13479070/refreshing-the-verge-vox-media-hymnal-concert-revenue
+r_page_description: The Verge turns five on November 1st, and we’re in the process
+  of refreshing our entire brand for the next five years. In Refreshing The Verge,
+  we’ll be looking at how that refresh process works,...
+r_page_title: 'Refreshing The Verge: how does this thing make money, anyway?'
+r_title: 'Refreshing The Verge: how does this thing make money, anyway?'
+r_id: '678420'
+r_page_id: '496635'
+---
+

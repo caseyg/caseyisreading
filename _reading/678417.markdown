@@ -1,0 +1,14 @@
+---
+title: '678417'
+r_url: https://www.simonsfoundation.org/
+r_date: 2016-11-01 22:53:39.139000000 Z
+r_wrapped_url: https://www.reading.am/p/4tER/https://www.simonsfoundation.org/
+r_page_description: This talk will introduce an overview of some of the most important
+  concepts and ideas from geometry and topology and then describe the recent interplay
+  between
+r_page_title: 'Simons Foundation: Advancing Research in Basic Science and Mathematics'
+r_title: 'Simons Foundation: Advancing Research in Basic Science and Mathematics'
+r_id: '678417'
+r_page_id: '496897'
+---
+
