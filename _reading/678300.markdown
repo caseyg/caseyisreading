@@ -1,0 +1,13 @@
+---
+title: '678300'
+r_url: http://www.nytimes.com/2016/11/06/travel/brooklyn-budget-frugal-travel.html
+r_date: 2016-11-01 14:25:40.427000000 Z
+r_wrapped_url: https://www.reading.am/p/4tCQ/http://www.nytimes.com/2016/11/06/travel/brooklyn-budget-frugal-travel.html
+r_page_description: Brooklyn is a bona fide cultural capital — but you don’t have
+  to spend a lot to appreciate it.
+r_page_title: Want the ‘Real’ Brooklyn? Go Cheap
+r_title: Want the ‘Real’ Brooklyn? Go Cheap
+r_id: '678300'
+r_page_id: '496801'
+---
+
