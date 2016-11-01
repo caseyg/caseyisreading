@@ -1,0 +1,13 @@
+---
+title: '678419'
+r_url: http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016
+r_date: 2016-11-01 22:54:43.244000000 Z
+r_wrapped_url: https://www.reading.am/p/4tET/http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016
+r_page_description: Things look a little different around The Verge today. Very different.
+  Like a thousand lasers shining through your mind, pointing at the future.
+r_page_title: Welcome to Verge 3.0
+r_title: Welcome to Verge 3.0
+r_id: '678419'
+r_page_id: '496795'
+---
+

@@ -1,0 +1,13 @@
+---
+title: '678418'
+r_url: https://www.quantamagazine.org/20160719-time-and-cosmology/
+r_date: 2016-11-01 22:54:29.677000000 Z
+r_wrapped_url: https://www.reading.am/p/4tES/https://www.quantamagazine.org/20160719-time-and-cosmology/
+r_page_description: According to our best theories of physics, the universe is a fixed
+  block where time only appears to pass.
+r_page_title: A Debate Over the Physics of Time
+r_title: A Debate Over the Physics of Time
+r_id: '678418'
+r_page_id: '479121'
+---
+
