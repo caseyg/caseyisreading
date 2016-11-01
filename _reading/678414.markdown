@@ -1,0 +1,13 @@
+---
+title: '678414'
+r_url: https://www.quantamagazine.org/
+r_date: 2016-11-01 22:33:22.653000000 Z
+r_wrapped_url: https://www.reading.am/p/4tEN/https://www.quantamagazine.org/
+r_page_description: Enhancing public understanding of research developments in mathematics
+  and the physical and life sciences.
+r_page_title: 'Quanta Magazine: Illuminating Science'
+r_title: 'Quanta Magazine: Illuminating Science'
+r_id: '678414'
+r_page_id: '496895'
+---
+
