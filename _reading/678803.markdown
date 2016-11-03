@@ -1,0 +1,14 @@
+---
+title: '678803'
+r_url: https://www.wired.com/2016/11/evil-office-printer-hijacks-cellphone-connection/
+r_date: 2016-11-03 03:45:02.929000000 Z
+r_wrapped_url: https://www.reading.am/p/4tMv/https://www.wired.com/2016/11/evil-office-printer-hijacks-cellphone-connection/
+r_page_description: The hacker-artistic creation is meant to illustrate the privacy
+  flaws of the cellular signals we all depend on. The post This Evil Office Printer
+  Hijacks Your Cellphone Connection appeared first on WIRED.
+r_page_title: This Evil Office Printer Hijacks Your Cellphone Connection
+r_title: This Evil Office Printer Hijacks Your Cellphone Connection
+r_id: '678803'
+r_page_id: '497205'
+---
+
