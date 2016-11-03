@@ -1,0 +1,13 @@
+---
+title: '678723'
+r_url: http://nymag.com/vindicated/2016/11/roombas-long-bumpy-path-from-prototype-to-your-living-room.html
+r_date: 2016-11-02 23:46:00.296000000 Z
+r_wrapped_url: https://www.reading.am/p/4tL8/http://nymag.com/vindicated/2016/11/roombas-long-bumpy-path-from-prototype-to-your-living-room.html
+r_page_description: It’s fair to say the project hit some walls. Inventor Joe Jones
+  walked us through the ten-year odyssey of getting his adorable robot vacuum to market.
+r_page_title: Roomba’s Long, Bumpy Path From Prototype to Your Living Room
+r_title: Roomba’s Long, Bumpy Path From Prototype to Your Living Room
+r_id: '678723'
+r_page_id: '497140'
+---
+
