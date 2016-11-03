@@ -1,0 +1,15 @@
+---
+title: '678864'
+r_url: https://www.secession.at/en/exhibition/avery-singer/
+r_date: 2016-11-03 13:09:04.748000000 Z
+r_wrapped_url: https://www.reading.am/p/4tNy/https://www.secession.at/en/exhibition/avery-singer/
+r_page_description: The Secession presents the work of the young American painter
+  Avery Singer, whose innovative art effortlessly integrates references to art history
+  and contemporaneity with an exploration of the underpinnings and mechanisms of digital
+  media.
+r_page_title: Avery Singer
+r_title: Avery Singer
+r_id: '678864'
+r_page_id: '497252'
+---
+
