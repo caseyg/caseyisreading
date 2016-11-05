@@ -1,0 +1,14 @@
+---
+title: '679484'
+r_url: https://www.google.com/get/noto/
+r_date: 2016-11-05 23:12:42.268000000 Z
+r_wrapped_url: https://www.reading.am/p/4tZf/https://www.google.com/get/noto/
+r_page_description: When text is rendered by a computer, sometimes characters are
+  displayed as “tofu”. They are little boxes to indicate your device doesn’t have
+  a font to display the text.
+r_page_title: https://www.google.com/get/noto/
+r_title: https://www.google.com/get/noto/
+r_id: '679484'
+r_page_id: '497759'
+---
+
