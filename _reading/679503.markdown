@@ -1,0 +1,27 @@
+---
+title: '679503'
+r_url: https://www.eventbrite.com/e/art-school-critique-20-tickets-27838048352
+r_date: 2016-11-06 00:32:07.313000000 Z
+r_wrapped_url: https://www.reading.am/p/4tZz/https://www.eventbrite.com/e/art-school-critique-20-tickets-27838048352
+r_page_description: 'Critiques - the presentation and review of student work in front
+  of a teacher or critic and peers - have long been a common and powerful learning
+  tool in the arts. Apart from allowing a deep engagement with the produced work,
+  they also serve as a unique assessment device. Critiques provide a rich learning
+  experience but can also be jarring. With art schools redefining their roles in the
+  larger context of academia, are critiques still necessary? How have the recent changes
+  to the learning landscape—student-centered teaching models, collaborative ways of
+  making and online classrooms—changed the nature and practice of critiques?Art School.
+  Critique 2.0 will be a multi-faceted exchange of ideas with short presentations,
+  panels, and workshops; it will explore multiple aspects of critique: its affordances
+  and shortcomings; the artist as critic; and the role of critique in the curriculum.
+  The symposium will be the third in a series of recent symposia on teaching and learning
+  of studio art in the 21st century. Acknowledging the need for professional development
+  of artist- teachers, we will emphasize conversations rather than lectures, following
+  an understanding of pedagogy as a practical concern rather than an institutional
+  concept.'
+r_page_title: Art School Critique 2.0
+r_title: Art School Critique 2.0
+r_id: '679503'
+r_page_id: '497781'
+---
+
