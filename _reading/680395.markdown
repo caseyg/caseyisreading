@@ -1,0 +1,13 @@
+---
+title: '680395'
+r_url: http://www.nytimes.com/2016/11/10/insider/madam-president-an-iconic-front-page-that-wasnt-to-be.html
+r_date: 2016-11-09 20:27:14.859000000 Z
+r_wrapped_url: https://www.reading.am/p/4ufX/http://www.nytimes.com/2016/11/10/insider/madam-president-an-iconic-front-page-that-wasnt-to-be.html
+r_page_description: A would-be headline captures a missed historic moment — and betrays
+  a handful of hard truths.
+r_page_title: "‘Madam President’: An Iconic Front Page That Wasn’t to Be"
+r_title: "‘Madam President’: An Iconic Front Page That Wasn’t to Be"
+r_id: '680395'
+r_page_id: '498414'
+---
+
