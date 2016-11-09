@@ -1,0 +1,13 @@
+---
+title: '680249'
+r_url: http://www.nytimes.com/2016/11/09/business/media/media-trump-clinton.html
+r_date: 2016-11-09 08:25:34.376000000 Z
+r_wrapped_url: https://www.reading.am/p/4udr/http://www.nytimes.com/2016/11/09/business/media/media-trump-clinton.html
+r_page_description: For not the first time this year, those analyzing this election
+  missed what was happening all around them — and it was the story of a lifetime.
+r_page_title: News Media Yet Again Misreads America’s Complex Pulse
+r_title: News Media Yet Again Misreads America’s Complex Pulse
+r_id: '680249'
+r_page_id: '498312'
+---
+
