@@ -1,0 +1,13 @@
+---
+title: '680290'
+r_url: http://www.nytimes.com/2016/11/09/world/europe/global-reaction-us-presidential-election-donald-trump.html
+r_date: 2016-11-09 15:34:15.264000000 Z
+r_wrapped_url: https://www.reading.am/p/4ue9/http://www.nytimes.com/2016/11/09/world/europe/global-reaction-us-presidential-election-donald-trump.html
+r_page_description: After a stunning upset in the American presidential election,
+  nations braced for the possibility of an upending of the global order.
+r_page_title: Across the World, Shock and Uncertainty at Trump’s Victory
+r_title: Across the World, Shock and Uncertainty at Trump’s Victory
+r_id: '680290'
+r_page_id: '498340'
+---
+
