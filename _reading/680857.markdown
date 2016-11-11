@@ -1,0 +1,14 @@
+---
+title: '680857'
+r_url: http://www.cbc.ca/news/technology/facebook-fake-news-us-election-algorithm-transparency-1.3846073
+r_date: 2016-11-11 13:28:46.687000000 Z
+r_wrapped_url: https://www.reading.am/p/4uoV/http://www.cbc.ca/news/technology/facebook-fake-news-us-election-algorithm-transparency-1.3846073
+r_page_description: Whether fake news stories shared to Facebook affected voter opinion
+  is impossible to say because of how little insight we have into how Facebook’s myriad
+  algorithms work.
+r_page_title: Only Facebook knows how it spreads fake election news
+r_title: Only Facebook knows how it spreads fake election news
+r_id: '680857'
+r_page_id: '498766'
+---
+

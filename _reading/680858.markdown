@@ -1,0 +1,14 @@
+---
+title: '680858'
+r_url: http://www.wsj.com/articles/zuckerberg-defends-facebook-against-charges-it-harmed-political-discourse-1478833876
+r_date: 2016-11-11 13:28:48.327000000 Z
+r_wrapped_url: https://www.reading.am/p/4uoW/http://www.wsj.com/articles/zuckerberg-defends-facebook-against-charges-it-harmed-political-discourse-1478833876
+r_page_description: Facebook Chief Executive Mark Zuckerberg fought back against accusations
+  that the social network harmed political discourse this year by allowing fake news
+  to flourish on the platform.
+r_page_title: 'Zuckerberg Defends Facebook Against Charges It Harmed Political Discourse '
+r_title: 'Zuckerberg Defends Facebook Against Charges It Harmed Political Discourse '
+r_id: '680858'
+r_page_id: '498758'
+---
+
