@@ -1,0 +1,14 @@
+---
+title: '682283'
+r_url: https://adactio.com/articles/11481
+r_date: 2016-11-16 20:36:20.603000000 Z
+r_wrapped_url: https://www.reading.am/p/4uPv/https://adactio.com/articles/11481
+r_page_description: A presentation from the Beyond Tellerrand conference held in Düsseldorf
+  in May 2016. I also presented a version of this talk at An Event Apart, Smashing
+  Conference, Render, and From The Front.
+r_page_title: Resilience
+r_title: Resilience
+r_id: '682283'
+r_page_id: '499846'
+---
+
