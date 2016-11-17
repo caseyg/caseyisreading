@@ -1,0 +1,14 @@
+---
+title: '682473'
+r_url: http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html
+r_date: 2016-11-17 20:12:15.268000000 Z
+r_wrapped_url: https://www.reading.am/p/4uSM/http://www.nytimes.com/interactive/2016/11/16/dining/thanksgiving-dinner-in-america.html
+r_page_description: The Times asked 15 American families to talk about the dishes
+  on their Thanksgiving tables that speak best to their heritage and traditions, and
+  to who we are. These are their stories.
+r_page_title: The American Thanksgiving
+r_title: The American Thanksgiving
+r_id: '682473'
+r_page_id: '500009'
+---
+
