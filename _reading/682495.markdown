@@ -1,0 +1,13 @@
+---
+title: '682495'
+r_url: http://www.nytimes.com/2016/11/18/arts/design/here-comes-the-whitney-biennial-reflecting-the-tumult-of-the-times.html
+r_date: 2016-11-17 22:36:06.303000000 Z
+r_wrapped_url: https://www.reading.am/p/4uTa/http://www.nytimes.com/2016/11/18/arts/design/here-comes-the-whitney-biennial-reflecting-the-tumult-of-the-times.html
+r_page_description: The museum has announced the 63 participants in its survey of
+  what’s happening now in contemporary art — the new, the influential and the provocative.
+r_page_title: Here Comes the Whitney Biennial, Reflecting the Tumult of the Times
+r_title: Here Comes the Whitney Biennial, Reflecting the Tumult of the Times
+r_id: '682495'
+r_page_id: '500027'
+---
+
