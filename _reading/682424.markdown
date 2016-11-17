@@ -1,0 +1,12 @@
+---
+title: '682424'
+r_url: https://highfidelity.io/signup
+r_date: 2016-11-17 15:05:49.023000000 Z
+r_wrapped_url: https://www.reading.am/p/4uRW/https://highfidelity.io/signup
+r_page_description: Open-Source Shared Virtual Reality
+r_page_title: Sign up - High Fidelity
+r_title: Sign up - High Fidelity
+r_id: '682424'
+r_page_id: '499965'
+---
+
