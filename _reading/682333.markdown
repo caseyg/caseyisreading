@@ -1,0 +1,13 @@
+---
+title: '682333'
+r_url: https://www.upress.umn.edu/book-division/books/anthropocene-feminism
+r_date: 2016-11-17 02:29:46.340000000 Z
+r_wrapped_url: https://www.reading.am/p/4uQn/https://www.upress.umn.edu/book-division/books/anthropocene-feminism
+r_page_description: A stunning experiment in thinking of the Anthropocene through
+  feminism and queer theory
+r_page_title: Anthropocene Feminism
+r_title: Anthropocene Feminism
+r_id: '682333'
+r_page_id: '499888'
+---
+
