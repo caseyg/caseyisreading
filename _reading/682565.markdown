@@ -1,0 +1,13 @@
+---
+title: '682565'
+r_url: http://doriantaylor.com/content-management-a-case-study-of-sorts
+r_date: 2016-11-18 05:40:14.482000000 Z
+r_wrapped_url: https://www.reading.am/p/4uUn/http://doriantaylor.com/content-management-a-case-study-of-sorts
+r_page_description: This is part of my ongoing effort to bring to the surface more
+  examples of what I do.
+r_page_title: 'Content Management: A Case Study (Of Sorts)'
+r_title: 'Content Management: A Case Study (Of Sorts)'
+r_id: '682565'
+r_page_id: '138553'
+---
+
