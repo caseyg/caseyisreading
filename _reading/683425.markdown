@@ -1,0 +1,12 @@
+---
+title: '683425'
+r_url: https://cyber.harvard.edu/hoap/Intro_to_TagTeam
+r_date: 2016-11-21 17:14:05.069000000 Z
+r_wrapped_url: https://www.reading.am/p/4vac/https://cyber.harvard.edu/hoap/Intro_to_TagTeam
+r_page_description: General
+r_page_title: Intro to TagTeam - Harvard Open Access Project
+r_title: Intro to TagTeam - Harvard Open Access Project
+r_id: '683425'
+r_page_id: '500715'
+---
+
