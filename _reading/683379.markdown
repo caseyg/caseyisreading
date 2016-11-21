@@ -1,0 +1,13 @@
+---
+title: '683379'
+r_url: http://www.newyorker.com/culture/persons-of-interest/how-to-restore-your-faith-in-democracy
+r_date: 2016-11-21 16:22:25.479000000 Z
+r_wrapped_url: https://www.reading.am/p/4v9p/http://www.newyorker.com/culture/persons-of-interest/how-to-restore-your-faith-in-democracy
+r_page_description: Joshua Rothman on the Berggruen Prize-winning Canadian philosopher
+  Charles Taylor and his ideas about about the fate of democracy.
+r_page_title: How to Restore Your Faith in Democracy - The New Yorker
+r_title: How to Restore Your Faith in Democracy - The New Yorker
+r_id: '683379'
+r_page_id: '500679'
+---
+
