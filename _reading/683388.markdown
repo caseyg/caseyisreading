@@ -1,0 +1,13 @@
+---
+title: '683388'
+r_url: http://www.formidable.com/open-source/victory/
+r_date: 2016-11-21 16:51:09.104000000 Z
+r_wrapped_url: https://www.reading.am/p/4v9y/http://www.formidable.com/open-source/victory/
+r_page_description: A collection of composable React components for building interactive
+  data visualizations.
+r_page_title: Victory
+r_title: Victory
+r_id: '683388'
+r_page_id: '500685'
+---
+
