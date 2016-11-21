@@ -1,0 +1,12 @@
+---
+title: '683260'
+r_url: http://www.thinko.co/
+r_date: 2016-11-21 02:08:33.973000000 Z
+r_wrapped_url: https://www.reading.am/p/4v7m/http://www.thinko.co/
+r_page_description: We combine our powers to produce video games and interactive art.
+r_page_title: ''
+r_title: ''
+r_id: '683260'
+r_page_id: '500590'
+---
+
