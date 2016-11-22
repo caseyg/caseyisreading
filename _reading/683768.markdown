@@ -1,0 +1,12 @@
+---
+title: '683768'
+r_url: http://rhizome.org/editorial/2016/nov/21/simulating-enron/
+r_date: 2016-11-22 14:01:37.886000000 Z
+r_wrapped_url: https://www.reading.am/p/4vg7/http://rhizome.org/editorial/2016/nov/21/simulating-enron/
+r_page_description: The undead corpus of emails from a massive corporate fraud.
+r_page_title: Simulating Enron
+r_title: Simulating Enron
+r_id: '683768'
+r_page_id: '501006'
+---
+
