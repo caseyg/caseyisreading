@@ -1,0 +1,15 @@
+---
+title: '683965'
+r_url: https://en.wikipedia.org/wiki/Second_strike
+r_date: 2016-11-22 22:41:15.410000000 Z
+r_wrapped_url: https://www.reading.am/p/4vjv/https://en.wikipedia.org/wiki/Second_strike
+r_page_description: In nuclear strategy, a second-strike capability is a country's
+  assured ability to respond to a nuclear attack with powerful nuclear retaliation
+  against the attacker. To have such an ability (and to convince an opponent of its
+  viability) is considered vital...
+r_page_title: Second strike - Wikipedia
+r_title: Second strike - Wikipedia
+r_id: '683965'
+r_page_id: '501167'
+---
+
