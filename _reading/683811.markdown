@@ -1,0 +1,12 @@
+---
+title: '683811'
+r_url: https://github.com/googlesamples/md2googleslides
+r_date: 2016-11-22 15:52:03.814000000 Z
+r_wrapped_url: https://www.reading.am/p/4vgR/https://github.com/googlesamples/md2googleslides
+r_page_description: Generate Google Slides from markdown
+r_page_title: md2googleslides
+r_title: md2googleslides
+r_id: '683811'
+r_page_id: '501042'
+---
+
