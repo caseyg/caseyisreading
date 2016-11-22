@@ -1,0 +1,12 @@
+---
+title: '683805'
+r_url: http://www.forensic-architecture.org/
+r_date: 2016-11-22 15:45:32.259000000 Z
+r_wrapped_url: https://www.reading.am/p/4vgK/http://www.forensic-architecture.org/
+r_page_description: Forensic Architecture - Home
+r_page_title: Forensic Architecture - Home
+r_title: Forensic Architecture - Home
+r_id: '683805'
+r_page_id: '501037'
+---
+

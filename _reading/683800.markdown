@@ -1,0 +1,15 @@
+---
+title: '683800'
+r_url: http://hummingbirdclock.info/about
+r_date: 2016-11-22 15:42:08.753000000 Z
+r_wrapped_url: https://www.reading.am/p/4vgE/http://hummingbirdclock.info/about
+r_page_description: "+The noisy buzz of the mains electricity power supply has been
+  one of our urban environment’s most persistent background noises. One day in 1996
+  Dr Catalin Grigoras realised that the electricity wasn't just making noise, but
+  in fact singing..."
+r_page_title: '15:42:08'
+r_title: '15:42:08'
+r_id: '683800'
+r_page_id: '501032'
+---
+
