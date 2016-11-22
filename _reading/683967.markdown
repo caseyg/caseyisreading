@@ -1,0 +1,13 @@
+---
+title: '683967'
+r_url: https://en.wikipedia.org/wiki/The_Dead_Hand
+r_date: 2016-11-22 22:42:06.389000000 Z
+r_wrapped_url: https://www.reading.am/p/4vjx/https://en.wikipedia.org/wiki/The_Dead_Hand
+r_page_description: This article is about the non-fiction book The Dead Hand. For
+  the Cold War nuclear control system, see Dead Hand (nuclear war).
+r_page_title: The Dead Hand - Wikipedia
+r_title: The Dead Hand - Wikipedia
+r_id: '683967'
+r_page_id: '501169'
+---
+

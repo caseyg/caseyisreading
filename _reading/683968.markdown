@@ -1,0 +1,12 @@
+---
+title: '683968'
+r_url: https://en.wikipedia.org/wiki/Second-order
+r_date: 2016-11-22 22:43:17.488000000 Z
+r_wrapped_url: https://www.reading.am/p/4vjy/https://en.wikipedia.org/wiki/Second-order
+r_page_description: From Wikipedia, the free encyclopedia
+r_page_title: Second-order - Wikipedia
+r_title: Second-order - Wikipedia
+r_id: '683968'
+r_page_id: '501170'
+---
+
