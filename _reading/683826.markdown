@@ -1,0 +1,13 @@
+---
+title: '683826'
+r_url: http://real.foundation
+r_date: 2016-11-22 16:27:35.843000000 Z
+r_wrapped_url: https://www.reading.am/p/4vh7/http://real.foundation
+r_page_description: The Real Estate Architecture Laboratory is a foundation for alternative
+  forms of development, property and ownership. REAL publishes the Real Review.
+r_page_title: REAL
+r_title: REAL
+r_id: '683826'
+r_page_id: '501055'
+---
+
