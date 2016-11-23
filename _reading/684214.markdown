@@ -1,0 +1,14 @@
+---
+title: '684214'
+r_url: https://www.youtube.com/watch?v=98LdFA-_zfA
+r_date: 2016-11-23 16:20:43.846000000 Z
+r_wrapped_url: https://www.reading.am/p/4voN/https://www.youtube.com/watch?v=98LdFA-_zfA
+r_page_description: The following presentation was recorded live in San Jose, California,
+  October of 1996, at The 1996 ACM Conference on Object-Oriented Programs, Systems,
+  Languages and Applications (OOPSLA).
+r_page_title: Christopher Alexander - Patterns in Architecture
+r_title: Christopher Alexander - Patterns in Architecture
+r_id: '684214'
+r_page_id: '501351'
+---
+

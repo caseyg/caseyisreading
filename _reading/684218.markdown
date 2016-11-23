@@ -1,0 +1,11 @@
+---
+title: '684218'
+r_url: http://oscon.fed.wiki.org/view/welcome-visitors/view/oscon-2012-demo-video
+r_date: 2016-11-23 16:31:07.665000000 Z
+r_id: '684218'
+r_wrapped_url: https://www.reading.am/p/4voS/http://oscon.fed.wiki.org/view/welcome-visitors/view/oscon-2012-demo-video
+r_page_id: '501355'
+r_page_title: Smallest Federated Wiki
+r_title: Smallest Federated Wiki
+---
+
