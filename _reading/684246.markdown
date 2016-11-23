@@ -1,0 +1,12 @@
+---
+title: '684246'
+r_url: https://www.literai.com/?ref=producthunt
+r_date: 2016-11-23 19:00:01.172000000 Z
+r_wrapped_url: https://www.reading.am/p/4vpm/https://www.literai.com/?ref=producthunt
+r_page_description: Literai - Literature Written by Computers
+r_page_title: Literai
+r_title: Literai
+r_id: '684246'
+r_page_id: '501380'
+---
+

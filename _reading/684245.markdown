@@ -1,0 +1,14 @@
+---
+title: '684245'
+r_url: https://www.producthunt.com/posts/the-new-google-sites
+r_date: 2016-11-23 18:58:37.656000000 Z
+r_wrapped_url: https://www.reading.am/p/4vpk/https://www.producthunt.com/posts/the-new-google-sites
+r_page_description: The New Google Sites - Create and share webpages. (Web and Tech)
+  Read the opinion of 24 influencers. Discover 3 alternatives like Webflow CMS and
+  Tilda Publi...
+r_page_title: The New Google Sites
+r_title: The New Google Sites
+r_id: '684245'
+r_page_id: '501379'
+---
+
