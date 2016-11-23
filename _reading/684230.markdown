@@ -1,0 +1,12 @@
+---
+title: '684230'
+r_url: http://naivesound.com/glitch/#(t*5%26t%3E%3E7)%7C(t*3%26t%3E%3E10)
+r_date: 2016-11-23 17:21:36.778000000 Z
+r_wrapped_url: https://www.reading.am/p/4vp5/http://naivesound.com/glitch/#(t*5%26t%3E%3E7)%7C(t*3%26t%3E%3E10)
+r_page_description: Glitch is an algorithmic synthesizer. It creates music with math.
+r_page_title: Glitch
+r_title: Glitch
+r_id: '684230'
+r_page_id: '501366'
+---
+
