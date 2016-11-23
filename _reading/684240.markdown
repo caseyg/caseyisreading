@@ -1,0 +1,13 @@
+---
+title: '684240'
+r_url: https://metacademy.org/
+r_date: 2016-11-23 17:58:26.301000000 Z
+r_wrapped_url: https://www.reading.am/p/4vpf/https://metacademy.org/
+r_page_description: Metacademy - a free open source platform for efficient, personalized
+  learning.
+r_page_title: " Metacademy"
+r_title: " Metacademy"
+r_id: '684240'
+r_page_id: '501374'
+---
+
