@@ -1,0 +1,12 @@
+---
+title: '684504'
+r_url: https://brid.gy/about
+r_date: 2016-11-24 21:07:57.180000000 Z
+r_wrapped_url: https://www.reading.am/p/4vtN/https://brid.gy/about
+r_page_description: How does it work?
+r_page_title: About - Bridgy
+r_title: About - Bridgy
+r_id: '684504'
+r_page_id: '501566'
+---
+
