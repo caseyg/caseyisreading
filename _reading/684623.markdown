@@ -1,0 +1,13 @@
+---
+title: '684623'
+r_url: https://github.com/WardCunningham/Smallest-Federated-Wiki
+r_date: 2016-11-25 08:47:54.450000000 Z
+r_wrapped_url: https://www.reading.am/p/4vvR/https://github.com/WardCunningham/Smallest-Federated-Wiki
+r_page_description: 'Smallest-Federated-Wiki - This wiki innovates by: 1. federated
+  sharing, 2. drag refactoring and 3. data visualization.'
+r_page_title: WardCunningham/Smallest-Federated-Wiki
+r_title: WardCunningham/Smallest-Federated-Wiki
+r_id: '684623'
+r_page_id: '501659'
+---
+
