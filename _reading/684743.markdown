@@ -1,0 +1,14 @@
+---
+title: '684743'
+r_url: http://events.newschool.edu/event/nodapl_a_teach-in_for_standing_rock
+r_date: 2016-11-25 22:55:08.658000000 Z
+r_wrapped_url: https://www.reading.am/p/4vxV/http://events.newschool.edu/event/nodapl_a_teach-in_for_standing_rock
+r_page_description: The New School is excited to host a teach-in in support of the
+  Oceti Sakowin Oyate’s (The Great Sioux Nation) resistance to the Dakota Access Pipeline
+  (DAPL).
+r_page_title: "#NODAPL: A Teach-In for Standing Rock"
+r_title: "#NODAPL: A Teach-In for Standing Rock"
+r_id: '684743'
+r_page_id: '501753'
+---
+
