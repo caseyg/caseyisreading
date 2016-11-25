@@ -1,0 +1,14 @@
+---
+title: '684625'
+r_url: http://www.infoworld.com/article/2880204/collaboration-software/wiki-creator-reinvents-collaboration-again.html
+r_date: 2016-11-25 09:07:44.829000000 Z
+r_wrapped_url: https://www.reading.am/p/4vvT/http://www.infoworld.com/article/2880204/collaboration-software/wiki-creator-reinvents-collaboration-again.html
+r_page_description: The engine of the Internet is collaboration, which this blog is
+  dedicated to exploring. True Internet collaboration began with the wiki -- which
+  just underwent a complete transformation
+r_page_title: Wiki creator reinvents collaboration, again
+r_title: Wiki creator reinvents collaboration, again
+r_id: '684625'
+r_page_id: '361456'
+---
+
