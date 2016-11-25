@@ -1,0 +1,12 @@
+---
+title: '684754'
+r_url: https://github.com/onethawt/reverseengineering-reading-list
+r_date: 2016-11-25 23:26:25.284000000 Z
+r_wrapped_url: https://www.reading.am/p/4vy7/https://github.com/onethawt/reverseengineering-reading-list
+r_page_description: A list of Reverse Engineering articles, books, and papers
+r_page_title: reverseengineering-reading-list
+r_title: reverseengineering-reading-list
+r_id: '684754'
+r_page_id: '501761'
+---
+
