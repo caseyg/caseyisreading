@@ -1,0 +1,16 @@
+---
+title: '684710'
+r_url: https://c4ss.org/content/47015
+r_date: 2016-11-25 20:09:25.320000000 Z
+r_wrapped_url: https://www.reading.am/p/4vxm/https://c4ss.org/content/47015
+r_page_description: Popular provider of web tools for activists and anarchists and
+  backbone of much infrastructure for internet freedom, Riseup.net has almost certainly been
+  issued a gag order by the US government. Riseup regularly updates a canary located
+  here certifying that they haven’t received a gag order, court orders or the like.
+  That canary has gone dead (ie has not been updated)....
+r_page_title: Riseup’s Canary Has Died
+r_title: Riseup’s Canary Has Died
+r_id: '684710'
+r_page_id: '501550'
+---
+
