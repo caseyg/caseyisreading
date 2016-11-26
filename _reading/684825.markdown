@@ -1,0 +1,13 @@
+---
+title: '684825'
+r_url: http://liquidtext.net/
+r_date: 2016-11-26 05:35:09.782000000 Z
+r_wrapped_url: https://www.reading.am/p/4vzk/http://liquidtext.net/
+r_page_description: LiquidText improves upon the reading experience by allowing users
+  to better understand, synthesize, visualize and collaborate over digital text.
+r_page_title: Home
+r_title: Home
+r_id: '684825'
+r_page_id: '444535'
+---
+
