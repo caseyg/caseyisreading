@@ -1,0 +1,13 @@
+---
+title: '684788'
+r_url: https://zeit.co/dockerfile
+r_date: 2016-11-26 01:47:52.540000000 Z
+r_wrapped_url: https://www.reading.am/p/4vyG/https://zeit.co/dockerfile
+r_page_description: With now 0.20.0 we are introducing the fastest and simplest solution
+  to deploy, build and scale containers in the cloud
+r_page_title: Introducing Dockerfile support
+r_title: Introducing Dockerfile support
+r_id: '684788'
+r_page_id: '483292'
+---
+
