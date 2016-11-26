@@ -1,0 +1,13 @@
+---
+title: '684768'
+r_url: http://www.usatoday.com/story/tech/news/2016/11/21/facebook-aquila-drone-ntsb-investigation/94249612/
+r_date: 2016-11-26 00:33:45.958000000 Z
+r_wrapped_url: https://www.reading.am/p/4vym/http://www.usatoday.com/story/tech/news/2016/11/21/facebook-aquila-drone-ntsb-investigation/94249612/
+r_page_description: The drone suffered a "structural failure" as it was coming in
+  for a landing in the Arizona desert, according to the investigation. USA Today reports.
+r_page_title: Facebook Aquila drone accident under investigation
+r_title: Facebook Aquila drone accident under investigation
+r_id: '684768'
+r_page_id: '501774'
+---
+
