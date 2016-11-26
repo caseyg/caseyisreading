@@ -1,0 +1,13 @@
+---
+title: '684792'
+r_url: https://webtorrent.io/desktop/
+r_date: 2016-11-26 02:37:37.597000000 Z
+r_wrapped_url: https://www.reading.am/p/4vyL/https://webtorrent.io/desktop/
+r_page_description: WebTorrent, the streaming torrent client for the browser, Mac,
+  Windows, and Linux
+r_page_title: WebTorrent Desktop - Streaming torrent app for Mac, Windows, and Linux
+r_title: WebTorrent Desktop - Streaming torrent app for Mac, Windows, and Linux
+r_id: '684792'
+r_page_id: '501792'
+---
+
