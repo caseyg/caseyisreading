@@ -1,0 +1,13 @@
+---
+title: '684784'
+r_url: https://zeit.co/blog/now-static
+r_date: 2016-11-26 01:26:36.459000000 Z
+r_wrapped_url: https://www.reading.am/p/4vyC/https://zeit.co/blog/now-static
+r_page_description: This time, we'd like to tell you about the perfect workflow for
+  hosting static projects on Now.
+r_page_title: Static Hosting using Now
+r_title: Static Hosting using Now
+r_id: '684784'
+r_page_id: '501787'
+---
+
