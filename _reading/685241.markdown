@@ -1,0 +1,17 @@
+---
+title: '685241'
+r_url: http://www.kcrw.com/news-culture/shows/good-food/our-2016-thanksgiving-special
+r_date: 2016-11-27 21:38:24.733000000 Z
+r_wrapped_url: https://www.reading.am/p/4vGv/http://www.kcrw.com/news-culture/shows/good-food/our-2016-thanksgiving-special
+r_page_description: In honor of America's biggest food holiday, we offer you a bonus
+  Thanksgiving episode of our show. First we hop into a canoe with The Kitchen Sisters
+  to learn an Ojibwe tribe's traditional method of harvesting wild rice by hand. Then
+  Sean Sherman discusses his efforts to bring back Native American cuisine, and Chef
+  BJ Dennis gives us a primer on Gullah-Geechie cuisine. We close out the show on
+  the Sherry Trail with food writer Kay Plunkett-Hogge.
+r_page_title: Our 2016 Thanksgiving special
+r_title: Our 2016 Thanksgiving special
+r_id: '685241'
+r_page_id: '502143'
+---
+
