@@ -1,0 +1,14 @@
+---
+title: '685132'
+r_url: http://onlinelibrary.wiley.com/doi/10.1111/amet.12377/full
+r_date: 2016-11-27 08:55:31.435000000 Z
+r_wrapped_url: https://www.reading.am/p/4vEC/http://onlinelibrary.wiley.com/doi/10.1111/amet.12377/full
+r_page_description: Engaged anthropology, public anthropology, and public ethnography
+  are names for a long tradition of trying to make a difference beyond the academy.
+  The passionate and polarized responses of both nonacademic...
+r_page_title: 'The cross‐publics of ethnography: The case of “the Muslimwoman”'
+r_title: 'The cross‐publics of ethnography: The case of “the Muslimwoman”'
+r_id: '685132'
+r_page_id: '502064'
+---
+

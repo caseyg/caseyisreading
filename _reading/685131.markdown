@@ -1,0 +1,17 @@
+---
+title: '685131'
+r_url: https://www.youtube.com/watch?v=7uxJwBu-gK0
+r_date: 2016-11-27 08:50:36.633000000 Z
+r_wrapped_url: https://www.reading.am/p/4vEB/https://www.youtube.com/watch?v=7uxJwBu-gK0
+r_page_description: 'Tim Wu, professor at Columbia Law School, discusses his book,
+  "The Master Switch: The Rise and Fall of Information Empires," presented by Harvard
+  Book Store. Wu provides a historical examination of how all new media of the 20th
+  century (radio, television, Internet) started out as open resources, but became
+  restricted by industry and government to the detriment of free expression and innovation.
+  More lectures at http://forum-network.org'
+r_page_title: Tim Wu - The Rise and Fall of Information Empires
+r_title: Tim Wu - The Rise and Fall of Information Empires
+r_id: '685131'
+r_page_id: '502063'
+---
+
