@@ -1,0 +1,12 @@
+---
+title: '685133'
+r_url: https://www.ft.com/content/18faf0a6-b251-11e6-a37c-f4a01f1b0fa1
+r_date: 2016-11-27 09:02:17.723000000 Z
+r_wrapped_url: https://www.reading.am/p/4vED/https://www.ft.com/content/18faf0a6-b251-11e6-a37c-f4a01f1b0fa1
+r_page_description: ''
+r_page_title: Subscribe to read
+r_title: Subscribe to read
+r_id: '685133'
+r_page_id: '502065'
+---
+
