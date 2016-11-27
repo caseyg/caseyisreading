@@ -1,0 +1,14 @@
+---
+title: '685232'
+r_url: https://en.wikipedia.org/wiki/Group_development
+r_date: 2016-11-27 20:50:01.203000000 Z
+r_wrapped_url: https://www.reading.am/p/4vGm/https://en.wikipedia.org/wiki/Group_development
+r_page_description: The goal of most research on group development is to learn why
+  and how small groups change over time. To do this, researchers examine patterns
+  of change and continuity in groups over time. Aspects of a group that might be...
+r_page_title: Group development - Wikipedia
+r_title: Group development - Wikipedia
+r_id: '685232'
+r_page_id: '502138'
+---
+
