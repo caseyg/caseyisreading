@@ -1,0 +1,13 @@
+---
+title: '685288'
+r_url: http://sanfrancisco.cbslocal.com/2016/11/26/you-hacked-cyber-attackers-crash-muni-computer-system-across-sf/
+r_date: 2016-11-28 02:08:34.926000000 Z
+r_wrapped_url: https://www.reading.am/p/4vHj/http://sanfrancisco.cbslocal.com/2016/11/26/you-hacked-cyber-attackers-crash-muni-computer-system-across-sf/
+r_page_description: Cyber attackers crashed Muni’s fare system across San Francisco,
+  giving passengers free rides all day.
+r_page_title: "‘You Hacked,’ Cyber Attackers Crash Muni Computer System Across SF"
+r_title: "‘You Hacked,’ Cyber Attackers Crash Muni Computer System Across SF"
+r_id: '685288'
+r_page_id: '502139'
+---
+
