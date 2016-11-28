@@ -1,0 +1,14 @@
+---
+title: '685475'
+r_url: http://www.nytimes.com/2016/11/28/technology/cnn-brings-in-the-social-app-beme-to-cultivate-a-millennial-audience.html
+r_date: 2016-11-28 15:26:04.944000000 Z
+r_wrapped_url: https://www.reading.am/p/4vLx/http://www.nytimes.com/2016/11/28/technology/cnn-brings-in-the-social-app-beme-to-cultivate-a-millennial-audience.html
+r_page_description: The cable news network will shut down the social media app and
+  absorb its 12 employees, who will work to persuade younger, more skeptical viewers
+  to tune in.
+r_page_title: CNN Brings In the Social App Beme to Cultivate a Millennial Audience
+r_title: CNN Brings In the Social App Beme to Cultivate a Millennial Audience
+r_id: '685475'
+r_page_id: '502308'
+---
+
