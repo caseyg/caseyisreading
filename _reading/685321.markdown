@@ -1,0 +1,12 @@
+---
+title: '685321'
+r_url: https://www.youtube.com/watch?v=FjHJ7FmV0M4
+r_date: 2016-11-28 02:55:18.182000000 Z
+r_wrapped_url: https://www.reading.am/p/4vHT/https://www.youtube.com/watch?v=FjHJ7FmV0M4
+r_page_description: Inconceivable nature of nature.
+r_page_title: Richard Feynman talks about light
+r_title: Richard Feynman talks about light
+r_id: '685321'
+r_page_id: '502198'
+---
+
