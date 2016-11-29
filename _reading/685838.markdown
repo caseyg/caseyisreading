@@ -1,0 +1,14 @@
+---
+title: '685838'
+r_url: https://mitpress.mit.edu/books/drone
+r_date: 2016-11-29 14:36:21.491000000 Z
+r_wrapped_url: https://www.reading.am/p/4vSN/https://mitpress.mit.edu/books/drone
+r_page_description: Drone warfare described from the perspectives of drone operators,
+  victims of drone attacks, anti-drone activists, international law, military thinkers,
+  and others.
+r_page_title: Drone
+r_title: Drone
+r_id: '685838'
+r_page_id: '502592'
+---
+
