@@ -1,0 +1,13 @@
+---
+title: '685664'
+r_url: http://www.nytimes.com/2016/11/23/arts/design/maria-thereza-alves-wins-new-school-vera-list-prize.html
+r_date: 2016-11-29 00:32:37.440000000 Z
+r_wrapped_url: https://www.reading.am/p/4vPN/http://www.nytimes.com/2016/11/23/arts/design/maria-thereza-alves-wins-new-school-vera-list-prize.html
+r_page_description: The New School honors Maria Thereza Alves, whose “Seeds of Change”
+  traces human movement around the globe.
+r_page_title: Prize for Migration Project That Weaves Art and Politics
+r_title: Prize for Migration Project That Weaves Art and Politics
+r_id: '685664'
+r_page_id: '502448'
+---
+
