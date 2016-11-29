@@ -1,0 +1,14 @@
+---
+title: '685906'
+r_url: https://www.youtube.com/watch?v=I3l4XLZ59iw
+r_date: 2016-11-29 20:07:56.072000000 Z
+r_wrapped_url: https://www.reading.am/p/4vTY/https://www.youtube.com/watch?v=I3l4XLZ59iw
+r_page_description: "#VoCo allows you to change words in a voiceover simply by typing
+  new words.  Presented live during the Adobe MAX 2016 Sneak Peeks, co-hosted by Jordan
+  Peele. Learn more about this year's Sneak Peeks here:  http://adobe.ly/2ffyder"
+r_page_title: "#VoCo. Adobe MAX 2016 (Sneak Peeks) "
+r_title: "#VoCo. Adobe MAX 2016 (Sneak Peeks) "
+r_id: '685906'
+r_page_id: '500172'
+---
+
