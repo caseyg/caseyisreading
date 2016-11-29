@@ -1,0 +1,12 @@
+---
+title: '685855'
+r_url: https://github.com/tonsky/AnyBar
+r_date: 2016-11-29 16:50:32.836000000 Z
+r_wrapped_url: https://www.reading.am/p/4vT6/https://github.com/tonsky/AnyBar
+r_page_description: OS X menubar status indicator
+r_page_title: AnyBar
+r_title: AnyBar
+r_id: '685855'
+r_page_id: '502605'
+---
+
