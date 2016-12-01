@@ -1,0 +1,12 @@
+---
+title: '686348'
+r_url: http://www.nytimes.com/2013/03/17/magazine/the-inscrutable-brilliance-of-anne-carson.html
+r_date: 2016-12-01 03:01:51.751000000 Z
+r_wrapped_url: https://www.reading.am/p/4w2A/http://www.nytimes.com/2013/03/17/magazine/the-inscrutable-brilliance-of-anne-carson.html
+r_page_description: Is she a poet? No one quite knows for sure.
+r_page_title: The Inscrutable Brilliance of Anne Carson
+r_title: The Inscrutable Brilliance of Anne Carson
+r_id: '686348'
+r_page_id: '502972'
+---
+

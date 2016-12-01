@@ -1,0 +1,15 @@
+---
+title: '686347'
+r_url: https://en.wikipedia.org/wiki/Anne_Carson
+r_date: 2016-12-01 03:00:25.817000000 Z
+r_wrapped_url: https://www.reading.am/p/4w2z/https://en.wikipedia.org/wiki/Anne_Carson
+r_page_description: Anne Carson (born June 21, 1950) is a Canadian poet, essayist,
+  translator and professor of Classics. Carson lived in Montreal for several years
+  and taught at McGill University,[1] the University of Michigan,[2] and at Princeton
+  University from 1980-1987.[3] She was...
+r_page_title: Anne Carson - Wikipedia
+r_title: Anne Carson - Wikipedia
+r_id: '686347'
+r_page_id: '502971'
+---
+
