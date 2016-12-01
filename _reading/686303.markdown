@@ -1,0 +1,13 @@
+---
+title: '686303'
+r_url: http://whitney.org/Events/DigitalArtCriticismNow
+r_date: 2016-12-01 00:46:13.559000000 Z
+r_wrapped_url: https://www.reading.am/p/4w1P/http://whitney.org/Events/DigitalArtCriticismNow
+r_page_description: The Whitney Museum of American Art. Explore works, exhibitions,
+  and events online. Located in New York City.
+r_page_title: 'New Ways to See: Digital Art Criticism Now '
+r_title: 'New Ways to See: Digital Art Criticism Now '
+r_id: '686303'
+r_page_id: '502943'
+---
+
