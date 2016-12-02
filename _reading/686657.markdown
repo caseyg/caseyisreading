@@ -1,0 +1,15 @@
+---
+title: '686657'
+r_url: http://untappedcities.com/tour-of-the-remnants-of-penn-station/
+r_date: 2016-12-02 12:47:29.635000000 Z
+r_wrapped_url: https://www.reading.am/p/4w7V/http://untappedcities.com/tour-of-the-remnants-of-penn-station/
+r_page_description: In partnership with The Eternal Space, a play about an untold
+  story of the destruction of Penn Station, we are hosting a special “Demolition Anniversary”
+  tour series of the remnants of Penn Station with Justin Rivers, playwright of The
+  Eternal Space, timed with the 52nd anniversary of the station’s demolition.
+r_page_title: Tour of the Remnants of Penn Station
+r_title: Tour of the Remnants of Penn Station
+r_id: '686657'
+r_page_id: '503226'
+---
+
