@@ -1,0 +1,15 @@
+---
+title: '686666'
+r_url: http://anthology.rhizome.org/floodnet
+r_date: 2016-12-02 13:39:42.939000000 Z
+r_wrapped_url: https://www.reading.am/p/4w85/http://anthology.rhizome.org/floodnet
+r_page_description: FloodNet was a conceptual artwork and a tool for online collective
+  action. Developed by the collective Electronic Disturbance Theater (EDT), it took
+  the form of a Java applet that allowed users to send useless requests or personalized
+  messages to a remote web server in a coordinated fashion, thereb...
+r_page_title: RHIZOME NET ART ANTHOLOGY, FloodNet
+r_title: RHIZOME NET ART ANTHOLOGY, FloodNet
+r_id: '686666'
+r_page_id: '503233'
+---
+

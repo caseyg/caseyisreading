@@ -1,0 +1,15 @@
+---
+title: '686667'
+r_url: http://cdbu.org.uk/
+r_date: 2016-12-02 13:42:25.487000000 Z
+r_wrapped_url: https://www.reading.am/p/4w86/http://cdbu.org.uk/
+r_page_description: 'Higher Education in the UK is experiencing a raft of reforms
+  that are fundamentally reshaping what universities are, how they are governed and
+  their ability to undertake their core task: the production of knowledge in all its
+  guises.'
+r_page_title: 'CDBU '
+r_title: 'CDBU '
+r_id: '686667'
+r_page_id: '503234'
+---
+
