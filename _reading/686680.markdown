@@ -1,0 +1,12 @@
+---
+title: '686680'
+r_url: http://www.nytimes.com/2016/11/20/opinion/the-secret-agenda-of-a-facebook-quiz.html
+r_date: 2016-12-02 14:52:53.726000000 Z
+r_wrapped_url: https://www.reading.am/p/4w8j/http://www.nytimes.com/2016/11/20/opinion/the-secret-agenda-of-a-facebook-quiz.html
+r_page_description: What you do online can help elect a president.
+r_page_title: The Secret Agenda of a Facebook Quiz
+r_title: The Secret Agenda of a Facebook Quiz
+r_id: '686680'
+r_page_id: '502244'
+---
+
