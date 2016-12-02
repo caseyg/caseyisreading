@@ -1,0 +1,13 @@
+---
+title: '686673'
+r_url: http://nymag.com/daily/intelligencer/2016/11/trump-tower-and-the-militarization-of-urban-public-space.html
+r_date: 2016-12-02 14:03:54.602000000 Z
+r_wrapped_url: https://www.reading.am/p/4w8c/http://nymag.com/daily/intelligencer/2016/11/trump-tower-and-the-militarization-of-urban-public-space.html
+r_page_description: Trump’s election has turned his stretch of Fifth into the urban
+  equivalent of the security line at JFK.
+r_page_title: Trump Tower, Fifth Avenue, and the Militarization of Urban Public Space
+r_title: Trump Tower, Fifth Avenue, and the Militarization of Urban Public Space
+r_id: '686673'
+r_page_id: '503238'
+---
+
