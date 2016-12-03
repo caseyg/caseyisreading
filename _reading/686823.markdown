@@ -1,0 +1,14 @@
+---
+title: '686823'
+r_url: http://www.nyhistory.org/exhibit/brewster-carriage-factory-new-york-city
+r_date: 2016-12-03 06:44:27.306000000 Z
+r_wrapped_url: https://www.reading.am/p/4waM/http://www.nyhistory.org/exhibit/brewster-carriage-factory-new-york-city
+r_page_description: The well-known firm of Brewster and Co. was listed at its old
+  address of 272 Broome Street, N.Y.C., in the New York City directory for 1873-1874,
+  but at its new establishment at 1581 Broadway, between 47th and 48th streets, in...
+r_page_title: 'New-York Historical Society '
+r_title: 'New-York Historical Society '
+r_id: '686823'
+r_page_id: '503341'
+---
+
