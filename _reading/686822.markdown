@@ -1,0 +1,12 @@
+---
+title: '686822'
+r_url: https://en.wikipedia.org/wiki/Equitable_Life_Building_(New_York_City)
+r_date: 2016-12-03 06:40:29.555000000 Z
+r_wrapped_url: https://www.reading.am/p/4waL/https://en.wikipedia.org/wiki/Equitable_Life_Building_(New_York_City)
+r_page_description: ''
+r_page_title: Equitable Life Building (New York City) - Wikipedia
+r_title: Equitable Life Building (New York City) - Wikipedia
+r_id: '686822'
+r_page_id: '503340'
+---
+

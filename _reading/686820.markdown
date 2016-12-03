@@ -1,0 +1,12 @@
+---
+title: '686820'
+r_url: https://en.wikipedia.org/wiki/Edward_Sargent
+r_date: 2016-12-03 06:39:29.124000000 Z
+r_wrapped_url: https://www.reading.am/p/4waJ/https://en.wikipedia.org/wiki/Edward_Sargent
+r_page_description: ''
+r_page_title: Edward Sargent - Wikipedia
+r_title: Edward Sargent - Wikipedia
+r_id: '686820'
+r_page_id: '503338'
+---
+
