@@ -1,0 +1,20 @@
+---
+title: '686828'
+r_url: https://books.google.com/books/about/St_George.html?id=yvEsrztpAWIC
+r_date: 2016-12-03 06:49:09.292000000 Z
+r_wrapped_url: https://www.reading.am/p/4waS/https://books.google.com/books/about/St_George.html?id=yvEsrztpAWIC
+r_page_description: At the northeastern tip of Staten Island lies the town of St.
+  George, the docking point of the famous Staten Island Ferry. Within its borders
+  is Fort Hill, a fortified British lookout point used during the Revolutionary War.
+  By the 1830s, this area of Staten Island facing the Kill van Kull and New York Harbor
+  was a fashionable resort town where a wealthy clientele frequented the many elegant
+  hotels that graced the areaas hilly terrain. Great estates dotted the landscape
+  to take advantage of the unparalleled views of New York City and the bustling harbor
+  below. Today St. George is the civic center of Staten Island, as well as a commuting
+  hub for islanders who work in the great metropolis across the bay.
+r_page_title: St. George
+r_title: St. George
+r_id: '686828'
+r_page_id: '503346'
+---
+
