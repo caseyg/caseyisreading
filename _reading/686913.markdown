@@ -1,0 +1,14 @@
+---
+title: '686913'
+r_url: http://www.redblobgames.com/x/1645-phoneme-namegen/
+r_date: 2016-12-03 14:50:23.850000000 Z
+r_wrapped_url: https://www.reading.am/p/4wck/http://www.redblobgames.com/x/1645-phoneme-namegen/
+r_page_description: Neural networks are neat, and there are more ways to use them
+  than I had known about before.I had played with neural networks a long time ago.
+  Things are much easier to try now than they were twenty years ago:You...
+r_page_title: Phoneme modification for Procedural Name Generation
+r_title: Phoneme modification for Procedural Name Generation
+r_id: '686913'
+r_page_id: '503371'
+---
+
