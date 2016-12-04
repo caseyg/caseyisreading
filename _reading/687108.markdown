@@ -1,0 +1,13 @@
+---
+title: '687108'
+r_url: http://poignant.guide/
+r_date: 2016-12-04 03:45:14.152000000 Z
+r_wrapped_url: https://www.reading.am/p/4wfG/http://poignant.guide/
+r_page_description: A programming adventure for Ruby beginners illustrated with cartoon
+  foxes.
+r_page_title: ''
+r_title: ''
+r_id: '687108'
+r_page_id: '503518'
+---
+
