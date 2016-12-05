@@ -1,0 +1,16 @@
+---
+title: '687414'
+r_url: https://css-tricks.com/experimenting-color-fonts/
+r_date: 2016-12-05 15:10:54.428000000 Z
+r_wrapped_url: https://www.reading.am/p/4wkY/https://css-tricks.com/experimenting-color-fonts/
+r_page_description: 'Over the past couple of weeks there’s been a lot of excitement
+  over color fonts. Adobe describes the technology like this: OpenType-SVG is a font
+  format in which an OpenType font has all or just some of its glyphs represented
+  as SVG (scalable vector graphics) artwork. This allows the display of multiple colors
+  and gradients…'
+r_page_title: Experimenting with Color Fonts
+r_title: Experimenting with Color Fonts
+r_id: '687414'
+r_page_id: '503745'
+---
+

@@ -1,0 +1,16 @@
+---
+title: '687413'
+r_url: https://css-tricks.com/loops-css-preprocessors/
+r_date: 2016-12-05 15:10:15.971000000 Z
+r_wrapped_url: https://www.reading.am/p/4wkX/https://css-tricks.com/loops-css-preprocessors/
+r_page_description: If you've ever watched old sci-fi flicks, you know how powerful
+  loops can be. Feed your robot nemesis an infinite loop, and kaboom. Robo dust. Preprocessor
+  loops will not cause dramatic explosions in space (I hope), but they are useful
+  for writing DRY CSS. While everyone is talking about pattern libraries and modular
+  design, most…
+r_page_title: Loops in CSS Preprocessors
+r_title: Loops in CSS Preprocessors
+r_id: '687413'
+r_page_id: '503744'
+---
+
