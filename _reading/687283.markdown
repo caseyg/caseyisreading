@@ -1,0 +1,15 @@
+---
+title: '687283'
+r_url: https://en.wikipedia.org/wiki/ImageNet
+r_date: 2016-12-05 00:33:37.832000000 Z
+r_wrapped_url: https://www.reading.am/p/4wiH/https://en.wikipedia.org/wiki/ImageNet
+r_page_description: The ImageNet project is a large visual database designed for use
+  in visual object recognition software research. As of 2016, over ten million URLs
+  of images have been hand-annotated by ImageNet to indicate what objects are pictured;
+  in at least...
+r_page_title: ImageNet - Wikipedia
+r_title: ImageNet - Wikipedia
+r_id: '687283'
+r_page_id: '503662'
+---
+
