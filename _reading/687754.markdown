@@ -1,0 +1,12 @@
+---
+title: '687754'
+r_url: http://c2.com/morse/wiki.cgi?WhyLearnCode
+r_date: 2016-12-06 15:22:04.983000000 Z
+r_wrapped_url: https://www.reading.am/p/4wrQ/http://c2.com/morse/wiki.cgi?WhyLearnCode
+r_page_description: Why would anyone want to learn code?
+r_page_title: 'Wiki: Why Learn Code'
+r_title: 'Wiki: Why Learn Code'
+r_id: '687754'
+r_page_id: '504000'
+---
+
