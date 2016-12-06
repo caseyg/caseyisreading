@@ -1,0 +1,12 @@
+---
+title: '687644'
+r_url: http://cfa.aiany.org/index.php?section=calendar&evtid=10064
+r_date: 2016-12-06 04:48:13.231000000 Z
+r_wrapped_url: https://www.reading.am/p/4wpW/http://cfa.aiany.org/index.php?section=calendar&evtid=10064
+r_page_description: Events, lectures, and public programs at the Center for Architecture
+r_page_title: 'AIA New York Chapter : Calendar'
+r_title: 'AIA New York Chapter : Calendar'
+r_id: '687644'
+r_page_id: '503909'
+---
+
