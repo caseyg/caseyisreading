@@ -1,0 +1,14 @@
+---
+title: '687791'
+r_url: http://www.theverge.com/2016/12/6/13850230/fake-news-sites-google-search-facebook-instant-articles
+r_date: 2016-12-06 17:39:16.297000000 Z
+r_wrapped_url: https://www.reading.am/p/4wst/http://www.theverge.com/2016/12/6/13850230/fake-news-sites-google-search-facebook-instant-articles
+r_page_description: If you asked Google who won the popular vote just after the election,
+  there’s a chance you would have been sent to a conspiracy blog with bogus results.
+  And the site is likely to have looked as legitimate as any other.
+r_page_title: How Facebook and Google help camouflage fake news
+r_title: How Facebook and Google help camouflage fake news
+r_id: '687791'
+r_page_id: '504011'
+---
+
