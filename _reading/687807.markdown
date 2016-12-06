@@ -1,0 +1,14 @@
+---
+title: '687807'
+r_url: https://nordiclarp.org/wiki/The_Mixing_Desk_of_Larp
+r_date: 2016-12-06 18:59:36.779000000 Z
+r_wrapped_url: https://www.reading.am/p/4wsK/https://nordiclarp.org/wiki/The_Mixing_Desk_of_Larp
+r_page_description: The Mixing Desk of Larp is a framework for organizing your thoughts
+  about larp design. Look at it as a pedagogical tool more than a theory of larp design
+  – it is an aid in visualizing the most important design...
+r_page_title: The Mixing Desk of Larp - Nordic Larp Wiki
+r_title: The Mixing Desk of Larp - Nordic Larp Wiki
+r_id: '687807'
+r_page_id: '504036'
+---
+
