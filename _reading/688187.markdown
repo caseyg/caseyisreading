@@ -1,0 +1,12 @@
+---
+title: '688187'
+r_url: https://dotfiles.github.io/
+r_date: 2016-12-07 16:34:20.358000000 Z
+r_wrapped_url: https://www.reading.am/p/4wzi/https://dotfiles.github.io/
+r_page_description: Why would I want my dotfiles on GitHub?
+r_page_title: ''
+r_title: ''
+r_id: '688187'
+r_page_id: '504335'
+---
+
