@@ -1,0 +1,12 @@
+---
+title: '688212'
+r_url: http://thekitchen.org/event/sondra-perry-resident-evil
+r_date: 2016-12-07 17:05:59.745000000 Z
+r_wrapped_url: https://www.reading.am/p/4wzJ/http://thekitchen.org/event/sondra-perry-resident-evil
+r_page_description: ''
+r_page_title: 'The Kitchen: Sondra Perry: Resident Evil'
+r_title: 'The Kitchen: Sondra Perry: Resident Evil'
+r_id: '688212'
+r_page_id: '504354'
+---
+
