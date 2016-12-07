@@ -1,0 +1,12 @@
+---
+title: '688005'
+r_url: http://phaser.io/
+r_date: 2016-12-07 04:36:12.504000000 Z
+r_wrapped_url: https://www.reading.am/p/4wwa/http://phaser.io/
+r_page_description: 'Phaser: The fun, fast and free HTML5 Game Framework'
+r_page_title: Phaser - A fast, fun and free open source HTML5 game framework
+r_title: Phaser - A fast, fun and free open source HTML5 game framework
+r_id: '688005'
+r_page_id: '504202'
+---
+
