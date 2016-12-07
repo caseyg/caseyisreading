@@ -1,0 +1,14 @@
+---
+title: '688252'
+r_url: http://waxy.org/2016/11/redesigning-waxy-2016-edition/
+r_date: 2016-12-07 20:46:09.295000000 Z
+r_wrapped_url: https://www.reading.am/p/4wAq/http://waxy.org/2016/11/redesigning-waxy-2016-edition/
+r_page_description: "“Redesigning your blog” in 2016 is an anachronism. Like tweaking your
+  Gopher presence or upgrading your ham radio, even talking about blogging feels like
+  a throwback — an exercise in no…"
+r_page_title: Redesigning Waxy, 2016 edition
+r_title: Redesigning Waxy, 2016 edition
+r_id: '688252'
+r_page_id: '496779'
+---
+
