@@ -1,0 +1,12 @@
+---
+title: '688402'
+r_url: http://plaintextaccounting.org/
+r_date: 2016-12-08 05:44:01.516000000 Z
+r_wrapped_url: https://www.reading.am/p/4wD1/http://plaintextaccounting.org/
+r_page_description: ''
+r_page_title: Plain Text Accounting, a guide to Ledger and friends
+r_title: Plain Text Accounting, a guide to Ledger and friends
+r_id: '688402'
+r_page_id: '504514'
+---
+
