@@ -1,0 +1,16 @@
+---
+title: '688534'
+r_url: http://journal.disruptivemedia.org.uk/web-annotation-as-conversation-and-interruption/
+r_date: 2016-12-08 18:27:33.766000000 Z
+r_wrapped_url: https://www.reading.am/p/4wFh/http://journal.disruptivemedia.org.uk/web-annotation-as-conversation-and-interruption/
+r_page_description: "#performativepublishing   Introduction This is a series of thematic
+  conversations on the politics and practices of web annotation between Remi Kalir,
+  Assistant Professor of Information and Learning Technologies at the University of
+  Colorado Denver, and Jeremy Dean, Director of Education for Hypothes.is. We have
+  each chosen specific keywords and offered the other an initial…"
+r_page_title: Web Annotation as Conversation and Interruption
+r_title: Web Annotation as Conversation and Interruption
+r_id: '688534'
+r_page_id: '504615'
+---
+
