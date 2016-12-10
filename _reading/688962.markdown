@@ -1,0 +1,14 @@
+---
+title: '688962'
+r_url: http://cooper.edu/about/trustees
+r_date: 2016-12-10 02:20:12.218000000 Z
+r_wrapped_url: https://www.reading.am/p/4wNE/http://cooper.edu/about/trustees
+r_page_description: The Cooper Union, open since 1859, grants degrees in art, architecture
+  and engineering and offers courses in continuing education in New York City's East
+  Village.
+r_page_title: 'Trustees '
+r_title: 'Trustees '
+r_id: '688962'
+r_page_id: '504973'
+---
+

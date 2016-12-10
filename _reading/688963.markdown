@@ -1,0 +1,14 @@
+---
+title: '688963'
+r_url: http://cooper.edu/about/trustees/rachel-l-warren
+r_date: 2016-12-10 02:20:15.964000000 Z
+r_wrapped_url: https://www.reading.am/p/4wNF/http://cooper.edu/about/trustees/rachel-l-warren
+r_page_description: The Cooper Union, open since 1859, grants degrees in art, architecture
+  and engineering and offers courses in continuing education in New York City's East
+  Village.
+r_page_title: 'Rachel L. Warren '
+r_title: 'Rachel L. Warren '
+r_id: '688963'
+r_page_id: '504974'
+---
+
