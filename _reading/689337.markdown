@@ -1,0 +1,14 @@
+---
+title: '689337'
+r_url: http://old.aloft.nu/mkk/alterconfnyc
+r_date: 2016-12-12 04:49:18.301000000 Z
+r_wrapped_url: https://www.reading.am/p/4wV8/http://old.aloft.nu/mkk/alterconfnyc
+r_page_description: Aloft was created by Stanley Sakai in 2015 as an open source web
+  app designed to deliver realtime transcriptions instantaneously and seamlessly through
+  a sleek, lightweight, and easy-to-use platform.
+r_page_title: alterconfnyc
+r_title: alterconfnyc
+r_id: '689337'
+r_page_id: '505235'
+---
+
