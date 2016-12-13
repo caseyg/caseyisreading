@@ -1,0 +1,14 @@
+---
+title: '689719'
+r_url: http://www.newyorker.com/culture/cultural-comment/a-transcendent-patti-smith-accepts-bob-dylans-nobel-prize
+r_date: 2016-12-13 17:52:33.864000000 Z
+r_wrapped_url: https://www.reading.am/p/4x2H/http://www.newyorker.com/culture/cultural-comment/a-transcendent-patti-smith-accepts-bob-dylans-nobel-prize
+r_page_description: Amanda Petrusich on the Nobel Prize ceremony in Sweden, where
+  Bob Dylan’s Nobel Prize in Literature was accepted on his behalf by the musician
+  Patti Smith.
+r_page_title: A Transcendent Patti Smith Accepts Bob Dylan’s Nobel Prize
+r_title: A Transcendent Patti Smith Accepts Bob Dylan’s Nobel Prize
+r_id: '689719'
+r_page_id: '505087'
+---
+
