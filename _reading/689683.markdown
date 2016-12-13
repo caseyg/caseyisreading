@@ -1,0 +1,14 @@
+---
+title: '689683'
+r_url: https://soundcloud.com/postlighttrackchanges/michael-sippey-on-product
+r_date: 2016-12-13 16:35:53.753000000 Z
+r_wrapped_url: https://www.reading.am/p/4x26/https://soundcloud.com/postlighttrackchanges/michael-sippey-on-product
+r_page_description: 'Learning from successes and failures: this week Paul and Rich
+  talk to Michael Sippey, whose career spans the history of the web, from blogging
+  pioneer to Six Apart to director of product at Twitter to'
+r_page_title: "#0043: Michael Sippey on Product Management—and Pivoting by Track Changes"
+r_title: "#0043: Michael Sippey on Product Management—and Pivoting by Track Changes"
+r_id: '689683'
+r_page_id: '505454'
+---
+
