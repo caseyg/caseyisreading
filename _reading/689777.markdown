@@ -1,0 +1,15 @@
+---
+title: '689777'
+r_url: http://cooking.nytimes.com/recipes/1017925-pistachio-baklava
+r_date: 2016-12-13 22:17:34.048000000 Z
+r_wrapped_url: https://www.reading.am/p/4x3H/http://cooking.nytimes.com/recipes/1017925-pistachio-baklava
+r_page_description: This Turkish-style baklava tastes deeply and richly of pistachio
+  nuts and butter, without the spices, honey or aromatics found in other versions
+  It has a purity of flavor that, while still quite sweet, is never cloying This very
+  traditional recipe is from one of the most celebrated baklava shops in Istanbul
+r_page_title: Pistachio Baklava Recipe
+r_title: Pistachio Baklava Recipe
+r_id: '689777'
+r_page_id: '505528'
+---
+
