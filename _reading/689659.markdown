@@ -1,0 +1,13 @@
+---
+title: '689659'
+r_url: http://www.nytimes.com/interactive/2016/us/politics/donald-trump-administration.html
+r_date: 2016-12-13 15:28:55.554000000 Z
+r_wrapped_url: https://www.reading.am/p/4x1F/http://www.nytimes.com/interactive/2016/us/politics/donald-trump-administration.html
+r_page_description: A list of possibilities and appointees for top posts in the new
+  administration.
+r_page_title: Donald Trump Is Choosing His Cabinet. Here’s the Latest List.
+r_title: Donald Trump Is Choosing His Cabinet. Here’s the Latest List.
+r_id: '689659'
+r_page_id: '505436'
+---
+

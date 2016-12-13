@@ -1,0 +1,13 @@
+---
+title: '689662'
+r_url: http://www.nytimes.com/interactive/2016/12/02/world/trump-calls-to-world-leaders.html
+r_date: 2016-12-13 15:35:37.582000000 Z
+r_wrapped_url: https://www.reading.am/p/4x1J/http://www.nytimes.com/interactive/2016/12/02/world/trump-calls-to-world-leaders.html
+r_page_description: President-elect Donald J. Trump has broken with decades of diplomatic
+  practice in freewheeling calls with foreign leaders.
+r_page_title: How Trump’s Calls to World Leaders Are Upsetting Decades of Diplomacy
+r_title: How Trump’s Calls to World Leaders Are Upsetting Decades of Diplomacy
+r_id: '689662'
+r_page_id: '505440'
+---
+
