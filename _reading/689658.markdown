@@ -1,0 +1,13 @@
+---
+title: '689658'
+r_url: http://www.nytimes.com/2016/12/13/us/politics/rick-perry-energy-secretary-trump.html
+r_date: 2016-12-13 15:26:33.075000000 Z
+r_wrapped_url: https://www.reading.am/p/4x1E/http://www.nytimes.com/2016/12/13/us/politics/rick-perry-energy-secretary-trump.html
+r_page_description: When he was running in the 2012 presidential race, Mr. Perry said
+  he wanted to abolish the agency, but at a debate, he could not remember its name.
+r_page_title: Rick Perry, Ex-Governor of Texas, Is Trump’s Pick as Energy Secretary
+r_title: Rick Perry, Ex-Governor of Texas, Is Trump’s Pick as Energy Secretary
+r_id: '689658'
+r_page_id: '505435'
+---
+
