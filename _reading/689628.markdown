@@ -1,0 +1,14 @@
+---
+title: '689628'
+r_url: https://en.wikipedia.org/wiki/Rex_Tillerson
+r_date: 2016-12-13 14:40:36.224000000 Z
+r_wrapped_url: https://www.reading.am/p/4x19/https://en.wikipedia.org/wiki/Rex_Tillerson
+r_page_description: Rex Wayne Tillerson (born March 23, 1952) is an American Engineer
+  - businessman and is the chairman and CEO of Exxon Mobil Corporation, the fifth
+  largest company by market capitalization.[2][3]
+r_page_title: Rex Tillerson - Wikipedia
+r_title: Rex Tillerson - Wikipedia
+r_id: '689628'
+r_page_id: '505415'
+---
+
