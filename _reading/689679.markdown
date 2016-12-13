@@ -1,0 +1,13 @@
+---
+title: '689679'
+r_url: https://www.theatlantic.com/magazine/archive/2017/01/my-president-was-black/508793/
+r_date: 2016-12-13 16:26:17.375000000 Z
+r_wrapped_url: https://www.reading.am/p/4x22/https://www.theatlantic.com/magazine/archive/2017/01/my-president-was-black/508793/
+r_page_description: A history of the first African American White House—and of what
+  came next
+r_page_title: My President Was Black
+r_title: My President Was Black
+r_id: '689679'
+r_page_id: '505401'
+---
+
