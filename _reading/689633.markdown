@@ -1,0 +1,13 @@
+---
+title: '689633'
+r_url: http://corporate.exxonmobil.com/en/company/about-us/management/rex-w-tillerson
+r_date: 2016-12-13 14:56:10.267000000 Z
+r_wrapped_url: https://www.reading.am/p/4x1e/http://corporate.exxonmobil.com/en/company/about-us/management/rex-w-tillerson
+r_page_description: Our management team is comprised of great minds and senior leadership.
+  Learn more about ExxonMobil Chairman and CEO Rex Tillerson.
+r_page_title: Learn about ExxonMobil Chairman and CEO Rex W. Tillerson
+r_title: Learn about ExxonMobil Chairman and CEO Rex W. Tillerson
+r_id: '689633'
+r_page_id: '505419'
+---
+
