@@ -1,0 +1,16 @@
+---
+title: '689981'
+r_url: http://press.princeton.edu/titles/10581.html
+r_date: 2016-12-14 14:54:24.506000000 Z
+r_wrapped_url: https://www.reading.am/p/4x7e/http://press.princeton.edu/titles/10581.html
+r_page_description: 'Description of the book The Mushroom at the End of the World:
+  On the Possibility of Life in Capitalist Ruins by Tsing, A.L. and Tsing, A.L. and,
+  published by Princeton University Press'
+r_page_title: 'Tsing, A.L. and Tsing, A.L. and: The Mushroom at the End of the World:
+  On the Possibility of Life in Capitalist Ruins. (eBook and Hardcover)'
+r_title: 'Tsing, A.L. and Tsing, A.L. and: The Mushroom at the End of the World: On
+  the Possibility of Life in Capitalist Ruins. (eBook and Hardcover)'
+r_id: '689981'
+r_page_id: '405322'
+---
+
