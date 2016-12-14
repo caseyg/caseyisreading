@@ -1,0 +1,13 @@
+---
+title: '690007'
+r_url: http://speculatingfutures.club
+r_date: 2016-12-14 16:42:53.284000000 Z
+r_wrapped_url: https://www.reading.am/p/4x7F/http://speculatingfutures.club
+r_page_description: A reading list about speculative narratives, ambiguous utopias,
+  present dystopias, and how we can make futures we can feel good about
+r_page_title: Speculating Futures
+r_title: Speculating Futures
+r_id: '690007'
+r_page_id: '505706'
+---
+
