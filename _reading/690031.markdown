@@ -1,0 +1,12 @@
+---
+title: '690031'
+r_url: https://www.youtube.com/watch?v=UqzVSvqXJYg
+r_date: 2016-12-14 18:49:08.335000000 Z
+r_wrapped_url: https://www.reading.am/p/4x86/https://www.youtube.com/watch?v=UqzVSvqXJYg
+r_page_description: "Complete video at: http://fora.tv/2006/06/26/Will_Wright_and_Brian_Eno\r"
+r_page_title: Will Wright and Brian Eno - Generative Systems
+r_title: Will Wright and Brian Eno - Generative Systems
+r_id: '690031'
+r_page_id: '505724'
+---
+
