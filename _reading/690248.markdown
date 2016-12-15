@@ -1,0 +1,13 @@
+---
+title: '690248'
+r_url: http://newsroom.fb.com/news/2016/12/news-feed-fyi-addressing-hoaxes-and-fake-news/
+r_date: 2016-12-15 20:27:18.658000000 Z
+r_wrapped_url: https://www.reading.am/p/4xbQ/http://newsroom.fb.com/news/2016/12/news-feed-fyi-addressing-hoaxes-and-fake-news/
+r_page_description: 'We''re committed to doing our part to address the issue of fake
+  news and hoaxes on Facebook. '
+r_page_title: 'News Feed FYI: Addressing Hoaxes and Fake News '
+r_title: 'News Feed FYI: Addressing Hoaxes and Fake News '
+r_id: '690248'
+r_page_id: '505876'
+---
+
