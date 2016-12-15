@@ -1,0 +1,13 @@
+---
+title: '690118'
+r_url: http://www.newyorker.com/culture/cultural-comment/patti-smith-on-singing-at-bob-dylans-nobel-prize-ceremony
+r_date: 2016-12-15 01:42:38.281000000 Z
+r_wrapped_url: https://www.reading.am/p/4x9A/http://www.newyorker.com/culture/cultural-comment/patti-smith-on-singing-at-bob-dylans-nobel-prize-ceremony
+r_page_description: When it was announced that Bob Dylan won the Nobel Prize, it seemed
+  no longer fitting to sing my own song at the ceremony.
+r_page_title: Patti Smith on Singing at Bob Dylan’s Nobel Prize Ceremony
+r_title: Patti Smith on Singing at Bob Dylan’s Nobel Prize Ceremony
+r_id: '690118'
+r_page_id: '505790'
+---
+

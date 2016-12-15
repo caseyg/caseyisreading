@@ -1,0 +1,14 @@
+---
+title: '690116'
+r_url: http://www.smbc-comics.com/comic/the-talk-4
+r_date: 2016-12-15 01:30:16.655000000 Z
+r_wrapped_url: https://www.reading.am/p/4x9y/http://www.smbc-comics.com/comic/the-talk-4
+r_page_description: "Drawn with great humility and thanks to one of my favorite people.
+  Scott did all of the real work, and I threw in some dirty jokes. So, hey, a pretty
+  good deal all around.\r"
+r_page_title: Saturday Morning Breakfast Cereal - The Talk
+r_title: Saturday Morning Breakfast Cereal - The Talk
+r_id: '690116'
+r_page_id: '505789'
+---
+
