@@ -1,0 +1,12 @@
+---
+title: '690262'
+r_url: http://facebook.design/virtual-hands
+r_date: 2016-12-15 21:44:09.429000000 Z
+r_wrapped_url: https://www.reading.am/p/4xc5/http://facebook.design/virtual-hands
+r_page_description: Renders of hands in various poses to be used in your VR designs.
+r_page_title: Facebook Design — Virtual Hands
+r_title: Facebook Design — Virtual Hands
+r_id: '690262'
+r_page_id: '505892'
+---
+
