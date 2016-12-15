@@ -1,0 +1,13 @@
+---
+title: '690129'
+r_url: https://www.wired.com/2016/12/7500-faceless-coders-paid-bitcoin-built-hedge-funds-brain/
+r_date: 2016-12-15 02:53:53.838000000 Z
+r_wrapped_url: https://www.reading.am/p/4x9M/https://www.wired.com/2016/12/7500-faceless-coders-paid-bitcoin-built-hedge-funds-brain/
+r_page_description: They can't see his data. He can't see them. But Richard Craib
+  believes the blind can lead the blind to a better hedge fund.
+r_page_title: 7,500 Faceless Coders Paid in Bitcoin Built a Hedge Fund’s Brain
+r_title: 7,500 Faceless Coders Paid in Bitcoin Built a Hedge Fund’s Brain
+r_id: '690129'
+r_page_id: '505799'
+---
+
