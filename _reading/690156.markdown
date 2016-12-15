@@ -1,0 +1,13 @@
+---
+title: '690156'
+r_url: http://www.cnbc.com/2016/12/14/trump-to-tech-leaders-no-formal-chain-of-command-here.html
+r_date: 2016-12-15 05:51:04.322000000 Z
+r_wrapped_url: https://www.reading.am/p/4xaf/http://www.cnbc.com/2016/12/14/trump-to-tech-leaders-no-formal-chain-of-command-here.html
+r_page_description: Trump and his cabinet picks have not seen eye-to-eye with tech
+  leaders on many issues, including encryption, immigration, and diversity.
+r_page_title: Trump meets with tech titans as Bezos lauds 'productive' session
+r_title: Trump meets with tech titans as Bezos lauds 'productive' session
+r_id: '690156'
+r_page_id: '505821'
+---
+
