@@ -1,0 +1,13 @@
+---
+title: '690552'
+r_url: https://www.youtube.com/watch?v=kjjygSHCv9I
+r_date: 2016-12-16 21:59:34.822000000 Z
+r_wrapped_url: https://www.reading.am/p/4xh5/https://www.youtube.com/watch?v=kjjygSHCv9I
+r_page_description: This InDesign tutorial explores how to create a template to serve
+  as the basis for a long document. Watch more at http://www.lynda.com/InDesign-tutorials/Creating-Long-Documents-with-InDesign/89437-2.html?utm_medium=viral&amp;utm_source=youtube&amp;utm_campaign=videoupload-89437-0201
+r_page_title: 'How to work with templates in InDesign '
+r_title: 'How to work with templates in InDesign '
+r_id: '690552'
+r_page_id: '506110'
+---
+
