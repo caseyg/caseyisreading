@@ -1,0 +1,13 @@
+---
+title: '690493'
+r_url: http://anthology.rhizome.org
+r_date: 2016-12-16 16:53:04.531000000 Z
+r_wrapped_url: https://www.reading.am/p/4xg4/http://anthology.rhizome.org
+r_page_description: RHIZOME NET ART ANTHOLOGY, RETELLING THE HISTORY OF NET ART FROM
+  THE 1980S THROUGH THE PRESENT DAY.
+r_page_title: RHIZOME NET ART ANTHOLOGY
+r_title: RHIZOME NET ART ANTHOLOGY
+r_id: '690493'
+r_page_id: '506059'
+---
+
