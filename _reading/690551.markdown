@@ -1,0 +1,13 @@
+---
+title: '690551'
+r_url: https://www.youtube.com/watch?v=fNbOW8pBam0
+r_date: 2016-12-16 21:47:46.667000000 Z
+r_wrapped_url: https://www.reading.am/p/4xh4/https://www.youtube.com/watch?v=fNbOW8pBam0
+r_page_description: Assembling and Working with Long Documents in InDesign CS5 http://www.digitaltutors.com/11/training.php?pid=550
+r_page_title: Working with Long Documents in InDesign CS5 - Creating a basic book
+  file
+r_title: Working with Long Documents in InDesign CS5 - Creating a basic book file
+r_id: '690551'
+r_page_id: '506109'
+---
+
