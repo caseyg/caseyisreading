@@ -1,0 +1,21 @@
+---
+title: '690655'
+r_url: http://news.infoshop.org/lib-tech/myth-of-slacktivism
+r_date: 2016-12-17 16:31:57.165000000 Z
+r_wrapped_url: https://www.reading.am/p/4xiR/http://news.infoshop.org/lib-tech/myth-of-slacktivism
+r_page_description: A ‘slacktivist’ is someone who chooses to do all or most of their
+  activist work through online mediums such as Twitter, Facebook, Tumblr, and so on.
+  These people are often disregarded as lesser and lazy activists when compared to
+  those who are able to do activism work offline. For example, UrbanDictionary.com
+  defines slacktivism as, “The act of participating in obviously pointless activities
+  as an expedient alternative to actually expending effort to fix a problem”. The
+  example given is people signing online petitions as opposed to getting involved
+  in neighborhood watches or other offline activities. The concept of ‘slacktivism’
+  and that people who focus their ideas online are ‘slacktivists’ is extremely problematic
+  and downplays the importance and reach of online activism.
+r_page_title: The Myth of Slacktivism
+r_title: The Myth of Slacktivism
+r_id: '690655'
+r_page_id: '506191'
+---
+
