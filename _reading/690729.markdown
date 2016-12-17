@@ -1,0 +1,19 @@
+---
+title: '690729'
+r_url: http://www.publicbooks.org/feature/trump-syllabus-20
+r_date: 2016-12-17 20:18:42.970000000 Z
+r_wrapped_url: https://www.reading.am/p/4xk8/http://www.publicbooks.org/feature/trump-syllabus-20
+r_page_description: On June 19th, the Chronicle of Higher Education  ran a web version
+  of a mock college syllabus that sought to explore the deep historical and political
+  roots of Donald Trump’s political success during the 2016 Presidential campaign.
+  The syllabus suffered from a number of egregious omissions and inaccuracies, including
+  its failures to include contributions of scholars of color and address the critical
+  subjects of racism, sexism, and xenophobia on which Trump has built his candidacy.
+  Here, historians N. D. B. Connolly and Keisha N. Blain offer an alternative syllabus in
+  response.
+r_page_title: Trump Syllabus 2.0
+r_title: Trump Syllabus 2.0
+r_id: '690729'
+r_page_id: '498622'
+---
+
