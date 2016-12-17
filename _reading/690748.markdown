@@ -1,0 +1,12 @@
+---
+title: '690748'
+r_url: http://matthewpalmer.net/rocket/
+r_date: 2016-12-17 22:38:09.402000000 Z
+r_wrapped_url: https://www.reading.am/p/4xks/http://matthewpalmer.net/rocket/
+r_page_description: Rocket gives you Slack-style emoji everywhere on your Mac.
+r_page_title: Rocket—Slack-style emoji everywhere on your Mac
+r_title: Rocket—Slack-style emoji everywhere on your Mac
+r_id: '690748'
+r_page_id: '506266'
+---
+
