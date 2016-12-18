@@ -1,0 +1,15 @@
+---
+title: '691153'
+r_url: http://theoriginalcopy.net/isca/
+r_date: 2016-12-18 23:19:43.763000000 Z
+r_wrapped_url: https://www.reading.am/p/4xsr/http://theoriginalcopy.net/isca/
+r_page_description: The Institute for Southern Contemporary Art (ISCA) was founded
+  in 2016 by João Enxuto and Erica Love to develop an algorithm that potentiates the
+  highest possible revenue from the sale of contemporary art in the American South
+  or anywhere else...
+r_page_title: ISCA
+r_title: ISCA
+r_id: '691153'
+r_page_id: '506619'
+---
+
