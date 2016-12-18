@@ -1,0 +1,13 @@
+---
+title: '691009'
+r_url: https://www.theguardian.com/culture/2016/dec/15/uks-first-major-moomins-exhibition-open-london-tove-jansson
+r_date: 2016-12-18 13:05:13.350000000 Z
+r_wrapped_url: https://www.reading.am/p/4xpX/https://www.theguardian.com/culture/2016/dec/15/uks-first-major-moomins-exhibition-open-london-tove-jansson
+r_page_description: The creatures of author Tove Jansson’s books are famous in their
+  native Finland, and are building an international following
+r_page_title: UK's first major Moomin exhibition set to open in London
+r_title: UK's first major Moomin exhibition set to open in London
+r_id: '691009'
+r_page_id: '506504'
+---
+
