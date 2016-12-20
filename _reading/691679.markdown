@@ -1,0 +1,14 @@
+---
+title: '691679'
+r_url: https://placesjournal.org/article/public-information/
+r_date: 2016-12-20 22:43:14.161000000 Z
+r_wrapped_url: https://www.reading.am/p/4xBv/https://placesjournal.org/article/public-information/
+r_page_description: Now more than ever, we need to create and defend vital spaces
+  of information exchange. Librarians and archivists should be involved in curating
+  urban data.
+r_page_title: Public In/Formation
+r_title: Public In/Formation
+r_id: '691679'
+r_page_id: '506980'
+---
+
