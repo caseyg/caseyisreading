@@ -1,0 +1,16 @@
+---
+title: '691509'
+r_url: http://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/
+r_date: 2016-12-20 04:26:25.606000000 Z
+r_wrapped_url: https://www.reading.am/p/4xyz/http://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/
+r_page_description: 'I think you’ll agree when I say: there’s no VPN option on the
+  market designed with equal emphasis on security and ease of use. That changes now.
+  Today we’re introducing Algo, a self-hosted personal VPN server designed for ease
+  of deployment and security. Algo automatically deploys an on-demand VPN service
+  in the cloud that is not […]'
+r_page_title: Meet Algo, the VPN that works
+r_title: Meet Algo, the VPN that works
+r_id: '691509'
+r_page_id: '506890'
+---
+
