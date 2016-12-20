@@ -1,0 +1,17 @@
+---
+title: '691370'
+r_url: http://opentranscripts.org/transcript/post-truth-politics/
+r_date: 2016-12-20 00:10:24.177000000 Z
+r_wrapped_url: https://www.reading.am/p/4xwb/http://opentranscripts.org/transcript/post-truth-politics/
+r_page_description: I'm going to argue today that even while we know post-truth politics
+  is having a terrible effect on our political culture and our role as citizens, it's
+  curiously difficult to combat it because of a set of beliefs about what politics
+  is, and about the Internet and the way it enables ordinary people to have a voice.
+  And these beliefs intersect with a prevailing anti-intellectual anti-elitism which
+  associates knowledge, discernment, and truth with snobbery and power.
+r_page_title: Post-Truth Politics
+r_title: Post-Truth Politics
+r_id: '691370'
+r_page_id: '506786'
+---
+

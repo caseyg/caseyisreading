@@ -1,0 +1,14 @@
+---
+title: '691368'
+r_url: http://www.slate.com/blogs/the_works/2016/12/18/slate_is_changing_its_approach_to_design_here_s_how_and_why.html
+r_date: 2016-12-20 00:10:06.168000000 Z
+r_wrapped_url: https://www.reading.am/p/4xw9/http://www.slate.com/blogs/the_works/2016/12/18/slate_is_changing_its_approach_to_design_here_s_how_and_why.html
+r_page_description: You may have noticed that the weekly Cover Story we published
+  today does not look like other articles on the site. It has bigger photos, new typefaces,
+  ...
+r_page_title: 'Slate Is Changing Its Approach to Design: Here’s How, and Why'
+r_title: 'Slate Is Changing Its Approach to Design: Here’s How, and Why'
+r_id: '691368'
+r_page_id: '506687'
+---
+
