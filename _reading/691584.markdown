@@ -1,0 +1,13 @@
+---
+title: '691584'
+r_url: https://www.w3.org/Style/CSS20/
+r_date: 2016-12-20 16:08:39.274000000 Z
+r_wrapped_url: https://www.reading.am/p/4xzS/https://www.w3.org/Style/CSS20/
+r_page_description: On December 17, 1996, W3C published the first standard for CSS.
+  And
+r_page_title: https://www.w3.org/Style/CSS20/
+r_title: https://www.w3.org/Style/CSS20/
+r_id: '691584'
+r_page_id: '506944'
+---
+
