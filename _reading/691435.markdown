@@ -1,0 +1,15 @@
+---
+title: '691435'
+r_url: https://www.fastcompany.com/3066478/mind-and-machine/mark-zuckerberg-jarvis
+r_date: 2016-12-20 03:09:25.265000000 Z
+r_wrapped_url: https://www.reading.am/p/4xxi/https://www.fastcompany.com/3066478/mind-and-machine/mark-zuckerberg-jarvis
+r_page_description: Facebook's CEO still loves to code. Here's an exclusive peek at
+  his new project, which plays music, makes toast, and occasionally annoys his wife.
+r_page_title: At Home With Mark Zuckerberg And Jarvis, The AI Assistant He Built For
+  His Family
+r_title: At Home With Mark Zuckerberg And Jarvis, The AI Assistant He Built For His
+  Family
+r_id: '691435'
+r_page_id: '506834'
+---
+
