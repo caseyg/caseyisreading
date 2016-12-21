@@ -1,0 +1,15 @@
+---
+title: '691705'
+r_url: https://en.wikipedia.org/wiki/Body_without_organs
+r_date: 2016-12-21 00:43:28.684000000 Z
+r_wrapped_url: https://www.reading.am/p/4xBX/https://en.wikipedia.org/wiki/Body_without_organs
+r_page_description: 'The "body without organs" (French: corps sans organes) is a concept
+  used by French philosopher Gilles Deleuze. It usually refers to the deeper reality
+  underlying some well-formed whole constructed from fully functioning parts. At the
+  same time, it may also...'
+r_page_title: Body without organs - Wikipedia
+r_title: Body without organs - Wikipedia
+r_id: '691705'
+r_page_id: '507027'
+---
+
