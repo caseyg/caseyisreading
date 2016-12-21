@@ -1,0 +1,12 @@
+---
+title: '691851'
+r_url: https://www.are.na/blog
+r_date: 2016-12-21 15:29:41.524000000 Z
+r_wrapped_url: https://www.reading.am/p/4xEt/https://www.are.na/blog
+r_page_description: Are.na is a platform for collaborative research.
+r_page_title: Are.na / Blog
+r_title: Are.na / Blog
+r_id: '691851'
+r_page_id: '507139'
+---
+
