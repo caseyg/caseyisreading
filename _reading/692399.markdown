@@ -1,0 +1,16 @@
+---
+title: '692399'
+r_url: https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/
+r_date: 2016-12-23 04:56:08.093000000 Z
+r_wrapped_url: https://www.reading.am/p/4xPV/https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/
+r_page_description: This is an introduction to Our World in Data – the web publication
+  that shows how global living conditions are changing. A recent survey asked “All
+  things considered, do you think the world is getting better or worse, or neither
+  getting better nor worse?”. In Sweden 10% thought things are getting better, in
+  the US…
+r_page_title: A history of global living conditions in 5 charts
+r_title: A history of global living conditions in 5 charts
+r_id: '692399'
+r_page_id: '507572'
+---
+
