@@ -1,0 +1,13 @@
+---
+title: '692537'
+r_url: http://ben.balter.com/2016/12/23/atom-for-prose/
+r_date: 2016-12-23 22:55:10.384000000 Z
+r_wrapped_url: https://www.reading.am/p/4xSi/http://ben.balter.com/2016/12/23/atom-for-prose/
+r_page_description: How I customize the hackable Atom text editor for writing prose
+  and Markdown.
+r_page_title: How I Atom (for prose)
+r_title: How I Atom (for prose)
+r_id: '692537'
+r_page_id: '507691'
+---
+
