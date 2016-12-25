@@ -1,0 +1,14 @@
+---
+title: '692835'
+r_url: http://www.nytimes.com/2010/02/06/arts/television/06under.html
+r_date: 2016-12-25 06:47:26.866000000 Z
+r_wrapped_url: https://www.reading.am/p/4xXr/http://www.nytimes.com/2010/02/06/arts/television/06under.html
+r_page_description: "“Undercover Boss,” a CBS reality show that turns the tables on
+  management, seems tailor-made for the times but it paints too rosy a picture of
+  white-collar benevolence."
+r_page_title: He’s Good at Pushing Paper, but Can He Pick Up Trash?
+r_title: He’s Good at Pushing Paper, but Can He Pick Up Trash?
+r_id: '692835'
+r_page_id: '507917'
+---
+
