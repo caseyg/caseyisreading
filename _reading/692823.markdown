@@ -1,0 +1,15 @@
+---
+title: '692823'
+r_url: http://www.wsj.com/articles/the-worlds-largest-hedge-fund-is-building-an-algorithmic-model-of-its-founders-brain-1482423694
+r_date: 2016-12-25 04:15:10.266000000 Z
+r_wrapped_url: https://www.reading.am/p/4xXe/http://www.wsj.com/articles/the-worlds-largest-hedge-fund-is-building-an-algorithmic-model-of-its-founders-brain-1482423694
+r_page_description: Bridgewater wants day-to-day management—hiring, firing, decision-making—to
+  be run by software that doles out instructions
+r_page_title: The World’s Largest Hedge Fund Is Building an Algorithmic Model From
+  its Employees’ Brains
+r_title: The World’s Largest Hedge Fund Is Building an Algorithmic Model From its
+  Employees’ Brains
+r_id: '692823'
+r_page_id: '507907'
+---
+

@@ -1,0 +1,14 @@
+---
+title: '692822'
+r_url: http://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/
+r_date: 2016-12-25 04:14:55.860000000 Z
+r_wrapped_url: https://www.reading.am/p/4xXd/http://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/
+r_page_description: Las Vegas, Nevada
+r_page_title: Zappos is struggling with Holacracy because humans aren’t designed to
+  operate like software
+r_title: Zappos is struggling with Holacracy because humans aren’t designed to operate
+  like software
+r_id: '692822'
+r_page_id: '507881'
+---
+
