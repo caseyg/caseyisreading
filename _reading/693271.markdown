@@ -1,0 +1,13 @@
+---
+title: '693271'
+r_url: https://www.youtube.com/watch?v=NaQsp_qpPAo
+r_date: 2016-12-27 20:34:36.435000000 Z
+r_wrapped_url: https://www.reading.am/p/4y5X/https://www.youtube.com/watch?v=NaQsp_qpPAo
+r_page_description: 'Stuart Turner from Robots and Cake writing with Dasher (inference
+  labs), TrackerPro and BuddyButton (ablenet). Guest post upcoming on inventability.net. '
+r_page_title: 'Dasher: Quadriplegic Guy Writes With Head Only'
+r_title: 'Dasher: Quadriplegic Guy Writes With Head Only'
+r_id: '693271'
+r_page_id: '508278'
+---
+

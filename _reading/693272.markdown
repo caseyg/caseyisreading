@@ -1,0 +1,12 @@
+---
+title: '693272'
+r_url: http://www.inference.phy.cam.ac.uk/dasher/
+r_date: 2016-12-27 20:36:09.206000000 Z
+r_wrapped_url: https://www.reading.am/p/4y5Y/http://www.inference.phy.cam.ac.uk/dasher/
+r_page_description: ''
+r_page_title: ''
+r_title: ''
+r_id: '693272'
+r_page_id: '508279'
+---
+
