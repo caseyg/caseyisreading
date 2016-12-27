@@ -1,0 +1,12 @@
+---
+title: '693292'
+r_url: https://en.wikipedia.org/wiki/Miller_columns
+r_date: 2016-12-27 21:17:03.176000000 Z
+r_wrapped_url: https://www.reading.am/p/4y6j/https://en.wikipedia.org/wiki/Miller_columns
+r_page_description: ''
+r_page_title: Miller columns - Wikipedia
+r_title: Miller columns - Wikipedia
+r_id: '693292'
+r_page_id: '501501'
+---
+
