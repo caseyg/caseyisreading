@@ -1,0 +1,15 @@
+---
+title: '693356'
+r_url: https://en.wikipedia.org/wiki/Xerox_Alto
+r_date: 2016-12-28 01:49:21.386000000 Z
+r_wrapped_url: https://www.reading.am/p/4y7q/https://en.wikipedia.org/wiki/Xerox_Alto
+r_page_description: The Xerox Alto was the first computer designed from the start
+  to support an operating system based on a graphical user interface (GUI), later
+  using the desktop metaphor.[4][5] The first machines were introduced on 1 March
+  1973,[6] a decade before...
+r_page_title: Xerox Alto - Wikipedia
+r_title: Xerox Alto - Wikipedia
+r_id: '693356'
+r_page_id: '508353'
+---
+
