@@ -1,0 +1,13 @@
+---
+title: '693410'
+r_url: http://labs.jstor.org/monographs/
+r_date: 2016-12-28 10:06:07.347000000 Z
+r_wrapped_url: https://www.reading.am/p/4y8m/http://labs.jstor.org/monographs/
+r_page_description: A JSTOR Labs project to better understand the wide variety of
+  needs, behaviors, frustrations, and ambitions users
+r_page_title: Reimagining the Monograph
+r_title: Reimagining the Monograph
+r_id: '693410'
+r_page_id: '508395'
+---
+
