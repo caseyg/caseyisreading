@@ -1,0 +1,12 @@
+---
+title: '693960'
+r_url: https://adactio.com/journal/11627
+r_date: 2016-12-30 16:49:08.388000000 Z
+r_wrapped_url: https://www.reading.am/p/4yhQ/https://adactio.com/journal/11627
+r_page_description: Making an online book dead-tree friendly.
+r_page_title: Print styles
+r_title: Print styles
+r_id: '693960'
+r_page_id: '508842'
+---
+
