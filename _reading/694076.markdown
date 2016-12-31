@@ -1,0 +1,15 @@
+---
+title: '694076'
+r_url: https://en.wikipedia.org/wiki/Waters_of_March
+r_date: 2016-12-31 03:07:01.925000000 Z
+r_wrapped_url: https://www.reading.am/p/4yjQ/https://en.wikipedia.org/wiki/Waters_of_March
+r_page_description: 'The Waters of March (Portuguese: "Águas de Março" [ˈaɡwɐʒ dʒi
+  ˈmaʁsu]) is a Brazilian song composed by Antônio Carlos Jobim (1927–1994) in 1972.
+  Jobim wrote both the English and Portuguese lyrics.[1] The lyrics, originally written
+  in Portuguese, do not tell...'
+r_page_title: Waters of March - Wikipedia
+r_title: Waters of March - Wikipedia
+r_id: '694076'
+r_page_id: '508922'
+---
+

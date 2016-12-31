@@ -1,0 +1,12 @@
+---
+title: '694077'
+r_url: https://en.wikipedia.org/wiki/Shepard_tone
+r_date: 2016-12-31 03:09:20.044000000 Z
+r_wrapped_url: https://www.reading.am/p/4yjR/https://en.wikipedia.org/wiki/Shepard_tone
+r_page_description: ''
+r_page_title: Shepard tone - Wikipedia
+r_title: Shepard tone - Wikipedia
+r_id: '694077'
+r_page_id: '508923'
+---
+
