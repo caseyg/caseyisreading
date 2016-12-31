@@ -1,0 +1,15 @@
+---
+title: '694118'
+r_url: https://en.wikipedia.org/wiki/Xanadu_Houses
+r_date: 2016-12-31 04:38:41.968000000 Z
+r_wrapped_url: https://www.reading.am/p/4yky/https://en.wikipedia.org/wiki/Xanadu_Houses
+r_page_description: The Xanadu Houses were a series of experimental homes built to
+  showcase examples of computers and automation in the home in the United States.
+  The architectural project began in 1979, and during the early 1980s three houses
+  were built in...
+r_page_title: Xanadu Houses - Wikipedia
+r_title: Xanadu Houses - Wikipedia
+r_id: '694118'
+r_page_id: '508959'
+---
+

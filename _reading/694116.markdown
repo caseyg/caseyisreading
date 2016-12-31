@@ -1,0 +1,12 @@
+---
+title: '694116'
+r_url: https://en.wikipedia.org/wiki/Bill_Gates%27_house
+r_date: 2016-12-31 04:35:06.549000000 Z
+r_wrapped_url: https://www.reading.am/p/4ykw/https://en.wikipedia.org/wiki/Bill_Gates%27_house
+r_page_description: ''
+r_page_title: Bill Gates' house - Wikipedia
+r_title: Bill Gates' house - Wikipedia
+r_id: '694116'
+r_page_id: '508957'
+---
+
