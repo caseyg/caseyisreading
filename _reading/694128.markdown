@@ -1,0 +1,13 @@
+---
+title: '694128'
+r_url: https://www.youtube.com/watch?v=FDELBFSeqQs
+r_date: 2016-12-31 05:18:39.721000000 Z
+r_wrapped_url: https://www.reading.am/p/4ykJ/https://www.youtube.com/watch?v=FDELBFSeqQs
+r_page_description: A simple interface for modifying photos and exploring the latent
+  space of generative models.
+r_page_title: Neural Photo Editing with Introspective Adversarial Networks
+r_title: Neural Photo Editing with Introspective Adversarial Networks
+r_id: '694128'
+r_page_id: '508969'
+---
+
