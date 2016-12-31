@@ -1,0 +1,15 @@
+---
+title: '694083'
+r_url: https://en.wikipedia.org/wiki/Here_Comes_the_Sun
+r_date: 2016-12-31 03:29:26.065000000 Z
+r_wrapped_url: https://www.reading.am/p/4yjX/https://en.wikipedia.org/wiki/Here_Comes_the_Sun
+r_page_description: '"Here Comes the Sun" is a song written by George Harrison that
+  was first released on the Beatles'' 1969 album Abbey Road. Along with "Something"
+  and "While My Guitar Gently Weeps", it is one of Harrison''s best-known compositions
+  from the...'
+r_page_title: Here Comes the Sun - Wikipedia
+r_title: Here Comes the Sun - Wikipedia
+r_id: '694083'
+r_page_id: '508929'
+---
+

@@ -1,0 +1,14 @@
+---
+title: '694086'
+r_url: https://en.wikipedia.org/wiki/SimAnt
+r_date: 2016-12-31 03:36:23.485000000 Z
+r_wrapped_url: https://www.reading.am/p/4yk1/https://en.wikipedia.org/wiki/SimAnt
+r_page_description: 'SimAnt: The Electronic Ant Colony is a 1991 life simulation video
+  game by Maxis and Maxis''s third product, focusing on ants. It was designed by Will
+  Wright, maker of other ''Sim'' games such as SimCity and The Sims. In 1992,...'
+r_page_title: SimAnt - Wikipedia
+r_title: SimAnt - Wikipedia
+r_id: '694086'
+r_page_id: '508931'
+---
+

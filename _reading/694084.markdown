@@ -1,0 +1,12 @@
+---
+title: '694084'
+r_url: https://en.wikipedia.org/wiki/Voyager_Golden_Record
+r_date: 2016-12-31 03:30:31.937000000 Z
+r_wrapped_url: https://www.reading.am/p/4yjY/https://en.wikipedia.org/wiki/Voyager_Golden_Record
+r_page_description: ''
+r_page_title: Voyager Golden Record - Wikipedia
+r_title: Voyager Golden Record - Wikipedia
+r_id: '694084'
+r_page_id: '508930'
+---
+
