@@ -1,0 +1,15 @@
+---
+title: '694109'
+r_url: https://en.wikipedia.org/wiki/Caetano_Veloso
+r_date: 2016-12-31 04:16:15.153000000 Z
+r_wrapped_url: https://www.reading.am/p/4ykp/https://en.wikipedia.org/wiki/Caetano_Veloso
+r_page_description: Caetano Emanuel Viana Telles Veloso (Portuguese pronunciation: [kaeˈtɐ̃nu
+  emanuˈɛw viˈɐ̃nɐ ˈtɛlis veˈlozu]; born August 7, 1942), better known as Caetano
+  Veloso, is a Brazilian composer, singer, guitarist, writer, and political activist.
+  Veloso first became known for his participation in the Brazilian...
+r_page_title: Caetano Veloso - Wikipedia
+r_title: Caetano Veloso - Wikipedia
+r_id: '694109'
+r_page_id: '508951'
+---
+
