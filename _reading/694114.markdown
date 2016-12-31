@@ -1,0 +1,14 @@
+---
+title: '694114'
+r_url: https://en.wikipedia.org/wiki/Nils_Frahm
+r_date: 2016-12-31 04:29:00.524000000 Z
+r_wrapped_url: https://www.reading.am/p/4yku/https://en.wikipedia.org/wiki/Nils_Frahm
+r_page_description: Nils Frahm (born 20 September 1982) is a German musician, composer
+  and record producer based in Berlin. He is known for combining classical and electronic
+  music and for an unconventional approach to the piano in which he mixes a grand...
+r_page_title: Nils Frahm - Wikipedia
+r_title: Nils Frahm - Wikipedia
+r_id: '694114'
+r_page_id: '508955'
+---
+
