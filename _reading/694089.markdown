@@ -1,0 +1,15 @@
+---
+title: '694089'
+r_url: https://archive.org/details/msdos_SimAnt_-_The_Electronic_Ant_Colony_1991
+r_date: 2016-12-31 03:38:05.307000000 Z
+r_wrapped_url: https://www.reading.am/p/4yk4/https://archive.org/details/msdos_SimAnt_-_The_Electronic_Ant_Colony_1991
+r_page_description: Published by Maxis Software Inc. Developed by Maxis Software Inc.
+  Released Dec 06, 1991 Also For Amiga, FM Towns, Macintosh, PC-98, Sharp X68000,...
+r_page_title: 'SimAnt - The Electronic Ant Colony : Maxis Software Inc. : Free Streaming
+  : Internet Archive'
+r_title: 'SimAnt - The Electronic Ant Colony : Maxis Software Inc. : Free Streaming
+  : Internet Archive'
+r_id: '694089'
+r_page_id: '508935'
+---
+

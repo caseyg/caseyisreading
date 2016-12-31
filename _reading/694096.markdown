@@ -1,0 +1,12 @@
+---
+title: '694096'
+r_url: https://www.youtube.com/watch?v=uPX3QDNBZiA
+r_date: 2016-12-31 03:54:30.580000000 Z
+r_wrapped_url: https://www.reading.am/p/4ykb/https://www.youtube.com/watch?v=uPX3QDNBZiA
+r_page_description: Coro dei Civici Corsi Jazz di Milano
+r_page_title: Duke Ellington "Freedom is Sweet"
+r_title: Duke Ellington "Freedom is Sweet"
+r_id: '694096'
+r_page_id: '508941'
+---
+
