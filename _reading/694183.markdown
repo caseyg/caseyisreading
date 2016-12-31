@@ -1,0 +1,12 @@
+---
+title: '694183'
+r_url: https://www.youtube.com/watch?v=chHIEHSmJF8
+r_date: 2016-12-31 19:56:19.777000000 Z
+r_wrapped_url: https://www.reading.am/p/4ymF/https://www.youtube.com/watch?v=chHIEHSmJF8
+r_page_description: From Server Farm to Data Table
+r_page_title: From Server Farm to Data Table [33c3]
+r_title: From Server Farm to Data Table [33c3]
+r_id: '694183'
+r_page_id: '509008'
+---
+
