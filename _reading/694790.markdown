@@ -1,0 +1,13 @@
+---
+title: '694790'
+r_url: http://skrekkogle.com/still-file/
+r_date: 2017-01-03 08:25:48.951000000 Z
+r_wrapped_url: https://www.reading.am/p/4yx9/http://skrekkogle.com/still-file/
+r_page_description: A series of 4 photographs recreating computer renderings as physical
+  scenes.
+r_page_title: Still File
+r_title: Still File
+r_id: '694790'
+r_page_id: '509458'
+---
+
