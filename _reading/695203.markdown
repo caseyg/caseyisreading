@@ -1,0 +1,12 @@
+---
+title: '695203'
+r_url: http://www.e-flux.com/architecture/superhumanity/68672/i-spy-with-my-machine-eye/
+r_date: 2017-01-04 16:11:35.827000000 Z
+r_wrapped_url: https://www.reading.am/p/4yEg/http://www.e-flux.com/architecture/superhumanity/68672/i-spy-with-my-machine-eye/
+r_page_description: "Chapter 1\r"
+r_page_title: I Spy with my Machine Eye - e-flux Architecture - e-flux
+r_title: I Spy with my Machine Eye - e-flux Architecture - e-flux
+r_id: '695203'
+r_page_id: '509814'
+---
+
