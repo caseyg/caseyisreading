@@ -1,0 +1,11 @@
+---
+title: '695546'
+r_url: http://www.primaryinformation.org/pdfs/seth-siegelaub-online-archive/
+r_date: 2017-01-05 22:42:58.504000000 Z
+r_id: '695546'
+r_wrapped_url: https://www.reading.am/p/4yLb/http://www.primaryinformation.org/pdfs/seth-siegelaub-online-archive/
+r_page_id: '510100'
+r_page_title: Primary Information
+r_title: Primary Information
+---
+
