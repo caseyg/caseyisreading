@@ -1,0 +1,12 @@
+---
+title: '695520'
+r_url: https://alpha.wellcomelibrary.org/
+r_date: 2017-01-05 20:05:35.450000000 Z
+r_wrapped_url: https://www.reading.am/p/4yKJ/https://alpha.wellcomelibrary.org/
+r_page_description: Curious Subjects
+r_page_title: 'Home '
+r_title: 'Home '
+r_id: '695520'
+r_page_id: '510079'
+---
+

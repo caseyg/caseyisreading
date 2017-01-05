@@ -1,0 +1,14 @@
+---
+title: '695522'
+r_url: https://goodformandspectacle.wordpress.com/2016/06/03/new-work-wellcome-library-alpha/
+r_date: 2017-01-05 20:09:06.577000000 Z
+r_wrapped_url: https://www.reading.am/p/4yKL/https://goodformandspectacle.wordpress.com/2016/06/03/new-work-wellcome-library-alpha/
+r_page_description: 'Phase 1: Sketching in code, drawing the data About 11 months
+  ago we started working with the web team at Wellcome Library on a project called
+  What’s In The Library?. We were installed on site…'
+r_page_title: 'New Work: Wellcome Library Alpha'
+r_title: 'New Work: Wellcome Library Alpha'
+r_id: '695522'
+r_page_id: '510081'
+---
+
