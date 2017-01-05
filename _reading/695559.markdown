@@ -1,0 +1,13 @@
+---
+title: '695559'
+r_url: http://www.nytimes.com/2017/01/05/nyregion/james-bond-of-philanthropy-gives-away-the-last-of-his-fortune.html
+r_date: 2017-01-05 23:31:39.317000000 Z
+r_wrapped_url: https://www.reading.am/p/4yLp/http://www.nytimes.com/2017/01/05/nyregion/james-bond-of-philanthropy-gives-away-the-last-of-his-fortune.html
+r_page_description: Charles F. Feeney, who started Atlantic Philanthropies, is a man
+  who spent most of his life avoiding the spotlight.
+r_page_title: "‘James Bond of Philanthropy’ Gives Away the Last of His Fortune"
+r_title: "‘James Bond of Philanthropy’ Gives Away the Last of His Fortune"
+r_id: '695559'
+r_page_id: '510108'
+---
+
