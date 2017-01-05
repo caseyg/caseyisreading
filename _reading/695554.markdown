@@ -1,0 +1,13 @@
+---
+title: '695554'
+r_url: http://www.wsj.com/articles/ai-program-vanquishes-human-players-of-go-in-china-1483601561
+r_date: 2017-01-05 23:17:46.399000000 Z
+r_wrapped_url: https://www.reading.am/p/4yLj/http://www.wsj.com/articles/ai-program-vanquishes-human-players-of-go-in-china-1483601561
+r_page_description: A mysterious character named “Master” who has defeated many of
+  the world’s top players in the ancient strategy game of Go has been unmasked.
+r_page_title: Humans Mourn Loss After Google Is Unmasked as China’s Go Master
+r_title: Humans Mourn Loss After Google Is Unmasked as China’s Go Master
+r_id: '695554'
+r_page_id: '510056'
+---
+
