@@ -1,0 +1,12 @@
+---
+title: '695634'
+r_url: http://www.nytimes.com/2016/03/06/opinion/sunday/the-art-of-failing-upward.html
+r_date: 2017-01-06 06:48:44.167000000 Z
+r_wrapped_url: https://www.reading.am/p/4yMG/http://www.nytimes.com/2016/03/06/opinion/sunday/the-art-of-failing-upward.html
+r_page_description: Don’t believe the hype. Not everyone can fail successfully.
+r_page_title: The Art of Failing Upward
+r_title: The Art of Failing Upward
+r_id: '695634'
+r_page_id: '452831'
+---
+
