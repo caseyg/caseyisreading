@@ -1,0 +1,12 @@
+---
+title: '695571'
+r_url: http://grimoire.computer/
+r_date: 2017-01-06 00:19:44.757000000 Z
+r_wrapped_url: https://www.reading.am/p/4yLB/http://grimoire.computer/
+r_page_description: a grimoire
+r_page_title: The Realm of Rough Telepathy
+r_title: The Realm of Rough Telepathy
+r_id: '695571'
+r_page_id: '510118'
+---
+
