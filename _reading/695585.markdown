@@ -1,0 +1,13 @@
+---
+title: '695585'
+r_url: https://www.theguardian.com/technology/2017/jan/05/japanese-company-replaces-office-workers-artificial-intelligence-ai-fukoku-mutual-life-insurance
+r_date: 2017-01-06 03:52:09.789000000 Z
+r_wrapped_url: https://www.reading.am/p/4yLR/https://www.theguardian.com/technology/2017/jan/05/japanese-company-replaces-office-workers-artificial-intelligence-ai-fukoku-mutual-life-insurance
+r_page_description: Insurance firm Fukoku Mutual Life Insurance is making 34 employees
+  redundant and replacing them with IBM’s Watson Explorer AI
+r_page_title: Japanese company replaces office workers with artificial intelligence
+r_title: Japanese company replaces office workers with artificial intelligence
+r_id: '695585'
+r_page_id: '510130'
+---
+
