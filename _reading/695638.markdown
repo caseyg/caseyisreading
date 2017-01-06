@@ -1,0 +1,15 @@
+---
+title: '695638'
+r_url: http://elab.eserver.org/hfl0267.html
+r_date: 2017-01-06 07:56:59.818000000 Z
+r_wrapped_url: https://www.reading.am/p/4yML/http://elab.eserver.org/hfl0267.html
+r_page_description: "\r\r\r\r\r\r\r\r367 -- Festal Epistle of St Athanasius delivered\r868
+  -- The Diamond Sutra printed\r900 -- The Lindisfarne Gospels illuminated (circa)\r1440
+  -- The Gutenberg Bible published\r1590 -- Spenser's The Faerie Queene published\r1603
+  -- Klesheim's Album Amicorum authoring begins\r1611 -- King James Version..."
+r_page_title: "\rTime Line\r"
+r_title: "\rTime Line\r"
+r_id: '695638'
+r_page_id: '510169'
+---
+
