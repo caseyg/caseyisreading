@@ -1,0 +1,15 @@
+---
+title: '695637'
+r_url: http://scalar.usc.edu/works/pathfinders/introduction
+r_date: 2017-01-06 07:52:54.285000000 Z
+r_wrapped_url: https://www.reading.am/p/4yMK/http://scalar.usc.edu/works/pathfinders/introduction
+r_page_description: Pathfinders begins the necessary process of documenting early
+  digital literature, specifically pre-web hypertext fiction and poetry, from 1986-1995.
+  These literary works were produced with programming languages like BASIC or authoring
+  systems like Storyspace and ...
+r_page_title: 'Pathfinders: Introduction to Pathfinders'
+r_title: 'Pathfinders: Introduction to Pathfinders'
+r_id: '695637'
+r_page_id: '510168'
+---
+
