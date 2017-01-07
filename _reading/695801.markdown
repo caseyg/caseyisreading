@@ -1,0 +1,22 @@
+---
+title: '695801'
+r_url: http://smus.com/ultrasonic-networking/
+r_date: 2017-01-07 01:25:11.684000000 Z
+r_wrapped_url: https://www.reading.am/p/4yQz/http://smus.com/ultrasonic-networking/
+r_page_description: 'The phone in your pocket is an amazing, fluid, multi-functional
+  tool. When it comes to talking to other devices, such as your TV or laptop, the
+  user experience drops off sharply. Bill Buxton  speaks eloquently  on the subject,
+  describing three stages of high tech evolution:      Device works: feature completeness
+  and stability   Device flows: good user experience   Many devices work together      But
+  connecting devices is a pain and we have been squarely at stage 2 since the release
+  of the iPhone. There are many competing approaches to do this: Bluetooth, Bluetooth
+  LE, WiFi direct, discovery over the same local WiFi network, and many many others.
+  This post is dedicated to attacking this problem from an unexpected angle: using
+  ultrasound to broadcast and receive data between nearby devices. Best of all, the
+  approach uses the Web Audio API, making it viable for pure web applications:'
+r_page_title: 'Ultrasonic networking on the web '
+r_title: 'Ultrasonic networking on the web '
+r_id: '695801'
+r_page_id: '510297'
+---
+
