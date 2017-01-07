@@ -1,0 +1,14 @@
+---
+title: '695927'
+r_url: http://www.arup.com/news/2015_05_may/11_may_3d_makeover_for_hyper-efficient_metalwork
+r_date: 2017-01-07 17:33:43.704000000 Z
+r_wrapped_url: https://www.reading.am/p/4ySK/http://www.arup.com/news/2015_05_may/11_may_3d_makeover_for_hyper-efficient_metalwork
+r_page_description: 11 May 2015A photograph released by Arup engineers for the first
+  time reveals the future potential of 3D printing for the construction and manufacturing
+  sectors.
+r_page_title: '3D makeover for hyper-efficient metalwork '
+r_title: '3D makeover for hyper-efficient metalwork '
+r_id: '695927'
+r_page_id: '510394'
+---
+
