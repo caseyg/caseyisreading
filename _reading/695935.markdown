@@ -1,0 +1,12 @@
+---
+title: '695935'
+r_url: https://www.youtube.com/watch?v=qmhpbNEtKME
+r_date: 2017-01-07 17:55:08.141000000 Z
+r_wrapped_url: https://www.reading.am/p/4yST/https://www.youtube.com/watch?v=qmhpbNEtKME
+r_page_description: Demo of Developers Chrome Extention
+r_page_title: DEVELOPERS Extension Demo
+r_title: DEVELOPERS Extension Demo
+r_id: '695935'
+r_page_id: '510401'
+---
+

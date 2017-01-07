@@ -1,0 +1,14 @@
+---
+title: '695932'
+r_url: https://www.bloomberg.com/news/articles/2017-01-06/theranos-to-fire-41-of-workforce-in-second-round-of-cuts
+r_date: 2017-01-07 17:47:32.301000000 Z
+r_wrapped_url: https://www.reading.am/p/4ySQ/https://www.bloomberg.com/news/articles/2017-01-06/theranos-to-fire-41-of-workforce-in-second-round-of-cuts
+r_page_description: Blood-testing startup Theranos Inc. will fire about 41 percent
+  of its employees after months of regulatory setbacks, lawsuits and scrutiny, saying
+  it is paring down to focus on a new product.
+r_page_title: Theranos to Lay Off 41% of Workforce, Company Says
+r_title: Theranos to Lay Off 41% of Workforce, Company Says
+r_id: '695932'
+r_page_id: '510398'
+---
+
