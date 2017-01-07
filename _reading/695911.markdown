@@ -1,0 +1,15 @@
+---
+title: '695911'
+r_url: https://en.wikipedia.org/wiki/Rollo_Carpenter
+r_date: 2017-01-07 16:31:03.489000000 Z
+r_wrapped_url: https://www.reading.am/p/4ySt/https://en.wikipedia.org/wiki/Rollo_Carpenter
+r_page_description: Rollo Carpenter (born 1965) is the British-born creator of Jabberwacky
+  and Cleverbot, learning Artificial Intelligence (AI) software.[1] Carpenter has
+  worked as CTO of a business software startup in Silicon Valley. His brother is the
+  artist Merlin Carpenter.
+r_page_title: Rollo Carpenter - Wikipedia
+r_title: Rollo Carpenter - Wikipedia
+r_id: '695911'
+r_page_id: '510380'
+---
+

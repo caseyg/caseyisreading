@@ -1,0 +1,14 @@
+---
+title: '695910'
+r_url: http://www.cleverscript.com/
+r_date: 2017-01-07 16:30:32.923000000 Z
+r_wrapped_url: https://www.reading.am/p/4ySs/http://www.cleverscript.com/
+r_page_description: Cleverscript is a developers’ tool for creating bots. Developers
+  can create a bot in a spreadsheet and communicate with it using our JSON API. To
+  get started sign up for our Bot Builder.
+r_page_title: Build a Chat Bot
+r_title: Build a Chat Bot
+r_id: '695910'
+r_page_id: '510379'
+---
+

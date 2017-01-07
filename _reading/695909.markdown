@@ -1,0 +1,15 @@
+---
+title: '695909'
+r_url: https://en.wikipedia.org/wiki/Cleverbot
+r_date: 2017-01-07 16:29:55.604000000 Z
+r_wrapped_url: https://www.reading.am/p/4ySr/https://en.wikipedia.org/wiki/Cleverbot
+r_page_description: Cleverbot is a web application that uses an artificial intelligence
+  algorithm to have conversations with humans. It was created by the British AI scientist
+  Rollo Carpenter. It went online under the name of Jabberwacky in 1996. In its first
+  decade,...
+r_page_title: Cleverbot - Wikipedia
+r_title: Cleverbot - Wikipedia
+r_id: '695909'
+r_page_id: '510378'
+---
+
