@@ -1,0 +1,13 @@
+---
+title: '695795'
+r_url: http://whitney.org/WhitneyOnSite/Streb
+r_date: 2017-01-07 00:48:03.890000000 Z
+r_wrapped_url: https://www.reading.am/p/4yQt/http://whitney.org/WhitneyOnSite/Streb
+r_page_description: The Whitney Museum of American Art. Explore works, exhibitions,
+  and events online. Located in New York City.
+r_page_title: 'Whitney on Site: New Commissions Downtown '
+r_title: 'Whitney on Site: New Commissions Downtown '
+r_id: '695795'
+r_page_id: '510292'
+---
+
