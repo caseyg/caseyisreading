@@ -1,0 +1,14 @@
+---
+title: '695777'
+r_url: http://whitney.org/WatchAndListen/Tag?context=new%20building&play_id=400
+r_date: 2017-01-07 00:20:22.594000000 Z
+r_wrapped_url: https://www.reading.am/p/4yQa/http://whitney.org/WatchAndListen/Tag?context=new%20building&play_id=400
+r_page_description: A preview of the Whitney’s new building at Washington Street and   Gansevoort  Street,
+  in the Meatpacking District. Designed by architect   Renzo Piano,  the 200,000-square-foot
+  space will open to the public in   2015.
+r_page_title: 'The New Whitney: A Preview'
+r_title: 'The New Whitney: A Preview'
+r_id: '695777'
+r_page_id: '510284'
+---
+

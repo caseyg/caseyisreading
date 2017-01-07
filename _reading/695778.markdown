@@ -1,0 +1,17 @@
+---
+title: '695778'
+r_url: http://screenmag.com/story/2011/jul/06/8709/
+r_date: 2017-01-07 00:20:24.445000000 Z
+r_wrapped_url: https://www.reading.am/p/4yQb/http://screenmag.com/story/2011/jul/06/8709/
+r_page_description: A remarkable film celebrating the groundbreaking new Whitney Museum
+  in New York. The new building, designed by architect Renzo Piano will be finished
+  in 2015, though one wouldn’t believe it to see the film. The inspired concept of
+  the project...
+r_page_title: ''
+"            SCREEN ": ''
+"            ": " January 2017 Stories"
+r_title: ''
+r_id: '695778'
+r_page_id: '510285'
+---
+
