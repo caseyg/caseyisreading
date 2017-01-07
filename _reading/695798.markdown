@@ -1,0 +1,13 @@
+---
+title: '695798'
+r_url: http://whitney.org/WatchAndListen/Tag?context=new%20building&context_id=&play_id=505
+r_date: 2017-01-07 01:01:17.319000000 Z
+r_wrapped_url: https://www.reading.am/p/4yQw/http://whitney.org/WatchAndListen/Tag?context=new%20building&context_id=&play_id=505
+r_page_description: This video documents the May 24th 2011 groundbreaking ceremony
+  for the Whitney’s new building in downtown Manhattan.
+r_page_title: 'Groundbreaking Commemoration: May 24, 2011'
+r_title: 'Groundbreaking Commemoration: May 24, 2011'
+r_id: '695798'
+r_page_id: '510295'
+---
+
