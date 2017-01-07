@@ -1,0 +1,11 @@
+---
+title: '695813'
+r_url: http://scalar.usc.edu/works/
+r_date: 2017-01-07 02:32:45.118000000 Z
+r_id: '695813'
+r_wrapped_url: https://www.reading.am/p/4yQM/http://scalar.usc.edu/works/
+r_page_id: '510305'
+r_page_title: Scalar
+r_title: Scalar
+---
+
