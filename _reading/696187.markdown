@@ -1,0 +1,11 @@
+---
+title: '696187'
+r_url: http://help.thefoundry.co.uk/nuke/8.0/content/user_guide/3d_compositing/casting_shadows.html
+r_date: 2017-01-08 06:16:36.017000000 Z
+r_id: '696187'
+r_wrapped_url: https://www.reading.am/p/4yXe/http://help.thefoundry.co.uk/nuke/8.0/content/user_guide/3d_compositing/casting_shadows.html
+r_page_id: '510607'
+r_page_title: Casting Shadows
+r_title: Casting Shadows
+---
+
