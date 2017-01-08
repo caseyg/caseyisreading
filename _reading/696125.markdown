@@ -1,0 +1,13 @@
+---
+title: '696125'
+r_url: http://www.nytimes.com/2017/01/07/public-editor/the-future-of-the-times-a-view-from-the-top.html
+r_date: 2017-01-08 03:38:23.186000000 Z
+r_wrapped_url: https://www.reading.am/p/4yWa/http://www.nytimes.com/2017/01/07/public-editor/the-future-of-the-times-a-view-from-the-top.html
+r_page_description: Change is coming to The New York Times. What will it mean for
+  readers? The public editor sat down with the executive editor to find out.
+r_page_title: 'The Future of the Times: A View From the Top'
+r_title: 'The Future of the Times: A View From the Top'
+r_id: '696125'
+r_page_id: '510570'
+---
+
