@@ -1,0 +1,16 @@
+---
+title: '696498'
+r_url: http://www.forbes.com/sites/alexkonrad/2017/01/09/atlassian-acquires-popular-team-productivity-app-trello-for-425-million/
+r_date: 2017-01-09 17:12:15.948000000 Z
+r_wrapped_url: https://www.reading.am/p/4z3A/http://www.forbes.com/sites/alexkonrad/2017/01/09/atlassian-acquires-popular-team-productivity-app-trello-for-425-million/
+r_page_description: 'Trello is joining Atlassian for a hefty price tag. (Credit: Trello)
+  Australian software maker Atlassian has taken one of the leading independent players
+  in collaboration software off the board as it looks to keep pace with some of the
+  biggest players in tech. Atlassian announced on Monday that it had acquired popular
+  team collaboration [...]'
+r_page_title: Atlassian Acquires Popular Team Productivity App Trello For $425 Million
+r_title: Atlassian Acquires Popular Team Productivity App Trello For $425 Million
+r_id: '696498'
+r_page_id: '510855'
+---
+
