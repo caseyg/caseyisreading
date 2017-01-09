@@ -1,0 +1,14 @@
+---
+title: '696473'
+r_url: http://www.npr.org/sections/alltechconsidered/2017/01/07/507133313/students-zap-their-brains-for-a-boost-for-better-or-worse
+r_date: 2017-01-09 15:14:21.161000000 Z
+r_wrapped_url: https://www.reading.am/p/4z3a/http://www.npr.org/sections/alltechconsidered/2017/01/07/507133313/students-zap-their-brains-for-a-boost-for-better-or-worse
+r_page_description: Stimulating the brain with electrical currents is exploratory
+  technology. But people are making and buying devices that do that for use at home
+  — and interest rises around exam time.
+r_page_title: Students Zap Their Brains For a Boost, For Better Or Worse
+r_title: Students Zap Their Brains For a Boost, For Better Or Worse
+r_id: '696473'
+r_page_id: '510688'
+---
+
