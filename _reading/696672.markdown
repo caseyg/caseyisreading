@@ -1,0 +1,15 @@
+---
+title: '696672'
+r_url: http://jilltxt.net/txt/afternoon.html
+r_date: 2017-01-10 07:22:43.653000000 Z
+r_wrapped_url: https://www.reading.am/p/4z6A/http://jilltxt.net/txt/afternoon.html
+r_page_description: 'This paper by Jill Walker won the Ted Nelson Newcomer''s Award
+  at Hypertext 1999. It is a reading of a classic of hypertext narrative: Michael
+  Joyce’s ’afternoon, a story’ using theories of narratology, especially Genette.'
+r_page_title: 'Jill Walker: Piecing together and tearing apart. Finding the story
+  in afternoon'
+r_title: 'Jill Walker: Piecing together and tearing apart. Finding the story in afternoon'
+r_id: '696672'
+r_page_id: '510988'
+---
+
