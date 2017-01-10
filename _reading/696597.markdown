@@ -1,0 +1,14 @@
+---
+title: '696597'
+r_url: http://www.loc.gov/rr/program/elit-showcase.html
+r_date: 2017-01-10 02:15:19.629000000 Z
+r_wrapped_url: https://www.reading.am/p/4z5i/http://www.loc.gov/rr/program/elit-showcase.html
+r_page_description: 'Electronic Literature Showcase : Virtual Programs and Services,
+  Digital Reference Section, Library of Congress'
+r_page_title: Electronic Literature Showcase, Digital Reference Section, Library of
+  Congress
+r_title: Electronic Literature Showcase, Digital Reference Section, Library of Congress
+r_id: '696597'
+r_page_id: '510934'
+---
+
