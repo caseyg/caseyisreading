@@ -1,0 +1,14 @@
+---
+title: '696603'
+r_url: http://www.theverge.com/2017/1/9/14219914/marissa-mayer-isnt-leaving-yahoo-yet-altaba-rename
+r_date: 2017-01-10 02:38:16.864000000 Z
+r_wrapped_url: https://www.reading.am/p/4z5p/http://www.theverge.com/2017/1/9/14219914/marissa-mayer-isnt-leaving-yahoo-yet-altaba-rename
+r_page_description: Yahoo will be renamed "Altaba" and company CEO Marissa Mayer will
+  step down from its board of directors once its major sale to Verizon closes, according
+  to an 8-K filing released by Yahoo earlier...
+r_page_title: Yahoo isn't really going away (at least, not yet)
+r_title: Yahoo isn't really going away (at least, not yet)
+r_id: '696603'
+r_page_id: '510940'
+---
+
