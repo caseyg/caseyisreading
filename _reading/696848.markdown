@@ -1,0 +1,15 @@
+---
+title: '696848'
+r_url: http://news.xinhuanet.com/english/2017-01/10/c_135970334.htm
+r_date: 2017-01-11 04:08:42.212000000 Z
+r_wrapped_url: https://www.reading.am/p/4z9C/http://news.xinhuanet.com/english/2017-01/10/c_135970334.htm
+r_page_description: China develops its own ballpoint pen tips---China, the world's
+  biggest manufacturer of ballpoint pens, has finally developed its own pen tips,
+  ending a long-term reliance on imported ones.
+r_page_title: "\r"
+'China develops its own ballpoint pen tips - Xinhua ': " English.news.cn\r"
+r_title: "\r"
+r_id: '696848'
+r_page_id: '511130'
+---
+

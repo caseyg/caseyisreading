@@ -1,0 +1,17 @@
+---
+title: '696849'
+r_url: http://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html
+r_date: 2017-01-11 04:13:20.319000000 Z
+r_wrapped_url: https://www.reading.am/p/4z9D/http://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html
+r_page_description: Posted by Mike Schuster (Google Brain Team), Melvin Johnson (Google
+  Translate) and Nikhil Thorat (Google Brain Team)In the last 10 years, Google Translate
+  has grown from supporting just a few languages to 103, translating over 140 billion
+  words every day....
+r_page_title: Zero-Shot Translation with Google’s Multilingual Neural Machine Translation
+  System
+r_title: Zero-Shot Translation with Google’s Multilingual Neural Machine Translation
+  System
+r_id: '696849'
+r_page_id: '511131'
+---
+
