@@ -1,0 +1,14 @@
+---
+title: '696900'
+r_url: https://www.buzzfeed.com/kenbensinger/these-reports-allege-trump-has-deep-ties-to-russia
+r_date: 2017-01-11 10:11:52.216000000 Z
+r_wrapped_url: https://www.reading.am/p/4zaw/https://www.buzzfeed.com/kenbensinger/these-reports-allege-trump-has-deep-ties-to-russia
+r_page_description: A dossier, compiled by a person who has claimed to be a former
+  British intelligence official, alleges Russia has compromising information on Trump.
+  The allegations are unverified, and the report co...
+r_page_title: These Reports Allege Trump Has Deep Ties To Russia
+r_title: These Reports Allege Trump Has Deep Ties To Russia
+r_id: '696900'
+r_page_id: '511106'
+---
+
