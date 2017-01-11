@@ -1,0 +1,14 @@
+---
+title: '697004'
+r_url: http://brianhouse.net/works/oh_dear_me/
+r_date: 2017-01-11 21:59:05.733000000 Z
+r_wrapped_url: https://www.reading.am/p/4zcj/http://brianhouse.net/works/oh_dear_me/
+r_page_description: A series of musicians are situated along a path winding through
+  the historic jute mills of the Blackness area of Dundee. When participants type
+  a message at ...
+r_page_title: 'Brian House '
+r_title: 'Brian House '
+r_id: '697004'
+r_page_id: '511253'
+---
+

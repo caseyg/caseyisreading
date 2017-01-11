@@ -1,0 +1,15 @@
+---
+title: '696999'
+r_url: http://papertiger.org/karen-paulsell-reads-computer-world-and-nycosh-special-on-video-data-terminals/
+r_date: 2017-01-11 21:52:06.200000000 Z
+r_wrapped_url: https://www.reading.am/p/4zce/http://papertiger.org/karen-paulsell-reads-computer-world-and-nycosh-special-on-video-data-terminals/
+r_page_description: 'Karen Paulsell gives a critical reading of Computer World and
+  NYCOSH. Paulsell is a hacker at the Community Memory Project in San Francisco. 1982   TRT:
+  28 minutes   #10'
+r_page_title: 'Karen Paulsell reads Computer World and NYCOSH: Special on Video Data
+  Terminals'
+r_title: 'Karen Paulsell reads Computer World and NYCOSH: Special on Video Data Terminals'
+r_id: '696999'
+r_page_id: '511249'
+---
+
