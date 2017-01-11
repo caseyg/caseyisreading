@@ -1,0 +1,14 @@
+---
+title: '696975'
+r_url: http://shapecatcher.com/
+r_date: 2017-01-11 21:01:38.846000000 Z
+r_wrapped_url: https://www.reading.am/p/4zbP/http://shapecatcher.com/
+r_page_description: You need to find a specific Unicode character? With Shapecatcher.com
+  you can search through a database of characters by simply drawing your character
+  into a box. It can find the most similar character shapes for your drawing.
+r_page_title: 'Shapecatcher: Draw the Unicode character you want!'
+r_title: 'Shapecatcher: Draw the Unicode character you want!'
+r_id: '696975'
+r_page_id: '511229'
+---
+
