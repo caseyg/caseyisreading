@@ -1,0 +1,13 @@
+---
+title: '697254'
+r_url: http://orbital.nyc/communities-of-practice/
+r_date: 2017-01-12 19:16:19.414000000 Z
+r_wrapped_url: https://www.reading.am/p/4zgC/http://orbital.nyc/communities-of-practice/
+r_page_description: This Winter, we're excited to offer programs for Engineering Managers,
+  Product Designers and Product Managers.
+r_page_title: Communities of Practice - Orbital
+r_title: Communities of Practice - Orbital
+r_id: '697254'
+r_page_id: '511454'
+---
+
