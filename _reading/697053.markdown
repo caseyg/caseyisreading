@@ -1,0 +1,13 @@
+---
+title: '697053'
+r_url: https://www.nytimes.com/2017/01/08/arts/design/artists-and-critics-call-for-culture-strike-on-inauguration-day.html
+r_date: 2017-01-12 01:40:30.475000000 Z
+r_wrapped_url: https://www.reading.am/p/4zda/https://www.nytimes.com/2017/01/08/arts/design/artists-and-critics-call-for-culture-strike-on-inauguration-day.html
+r_page_description: Artists like Cindy Sherman, Richard Serra and Joan Jonas are pushing
+  for the closing of cultural institutions in protest of Donald J. Trump’s inaugural.
+r_page_title: Artists and Critics Call for Culture ‘Strike’ on Inauguration Day
+r_title: Artists and Critics Call for Culture ‘Strike’ on Inauguration Day
+r_id: '697053'
+r_page_id: '511291'
+---
+
