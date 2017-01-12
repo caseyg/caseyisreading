@@ -1,0 +1,14 @@
+---
+title: '697256'
+r_url: http://www.artinamericamagazine.com/news-features/magazine/personal-voice/
+r_date: 2017-01-12 19:36:55.686000000 Z
+r_wrapped_url: https://www.reading.am/p/4zgE/http://www.artinamericamagazine.com/news-features/magazine/personal-voice/
+r_page_description: A number of museums—the MCA Chicago, the CCA Wattis Institute,
+  the Aspen Art Museum, and others—have opted for flexible, frequently changing website
+  designs that reflect the vital nature of the art they present. 
+r_page_title: Personal Voice - Magazine - Art in America
+r_title: Personal Voice - Magazine - Art in America
+r_id: '697256'
+r_page_id: '511455'
+---
+
