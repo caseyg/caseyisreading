@@ -1,0 +1,13 @@
+---
+title: '697524'
+r_url: http://www.support.cooper.edu/s/1289/support/interior-hybrid.aspx?sid=1289&pgid=2005&gid=1&cid=5065&ecid=5065&post_id=0
+r_date: 2017-01-13 21:12:16.634000000 Z
+r_wrapped_url: https://www.reading.am/p/4zmh/http://www.support.cooper.edu/s/1289/support/interior-hybrid.aspx?sid=1289&pgid=2005&gid=1&cid=5065&ecid=5065&post_id=0
+r_page_description: ''
+r_page_title: "\r"
+"\tSupport Cooper ": " The Cooper Union - \r"
+r_title: "\r"
+r_id: '697524'
+r_page_id: '511665'
+---
+
