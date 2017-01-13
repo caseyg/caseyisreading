@@ -1,0 +1,13 @@
+---
+title: '697398'
+r_url: http://www.wnyc.org/story/ny-nuclear-option/
+r_date: 2017-01-13 04:31:12.429000000 Z
+r_wrapped_url: https://www.reading.am/p/4zj7/http://www.wnyc.org/story/ny-nuclear-option/
+r_page_description: Indian Point nuclear power plant is slated to shutter its doors
+  by 2021. Hear what this could mean for New Yorkers.
+r_page_title: New York's Nuclear Option
+r_title: New York's Nuclear Option
+r_id: '697398'
+r_page_id: '511572'
+---
+
