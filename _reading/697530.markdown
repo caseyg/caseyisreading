@@ -1,0 +1,12 @@
+---
+title: '697530'
+r_url: https://www.are.na/edouard-u/a-pattern-language
+r_date: 2017-01-13 21:32:43.794000000 Z
+r_wrapped_url: https://www.reading.am/p/4zmo/https://www.are.na/edouard-u/a-pattern-language
+r_page_description: Are.na is a platform for collaborative research.
+r_page_title: Are.na / A Pattern Language
+r_title: Are.na / A Pattern Language
+r_id: '697530'
+r_page_id: '511669'
+---
+
