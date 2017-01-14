@@ -1,0 +1,13 @@
+---
+title: '697693'
+r_url: https://www.nytimes.com/2017/01/10/arts/design/inventing-downtown-grey-art-gallery.html
+r_date: 2017-01-14 23:32:31.556000000 Z
+r_wrapped_url: https://www.reading.am/p/4zpc/https://www.nytimes.com/2017/01/10/arts/design/inventing-downtown-grey-art-gallery.html
+r_page_description: The exhibition at the Grey Art Gallery examines the little-known
+  history of how artist-founded galleries in the 1950s transformed the art scene.
+r_page_title: "‘Inventing Downtown’ Recalls When Artists Ran the Galleries"
+r_title: "‘Inventing Downtown’ Recalls When Artists Ran the Galleries"
+r_id: '697693'
+r_page_id: '511799'
+---
+
