@@ -1,0 +1,13 @@
+---
+title: '697827'
+r_url: http://learning-gardens.co/
+r_date: 2017-01-15 23:28:12.239000000 Z
+r_wrapped_url: https://www.reading.am/p/4zrv/http://learning-gardens.co/
+r_page_description: Learning Gardens is a meta-organization to support grassroots
+  non-institutional learning, exploration, and community-building.
+r_page_title: Learning Gardens
+r_title: Learning Gardens
+r_id: '697827'
+r_page_id: '494051'
+---
+
