@@ -1,0 +1,15 @@
+---
+title: '698298'
+r_url: https://en.wikipedia.org/wiki/RT_(TV_network)
+r_date: 2017-01-17 23:18:44.033000000 Z
+r_wrapped_url: https://www.reading.am/p/4zzC/https://en.wikipedia.org/wiki/RT_(TV_network)
+r_page_description: RT (formerly Russia Today) is a Russian international television
+  network funded by the Russian government.[5][6] It operates cable and satellite
+  television channels directed to audiences outside of Russia, as well as providing
+  Internet content in various languages, including English and...
+r_page_title: RT (TV network) - Wikipedia
+r_title: RT (TV network) - Wikipedia
+r_id: '698298'
+r_page_id: '512263'
+---
+
