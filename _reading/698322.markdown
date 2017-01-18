@@ -1,0 +1,13 @@
+---
+title: '698322'
+r_url: http://pjreddie.com/darknet/yolo/
+r_date: 2017-01-18 00:54:05.794000000 Z
+r_wrapped_url: https://www.reading.am/p/4zA3/http://pjreddie.com/darknet/yolo/
+r_page_description: You only look once (YOLO) is a state-of-the-art, real-time object
+  detection system.
+r_page_title: 'YOLO: Real-Time Object Detection'
+r_title: 'YOLO: Real-Time Object Detection'
+r_id: '698322'
+r_page_id: '512282'
+---
+
