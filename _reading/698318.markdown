@@ -1,0 +1,13 @@
+---
+title: '698318'
+r_url: https://www.nytimes.com/2017/01/17/arts/maria-balshaw-tate-museums.html
+r_date: 2017-01-18 00:49:14.900000000 Z
+r_wrapped_url: https://www.reading.am/p/4zzY/https://www.nytimes.com/2017/01/17/arts/maria-balshaw-tate-museums.html
+r_page_description: Ms. Balshaw, who runs the Whitworth in Manchester, will oversee
+  the four museums in the group, including Tate Modern and Tate Britain.
+r_page_title: Maria Balshaw Named Director of Tate Museums
+r_title: Maria Balshaw Named Director of Tate Museums
+r_id: '698318'
+r_page_id: '512278'
+---
+
