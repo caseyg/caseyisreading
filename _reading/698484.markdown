@@ -1,0 +1,15 @@
+---
+title: '698484'
+r_url: http://www.businesswire.com/news/home/20170117005900/en/Echelon-Enables-Outdoor-Lighting-Enhance-Public-Safety
+r_date: 2017-01-18 17:43:27.015000000 Z
+r_wrapped_url: https://www.reading.am/p/4zCQ/http://www.businesswire.com/news/home/20170117005900/en/Echelon-Enables-Outdoor-Lighting-Enhance-Public-Safety
+r_page_description: Echelon brings cognitive intelligence to its adaptive streetlight
+  control platform with IBM Watson IoT to improve public safety and transform municipa
+r_page_title: Echelon Enables Outdoor Lighting to Enhance Public Safety through IBM
+  Watson Internet of Things
+r_title: Echelon Enables Outdoor Lighting to Enhance Public Safety through IBM Watson
+  Internet of Things
+r_id: '698484'
+r_page_id: '512410'
+---
+
