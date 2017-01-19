@@ -1,0 +1,15 @@
+---
+title: '698795'
+r_url: https://en.wikipedia.org/wiki/NEA_Four
+r_date: 2017-01-19 19:10:07.148000000 Z
+r_wrapped_url: https://www.reading.am/p/4zJc/https://en.wikipedia.org/wiki/NEA_Four
+r_page_description: The "NEA Four", Karen Finley, Tim Miller, John Fleck, and Holly
+  Hughes, were performance artists whose proposed grants from the United States government's
+  National Endowment for the Arts (NEA) were vetoed by John Frohnmayer in June 1990.
+  Grants were overtly...
+r_page_title: NEA Four - Wikipedia
+r_title: NEA Four - Wikipedia
+r_id: '698795'
+r_page_id: '512662'
+---
+
