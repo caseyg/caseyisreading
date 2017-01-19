@@ -1,0 +1,12 @@
+---
+title: '698895'
+r_url: http://outsiderartfair.com/artist/1232
+r_date: 2017-01-19 22:45:06.062000000 Z
+r_wrapped_url: https://www.reading.am/p/4zKV/http://outsiderartfair.com/artist/1232
+r_page_description: Outsider Art Fair
+r_page_title: Outsider Art Fair
+r_title: Outsider Art Fair
+r_id: '698895'
+r_page_id: '512742'
+---
+
