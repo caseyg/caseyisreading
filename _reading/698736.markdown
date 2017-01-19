@@ -1,0 +1,13 @@
+---
+title: '698736'
+r_url: http://whitney.org/Events/SpeakOut
+r_date: 2017-01-19 14:08:31.479000000 Z
+r_wrapped_url: https://www.reading.am/p/4zHb/http://whitney.org/Events/SpeakOut
+r_page_description: The Whitney Museum of American Art. Explore works, exhibitions,
+  and events online. Located in New York City.
+r_page_title: 'Speak Out on Inauguration Day '
+r_title: 'Speak Out on Inauguration Day '
+r_id: '698736'
+r_page_id: '512612'
+---
+
