@@ -1,0 +1,13 @@
+---
+title: '699299'
+r_url: https://www.obama.org/
+r_date: 2017-01-21 05:37:21.629000000 Z
+r_wrapped_url: https://www.reading.am/p/4zST/https://www.obama.org/
+r_page_description: '"I''m asking you to believe. Not in my ability to create change
+   — but in yours." President Barack Obama'
+r_page_title: Home
+r_title: Home
+r_id: '699299'
+r_page_id: '513059'
+---
+
