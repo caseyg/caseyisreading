@@ -1,0 +1,13 @@
+---
+title: '699956'
+r_url: http://www.newyorker.com/magazine/2017/01/30/brad-troemel-the-troll-of-internet-art
+r_date: 2017-01-24 02:11:19.206000000 Z
+r_wrapped_url: https://www.reading.am/p/4A5d/http://www.newyorker.com/magazine/2017/01/30/brad-troemel-the-troll-of-internet-art
+r_page_description: Brad Troemel’s work is a jab at the rigid rules of the art world
+  and an experiment in what art might look like if those rules didn’t exist.
+r_page_title: The Troll of Internet Art
+r_title: The Troll of Internet Art
+r_id: '699956'
+r_page_id: '513630'
+---
+
