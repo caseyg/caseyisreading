@@ -1,0 +1,12 @@
+---
+title: '700119'
+r_url: https://www.bloomberg.com/news/articles/2017-01-18/this-team-runs-mark-zuckerberg-s-facebook-page
+r_date: 2017-01-24 15:40:41.615000000 Z
+r_wrapped_url: https://www.reading.am/p/4A82/https://www.bloomberg.com/news/articles/2017-01-18/this-team-runs-mark-zuckerberg-s-facebook-page
+r_page_description: "“His image in the digital domain needs to be controlled.”"
+r_page_title: Meet the Team Behind Mark Zuckerberg’s Facebook Page
+r_title: Meet the Team Behind Mark Zuckerberg’s Facebook Page
+r_id: '700119'
+r_page_id: '512531'
+---
+
