@@ -1,0 +1,13 @@
+---
+title: '700693'
+r_url: https://www.nytimes.com/2017/01/25/us/politics/president-trump-white-house.html
+r_date: 2017-01-25 21:53:27.646000000 Z
+r_wrapped_url: https://www.reading.am/p/4AhV/https://www.nytimes.com/2017/01/25/us/politics/president-trump-white-house.html
+r_page_description: Candidate Trump preferred to sleep in his own bed. But President
+  Trump has spent the past five nights in his new home. His review? “Pure elegance.”
+r_page_title: It’s No Trump Tower, but White House Has ‘Beautiful’ Phones
+r_title: It’s No Trump Tower, but White House Has ‘Beautiful’ Phones
+r_id: '700693'
+r_page_id: '514242'
+---
+
