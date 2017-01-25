@@ -1,0 +1,12 @@
+---
+title: '700244'
+r_url: https://en.wiktionary.org/wiki/organigram
+r_date: 2017-01-25 01:09:45.454000000 Z
+r_wrapped_url: https://www.reading.am/p/4Aab/https://en.wiktionary.org/wiki/organigram
+r_page_description: representation of a structure or organization
+r_page_title: organigram - Wiktionary
+r_title: organigram - Wiktionary
+r_id: '700244'
+r_page_id: '513860'
+---
+
