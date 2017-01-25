@@ -1,0 +1,13 @@
+---
+title: '700243'
+r_url: https://www.youtube.com/watch?v=aPbJmYCSCgA
+r_date: 2017-01-25 01:03:18.388000000 Z
+r_wrapped_url: https://www.reading.am/p/4Aaa/https://www.youtube.com/watch?v=aPbJmYCSCgA
+r_page_description: Neil Gershenfeld, pioneer of the Fab Labs movement and a professor
+  at MIT, spoke at the Museum of Science on March 10, 2010.
+r_page_title: How To Make Almost Anything - Dr. Neil Gershenfeld
+r_title: How To Make Almost Anything - Dr. Neil Gershenfeld
+r_id: '700243'
+r_page_id: '513859'
+---
+
