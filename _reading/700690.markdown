@@ -1,0 +1,15 @@
+---
+title: '700690'
+r_url: https://www.nytimes.com/2017/01/25/us/politics/refugees-immigrants-wall-trump.html
+r_date: 2017-01-25 21:27:27.492000000 Z
+r_wrapped_url: https://www.reading.am/p/4AhS/https://www.nytimes.com/2017/01/25/us/politics/refugees-immigrants-wall-trump.html
+r_page_description: President Trump acted to start the construction of the border
+  wall and is expected to move to limit the admission of all refugees at least temporarily.
+r_page_title: Trump Orders Mexican Border Wall to Be Built and Is Expected to Block
+  Syrian Refugees
+r_title: Trump Orders Mexican Border Wall to Be Built and Is Expected to Block Syrian
+  Refugees
+r_id: '700690'
+r_page_id: '514240'
+---
+
