@@ -1,0 +1,15 @@
+---
+title: '700607'
+r_url: http://io9.gizmodo.com/an-oral-history-of-homestar-runner-the-internets-favor-1791519879
+r_date: 2017-01-25 18:40:32.596000000 Z
+r_wrapped_url: https://www.reading.am/p/4Agr/http://io9.gizmodo.com/an-oral-history-of-homestar-runner-the-internets-favor-1791519879
+r_page_description: If you grew up on the internet, Homestar Runner represents a time
+  when the world wide web felt a little bit smaller. It was hilariously sarcastic,
+  but unlike the rest of the Flash landscape in the early 2000s, Homestar was never
+  hateful or cheap.
+r_page_title: An Oral History of Homestar Runner, the Internet's Favorite Cartoon
+r_title: An Oral History of Homestar Runner, the Internet's Favorite Cartoon
+r_id: '700607'
+r_page_id: '513919'
+---
+
