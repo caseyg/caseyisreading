@@ -1,0 +1,15 @@
+---
+title: '700687'
+r_url: http://www.newmuseum.org/calendar/view/1134/public-servants-in-the-future-imperfect
+r_date: 2017-01-25 21:11:41.850000000 Z
+r_wrapped_url: https://www.reading.am/p/4AhP/http://www.newmuseum.org/calendar/view/1134/public-servants-in-the-future-imperfect
+r_page_description: 'Organized by the New Museum and A Blade of Grass, this event
+  celebrates the launch of Public Servants: Art and the Crisis of the Common Good
+  (edited by Johanna Burton, Shannon Jackson, and Dominic Willsdon) and Future Imperfect
+  (edited by Elizabeth M.'
+r_page_title: Public Servants in the Future Imperfect
+r_title: Public Servants in the Future Imperfect
+r_id: '700687'
+r_page_id: '514237'
+---
+
