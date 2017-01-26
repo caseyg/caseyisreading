@@ -1,0 +1,13 @@
+---
+title: '700935'
+r_url: https://ethanmarcotte.com/wrote/free-faster/
+r_date: 2017-01-26 20:38:22.251000000 Z
+r_wrapped_url: https://www.reading.am/p/4An6/https://ethanmarcotte.com/wrote/free-faster/
+r_page_description: A lot of the free web software I’ve seen recently is…slow. How
+  can we fix that?
+r_page_title: Free, faster. — ethanmarcotte.com
+r_title: Free, faster. — ethanmarcotte.com
+r_id: '700935'
+r_page_id: '514375'
+---
+
