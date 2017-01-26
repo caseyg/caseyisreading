@@ -1,0 +1,11 @@
+---
+title: '700906'
+r_url: http://www.pentagram.com/#/projects/87254
+r_date: 2017-01-26 18:14:00.416000000 Z
+r_id: '700906'
+r_wrapped_url: https://www.reading.am/p/4AmA/http://www.pentagram.com/#/projects/87254
+r_page_id: '514397'
+r_page_title: http://www.pentagram.com/#/projects/87254
+r_title: http://www.pentagram.com/#/projects/87254
+---
+

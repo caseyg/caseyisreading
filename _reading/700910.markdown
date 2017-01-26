@@ -1,0 +1,12 @@
+---
+title: '700910'
+r_url: http://www.arsenalpulp.com/bookinfo.php?index=449
+r_date: 2017-01-26 18:25:42.668000000 Z
+r_wrapped_url: https://www.reading.am/p/4AmE/http://www.arsenalpulp.com/bookinfo.php?index=449
+r_page_description: ''
+r_page_title: Arsenal Pulp Press Title Info Page
+r_title: Arsenal Pulp Press Title Info Page
+r_id: '700910'
+r_page_id: '514401'
+---
+
