@@ -1,0 +1,13 @@
+---
+title: '700873'
+r_url: http://whitney.org/Exhibitions/BunnyRogers
+r_date: 2017-01-26 16:24:32.036000000 Z
+r_wrapped_url: https://www.reading.am/p/4Am2/http://whitney.org/Exhibitions/BunnyRogers
+r_page_description: The Whitney Museum of American Art. Explore works, exhibitions,
+  and events online. Located in New York City.
+r_page_title: 'Bunny Rogers '
+r_title: 'Bunny Rogers '
+r_id: '700873'
+r_page_id: '514373'
+---
+
