@@ -1,0 +1,13 @@
+---
+title: '700894'
+r_url: https://www.nytimes.com/2017/01/26/science/doomsday-clock-countdown-2017.html
+r_date: 2017-01-26 17:27:16.469000000 Z
+r_wrapped_url: https://www.reading.am/p/4Amo/https://www.nytimes.com/2017/01/26/science/doomsday-clock-countdown-2017.html
+r_page_description: The clock run by a group of scientists now stands at two and a
+  half minutes before midnight, which symbolically represents the end of days.
+r_page_title: Doomsday Clock Moves Closer to Midnight, Signaling Concern Among Scientists
+r_title: Doomsday Clock Moves Closer to Midnight, Signaling Concern Among Scientists
+r_id: '700894'
+r_page_id: '514387'
+---
+
