@@ -1,0 +1,12 @@
+---
+title: '701190'
+r_url: https://aaltodoc.aalto.fi/handle/123456789/18089
+r_date: 2017-01-27 18:50:15.859000000 Z
+r_wrapped_url: https://www.reading.am/p/4Aru/https://aaltodoc.aalto.fi/handle/123456789/18089
+r_page_description: 'Abstract:'
+r_page_title: 'Chorus Novus. Or: Looking for participation In classical Greece'
+r_title: 'Chorus Novus. Or: Looking for participation In classical Greece'
+r_id: '701190'
+r_page_id: '514614'
+---
+
