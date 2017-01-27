@@ -1,0 +1,14 @@
+---
+title: '701208'
+r_url: https://en.wikipedia.org/wiki/Digesting_Duck
+r_date: 2017-01-27 20:52:27.310000000 Z
+r_wrapped_url: https://www.reading.am/p/4ArN/https://en.wikipedia.org/wiki/Digesting_Duck
+r_page_description: The Canard Digérateur, or Digesting Duck, was an automaton in
+  the form of a duck, created by Jacques de Vaucanson in 1739. The mechanical duck
+  appeared to have the ability to eat kernels of grain, and to metabolize and defecate...
+r_page_title: Digesting Duck - Wikipedia
+r_title: Digesting Duck - Wikipedia
+r_id: '701208'
+r_page_id: '514626'
+---
+

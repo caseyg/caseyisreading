@@ -1,0 +1,14 @@
+---
+title: '701211'
+r_url: http://www.robotliving.com/robot-news/robotic-duck-takes-photos/
+r_date: 2017-01-27 20:54:56.356000000 Z
+r_wrapped_url: https://www.reading.am/p/4ArR/http://www.robotliving.com/robot-news/robotic-duck-takes-photos/
+r_page_description: The robot named Magical Image Digesting Duck was created by Taeyoon
+  Choi from South Korea. He received a commission through Eyebeam Art &amp; Technology
+  Center
+r_page_title: 'Robotic Duck Takes Photos '
+r_title: 'Robotic Duck Takes Photos '
+r_id: '701211'
+r_page_id: '514629'
+---
+
