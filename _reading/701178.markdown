@@ -1,0 +1,15 @@
+---
+title: '701178'
+r_url: http://www.newyorker.com/books/page-turner/the-tragic-death-of-mark-baumer-a-prolific-poet-and-environmental-activist-for-the-social-media-age
+r_date: 2017-01-27 17:57:12.310000000 Z
+r_wrapped_url: https://www.reading.am/p/4Arh/http://www.newyorker.com/books/page-turner/the-tragic-death-of-mark-baumer-a-prolific-poet-and-environmental-activist-for-the-social-media-age
+r_page_description: Baumer was killed in Florida, while walking across the country
+  barefoot to build awareness of climate change and water shortage.
+r_page_title: The Tragic Death of Mark Baumer, a Prolific Poet and Environmental Activist
+  for the Social-Media Age
+r_title: The Tragic Death of Mark Baumer, a Prolific Poet and Environmental Activist
+  for the Social-Media Age
+r_id: '701178'
+r_page_id: '514607'
+---
+

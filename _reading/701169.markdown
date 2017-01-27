@@ -1,0 +1,12 @@
+---
+title: '701169'
+r_url: https://en.wikipedia.org/wiki/Picture-in-picture
+r_date: 2017-01-27 17:13:13.849000000 Z
+r_wrapped_url: https://www.reading.am/p/4Ar8/https://en.wikipedia.org/wiki/Picture-in-picture
+r_page_description: ''
+r_page_title: Picture-in-picture - Wikipedia
+r_title: Picture-in-picture - Wikipedia
+r_id: '701169'
+r_page_id: '514599'
+---
+

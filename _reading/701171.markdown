@@ -1,0 +1,14 @@
+---
+title: '701171'
+r_url: https://en.wikipedia.org/wiki/Teletext
+r_date: 2017-01-27 17:14:27.873000000 Z
+r_wrapped_url: https://www.reading.am/p/4Ara/https://en.wikipedia.org/wiki/Teletext
+r_page_description: This article is about the teletext system as a whole. For the
+  UK company whose teletext services are also branded as "Teletext", see Teletext
+  Ltd. For the obsolete communications system, see Teletex.
+r_page_title: Teletext - Wikipedia
+r_title: Teletext - Wikipedia
+r_id: '701171'
+r_page_id: '514601'
+---
+
