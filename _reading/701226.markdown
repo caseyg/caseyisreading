@@ -1,0 +1,19 @@
+---
+title: '701226'
+r_url: http://articles.thewalters.org/digital-medieval-manuscripts-03/
+r_date: 2017-01-27 21:44:42.612000000 Z
+r_wrapped_url: https://www.reading.am/p/4As7/http://articles.thewalters.org/digital-medieval-manuscripts-03/
+r_page_description: 'The Walters recently launched a new website that houses its digital
+  collection of manuscripts: manuscripts.thewalters.org. Featuring a user-friendly
+  design, the site provides visitors with intuitive search options, including the
+  ability to refine their search by date, geography, subject, culture, and more. 
+  Lynley Anne Herbert is the Robert and Nancy Hall Assistant Curator of Rare Books
+  … Continue reading "Illuminating Medieval Manuscripts in the Digital Age, Part III"'
+r_page_title: Illuminating Medieval Manuscripts in the Digital Age, Part III - Articles
+  from the Walters Art Museum
+r_title: Illuminating Medieval Manuscripts in the Digital Age, Part III - Articles
+  from the Walters Art Museum
+r_id: '701226'
+r_page_id: '514643'
+---
+
