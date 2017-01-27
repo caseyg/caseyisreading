@@ -1,0 +1,11 @@
+---
+title: '701260'
+r_url: http://www.publicbooks.org/trump-syllabus-2-0/
+r_date: 2017-01-27 22:48:19.058000000 Z
+r_id: '701260'
+r_wrapped_url: https://www.reading.am/p/4AsG/http://www.publicbooks.org/trump-syllabus-2-0/
+r_page_id: '514651'
+r_page_title: 'Trump Syllabus 2.0 '
+r_title: 'Trump Syllabus 2.0 '
+---
+
