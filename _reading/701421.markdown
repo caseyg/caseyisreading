@@ -1,0 +1,18 @@
+---
+title: '701421'
+r_url: https://www.amazon.com/Language-Schoolchildren-Review-Books-Classics/dp/0940322692
+r_date: 2017-01-28 17:20:45.659000000 Z
+r_wrapped_url: https://www.reading.am/p/4Avt/https://www.amazon.com/Language-Schoolchildren-Review-Books-Classics/dp/0940322692
+r_page_description: First published in 1959, Iona and Peter Opie's The Lore and Language
+  of Schoolchildren is a pathbreaking work of scholarship that is also a splendid
+  and enduring work of literature. Going outside the nursery, with its assortment
+  of parent-approved entertainments, to observe and investigate the day-to-day creative
+  intelligence and activities of children, the Opies bring to life the rites and rhymes,
+  jokes and jeers, laws, games, and secret spells of what has been called "the greatest
+  of savage tribes, and the only one which shows no signs of dying out."
+r_page_title: The Lore and Language of Schoolchildren (New York Review Books Classics)
+r_title: The Lore and Language of Schoolchildren (New York Review Books Classics)
+r_id: '701421'
+r_page_id: '514754'
+---
+
