@@ -1,0 +1,14 @@
+---
+title: '701312'
+r_url: http://www.dw.com/en/fake-news-is-a-red-herring/a-37269377
+r_date: 2017-01-28 00:33:46.973000000 Z
+r_wrapped_url: https://www.reading.am/p/4AtA/http://www.dw.com/en/fake-news-is-a-red-herring/a-37269377
+r_page_description: Fake news, propaganda and "disinformatzya" are changing the media
+  landscape - in the US, Russia and Turkey and across the world. The question is how
+  to combat them.
+r_page_title: 'Fake news is a red herring '
+r_title: 'Fake news is a red herring '
+r_id: '701312'
+r_page_id: '514661'
+---
+
