@@ -1,0 +1,12 @@
+---
+title: '701431'
+r_url: https://labyrinthsociety.org/annual-gathering
+r_date: 2017-01-28 18:08:28.376000000 Z
+r_wrapped_url: https://www.reading.am/p/4AvD/https://labyrinthsociety.org/annual-gathering
+r_page_description: "\r"
+r_page_title: 'The Labyrinth Society: Annual Gathering'
+r_title: 'The Labyrinth Society: Annual Gathering'
+r_id: '701431'
+r_page_id: '514760'
+---
+

@@ -1,0 +1,14 @@
+---
+title: '701432'
+r_url: http://www.labyrinthos.net/archive.html
+r_date: 2017-01-28 18:08:33.358000000 Z
+r_wrapped_url: https://www.reading.am/p/4AvE/http://www.labyrinthos.net/archive.html
+r_page_description: 'Labyrinthos - the Labyrinths &amp; Mazes Resource Centre, Photo
+  Library &amp; Archive. Publishers of Caerdroia: the Journal of Mazes &amp; Labyrinths
+  - founded 1980, published annually.'
+r_page_title: Caerdroia Archive
+r_title: Caerdroia Archive
+r_id: '701432'
+r_page_id: '514761'
+---
+
