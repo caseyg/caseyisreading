@@ -1,0 +1,13 @@
+---
+title: '701314'
+r_url: http://www.citylab.com/navigator/2017/01/planet-word-museum-of-linguistics-is-coming-to-dc-franklin-school/514406/
+r_date: 2017-01-28 00:45:17.739000000 Z
+r_wrapped_url: https://www.reading.am/p/4AtC/http://www.citylab.com/navigator/2017/01/planet-word-museum-of-linguistics-is-coming-to-dc-franklin-school/514406/
+r_page_description: '"Planet Word" will turn a long-vacant and architecturally significant
+  building into an interactive museum of language.'
+r_page_title: 'Attention, Word-Nerds: A Museum of Linguistics Is Coming to D.C.'
+r_title: 'Attention, Word-Nerds: A Museum of Linguistics Is Coming to D.C.'
+r_id: '701314'
+r_page_id: '514663'
+---
+
