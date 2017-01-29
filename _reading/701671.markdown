@@ -1,0 +1,14 @@
+---
+title: '701671'
+r_url: https://www.wired.com/2013/04/hypertext/
+r_date: 2017-01-29 19:28:26.723000000 Z
+r_wrapped_url: https://www.reading.am/p/4AzM/https://www.wired.com/2013/04/hypertext/
+r_page_description: There was a time, 20 years ago, when hypertext fiction had its
+  great shining moment. And then it passed. In its place, we saw the rise of a whole
+  different set of forms, from blogs to social networks and crowd-edited encyclopedias.
+r_page_title: Why No One Clicked on the Great Hypertext Story
+r_title: Why No One Clicked on the Great Hypertext Story
+r_id: '701671'
+r_page_id: '514965'
+---
+
