@@ -1,0 +1,15 @@
+---
+title: '701646'
+r_url: https://en.wikipedia.org/wiki/Adobe_Flash
+r_date: 2017-01-29 18:57:14.240000000 Z
+r_wrapped_url: https://www.reading.am/p/4Azm/https://en.wikipedia.org/wiki/Adobe_Flash
+r_page_description: Adobe Animate (formerly called Adobe Flash and Shockwave Flash)
+  is a multimedia software platform for production of animations, browser games, rich
+  Internet applications, desktop applications, mobile applications and mobile games.
+  Flash displays text, vector graphics and raster graphics to provide...
+r_page_title: Adobe Flash - Wikipedia
+r_title: Adobe Flash - Wikipedia
+r_id: '701646'
+r_page_id: '514943'
+---
+
