@@ -1,0 +1,12 @@
+---
+title: '701692'
+r_url: https://hypothes.is/blog/a-hypothesis-powered-toolkit-for-fact-checkers/
+r_date: 2017-01-29 20:21:04.209000000 Z
+r_wrapped_url: https://www.reading.am/p/4AA9/https://hypothes.is/blog/a-hypothesis-powered-toolkit-for-fact-checkers/
+r_page_description: ''
+r_page_title: A Hypothesis-powered toolkit for fact checkers
+r_title: A Hypothesis-powered toolkit for fact checkers
+r_id: '701692'
+r_page_id: '512644'
+---
+
