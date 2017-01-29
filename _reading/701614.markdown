@@ -1,0 +1,15 @@
+---
+title: '701614'
+r_url: https://en.wikipedia.org/wiki/Overton_window
+r_date: 2017-01-29 18:07:32.320000000 Z
+r_wrapped_url: https://www.reading.am/p/4AyN/https://en.wikipedia.org/wiki/Overton_window
+r_page_description: The Overton window, also known as the window of discourse, is
+  the range of ideas the public will accept. It is used by media pundits.[1][2] The
+  term is derived from its originator, Joseph P. Overton (1960–2003),[3] a former
+  vice president...
+r_page_title: Overton window - Wikipedia
+r_title: Overton window - Wikipedia
+r_id: '701614'
+r_page_id: '514909'
+---
+
