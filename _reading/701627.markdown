@@ -1,0 +1,15 @@
+---
+title: '701627'
+r_url: https://www.youtube.com/watch?v=rVfczhRjS2Q
+r_date: 2017-01-29 18:38:04.373000000 Z
+r_wrapped_url: https://www.reading.am/p/4Az2/https://www.youtube.com/watch?v=rVfczhRjS2Q
+r_page_description: A faux commercial for a futuristic mind-melding device. The commercial
+  was created by Play Incorporated as a demo of the capabilities of the company's
+  Time Machine non-linear video editing option for the Trinity production system.
+  Starring Kiki Stockhammer and Karl Miller.
+r_page_title: MindPhone
+r_title: MindPhone
+r_id: '701627'
+r_page_id: '514922'
+---
+

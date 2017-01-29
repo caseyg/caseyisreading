@@ -1,0 +1,15 @@
+---
+title: '701625'
+r_url: https://www.youtube.com/watch?v=seznQmDp2pU
+r_date: 2017-01-29 18:33:38.317000000 Z
+r_wrapped_url: https://www.reading.am/p/4AyZ/https://www.youtube.com/watch?v=seznQmDp2pU
+r_page_description: "The original VHS videotape demo from NewTek, released to promote
+  the Video Toaster card for the Amiga computer. Lots of nostalgic references for
+  every Amiga user, from the \"sexy\" Kiki Stockhammer to the Babylon 5 Lightwave
+  renderings. First part from 1991.\r"
+r_page_title: 'Revolution: the Video Toaster and the Amiga computer  (Part 1)'
+r_title: 'Revolution: the Video Toaster and the Amiga computer  (Part 1)'
+r_id: '701625'
+r_page_id: '514920'
+---
+
