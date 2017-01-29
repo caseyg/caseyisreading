@@ -1,0 +1,13 @@
+---
+title: '701620'
+r_url: https://www.youtube.com/watch?v=zyGCYoZ5Nlk
+r_date: 2017-01-29 18:17:49.253000000 Z
+r_wrapped_url: https://www.reading.am/p/4AyU/https://www.youtube.com/watch?v=zyGCYoZ5Nlk
+r_page_description: http://cchronicles.com A look at the Video Toaster for the Amiga
+  computer.
+r_page_title: Video Toaster (1990)
+r_title: Video Toaster (1990)
+r_id: '701620'
+r_page_id: '514915'
+---
+

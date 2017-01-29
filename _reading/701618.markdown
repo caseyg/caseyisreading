@@ -1,0 +1,13 @@
+---
+title: '701618'
+r_url: http://rhizome.org/editorial/2015/jun/09/divorce-your-metadata/
+r_date: 2017-01-29 18:13:59.063000000 Z
+r_wrapped_url: https://www.reading.am/p/4AyS/http://rhizome.org/editorial/2015/jun/09/divorce-your-metadata/
+r_page_description: ".."
+r_page_title: 'Divorce Your Metadata: A conversation between Laura Poitras and Kate
+  Crawford'
+r_title: 'Divorce Your Metadata: A conversation between Laura Poitras and Kate Crawford'
+r_id: '701618'
+r_page_id: '514913'
+---
+
