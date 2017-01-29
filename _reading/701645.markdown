@@ -1,0 +1,15 @@
+---
+title: '701645'
+r_url: https://en.wikipedia.org/wiki/FutureWave_Software
+r_date: 2017-01-29 18:57:10.194000000 Z
+r_wrapped_url: https://www.reading.am/p/4Azk/https://en.wikipedia.org/wiki/FutureWave_Software
+r_page_description: FutureWave Software was a software development company based in
+  San Diego, California. The company was founded by Charlie Jackson, Jonathan Gay,
+  and Michelle Welsh in early 1993.[1] VP of Marketing was Michelle Welsh who also
+  came from Silicon Beach Software,...
+r_page_title: FutureWave Software - Wikipedia
+r_title: FutureWave Software - Wikipedia
+r_id: '701645'
+r_page_id: '514942'
+---
+
