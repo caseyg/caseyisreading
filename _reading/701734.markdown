@@ -1,0 +1,12 @@
+---
+title: '701734'
+r_url: http://library.cooper.edu/archive/letters/pc_letter_1.html
+r_date: 2017-01-29 22:57:27.281000000 Z
+r_wrapped_url: https://www.reading.am/p/4AAS/http://library.cooper.edu/archive/letters/pc_letter_1.html
+r_page_description: " \r"
+r_page_title: 'The Cooper Union Library: Peter Cooper'
+r_title: 'The Cooper Union Library: Peter Cooper'
+r_id: '701734'
+r_page_id: '515021'
+---
+
