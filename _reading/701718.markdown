@@ -1,0 +1,14 @@
+---
+title: '701718'
+r_url: https://public.resource.org/8_principles.html
+r_date: 2017-01-29 21:38:36.801000000 Z
+r_wrapped_url: https://www.reading.am/p/4AAA/https://public.resource.org/8_principles.html
+r_page_description: "[To The Wiki &gt;&gt;]Request for Comments December 7-8, 2007—This
+  weekend, 30 open government advocates gathered to develop a set of principles of
+  open government data. The meeting, held in…"
+r_page_title: 8 Principles of Open Government Data
+r_title: 8 Principles of Open Government Data
+r_id: '701718'
+r_page_id: '135988'
+---
+
