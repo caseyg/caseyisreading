@@ -1,0 +1,15 @@
+---
+title: '701701'
+r_url: https://en.wikipedia.org/wiki/Mbone
+r_date: 2017-01-29 20:39:31.769000000 Z
+r_wrapped_url: https://www.reading.am/p/4AAi/https://en.wikipedia.org/wiki/Mbone
+r_page_description: Mbone (short for "multicast backbone") was an experimental backbone
+  for carrying IP multicast traffic on the Internet. It was developed in the early
+  1990s and required specialized hardware and software.[1] Since the operators of
+  most Internet routers have disabled IP...
+r_page_title: Mbone - Wikipedia
+r_title: Mbone - Wikipedia
+r_id: '701701'
+r_page_id: '514990'
+---
+
