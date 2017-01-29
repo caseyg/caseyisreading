@@ -1,0 +1,14 @@
+---
+title: '701715'
+r_url: https://thebaffler.com/about/history
+r_date: 2017-01-29 21:27:56.431000000 Z
+r_wrapped_url: https://www.reading.am/p/4AAx/https://thebaffler.com/about/history
+r_page_description: The Baffler, est. 1988, is a printed and digital magazine of art
+  and criticism, now published quarterly. Our first cycle of four annual issues was
+  in 2016.
+r_page_title: History of The Baffler Magazine
+r_title: History of The Baffler Magazine
+r_id: '701715'
+r_page_id: '515004'
+---
+

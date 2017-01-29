@@ -1,0 +1,13 @@
+---
+title: '701714'
+r_url: https://thebaffler.com/about
+r_date: 2017-01-29 21:25:55.672000000 Z
+r_wrapped_url: https://www.reading.am/p/4AAw/https://thebaffler.com/about
+r_page_description: The Baffler is America’s leading voice of interesting and unexpected
+  left-wing political criticism, cultural analysis, short stories, poems and art.
+r_page_title: About The Baffler Magazine
+r_title: About The Baffler Magazine
+r_id: '701714'
+r_page_id: '515003'
+---
+
