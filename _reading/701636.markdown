@@ -1,0 +1,15 @@
+---
+title: '701636'
+r_url: https://en.wikipedia.org/wiki/Adobe_Shockwave
+r_date: 2017-01-29 18:52:30.203000000 Z
+r_wrapped_url: https://www.reading.am/p/4Azb/https://en.wikipedia.org/wiki/Adobe_Shockwave
+r_page_description: Adobe Shockwave (formerly Macromedia Shockwave) is a multimedia
+  platform for building interactive multimedia applications and video games. Developers
+  originate content using Adobe Director and publish it on the Internet. Such content
+  can be viewed in a web browser on any...
+r_page_title: Adobe Shockwave - Wikipedia
+r_title: Adobe Shockwave - Wikipedia
+r_id: '701636'
+r_page_id: '514933'
+---
+

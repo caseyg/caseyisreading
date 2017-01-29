@@ -1,0 +1,15 @@
+---
+title: '701637'
+r_url: https://en.wikipedia.org/wiki/MacroMind
+r_date: 2017-01-29 18:52:47.843000000 Z
+r_wrapped_url: https://www.reading.am/p/4Azc/https://en.wikipedia.org/wiki/MacroMind
+r_page_description: MacroMind was an Apple Macintosh software company founded in Chicago
+  in 1984 by Marc Canter, Jay Fenton and Mark Stephen Pierce. The company's first
+  product was SoundVision, a combined music and graphics editor. Before the release,
+  the graphics editor was...
+r_page_title: MacroMind - Wikipedia
+r_title: MacroMind - Wikipedia
+r_id: '701637'
+r_page_id: '514934'
+---
+

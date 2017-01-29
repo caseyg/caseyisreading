@@ -1,0 +1,15 @@
+---
+title: '701638'
+r_url: https://en.wikipedia.org/wiki/Macromedia
+r_date: 2017-01-29 18:52:50.811000000 Z
+r_wrapped_url: https://www.reading.am/p/4Azd/https://en.wikipedia.org/wiki/Macromedia
+r_page_description: Macromedia was an American graphics, multimedia and web development
+  software company (1992–2005) headquartered in San Francisco, California that produced
+  such products as Flash and Dreamweaver. Its rival, Adobe Systems, acquired Macromedia
+  on December 3, 2005.
+r_page_title: Macromedia - Wikipedia
+r_title: Macromedia - Wikipedia
+r_id: '701638'
+r_page_id: '514935'
+---
+
