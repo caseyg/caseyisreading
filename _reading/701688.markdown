@@ -1,0 +1,16 @@
+---
+title: '701688'
+r_url: http://www.hup.harvard.edu/catalog.php?isbn=9780674088122
+r_date: 2017-01-29 20:05:15.834000000 Z
+r_wrapped_url: https://www.reading.am/p/4AA5/http://www.hup.harvard.edu/catalog.php?isbn=9780674088122
+r_page_description: The zany, the cute, and the interesting saturate postmodern culture,
+  dominating the look of its art and commodities as well as our ways of speaking about
+  the ambivalent feelings these objects often inspire. In this radiant study, Ngai
+  offers an aesthetic theory for the hypercommodified, mass-mediated, performance-driven
+  world of late capitalism.
+r_page_title: 'Our Aesthetic Categories — Sianne Ngai '
+r_title: 'Our Aesthetic Categories — Sianne Ngai '
+r_id: '701688'
+r_page_id: '514982'
+---
+
