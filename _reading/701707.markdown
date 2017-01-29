@@ -1,0 +1,14 @@
+---
+title: '701707'
+r_url: https://en.wikipedia.org/wiki/John_Seely_Brown
+r_date: 2017-01-29 20:46:31.565000000 Z
+r_wrapped_url: https://www.reading.am/p/4AAp/https://en.wikipedia.org/wiki/John_Seely_Brown
+r_page_description: John Seely Brown (born 1940),[1] also known as "JSB", is a researcher
+  who specializes in organizational studies with a particular bent towards the organizational
+  implications of computer-supported activities.
+r_page_title: John Seely Brown - Wikipedia
+r_title: John Seely Brown - Wikipedia
+r_id: '701707'
+r_page_id: '514996'
+---
+

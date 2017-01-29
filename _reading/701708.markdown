@@ -1,0 +1,15 @@
+---
+title: '701708'
+r_url: https://en.wikipedia.org/wiki/Ubiquitous_computing
+r_date: 2017-01-29 20:47:00.026000000 Z
+r_wrapped_url: https://www.reading.am/p/4AAq/https://en.wikipedia.org/wiki/Ubiquitous_computing
+r_page_description: Ubiquitous computing (or "ubicomp") is a concept in software engineering
+  and computer science where computing is made to appear anytime and everywhere. In
+  contrast to desktop computing, ubiquitous computing can occur using any device,
+  in any location, and in any...
+r_page_title: Ubiquitous computing - Wikipedia
+r_title: Ubiquitous computing - Wikipedia
+r_id: '701708'
+r_page_id: '514997'
+---
+

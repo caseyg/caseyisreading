@@ -1,0 +1,12 @@
+---
+title: '701705'
+r_url: http://std.org/text/songinfo/whocares.html
+r_date: 2017-01-29 20:42:14.550000000 Z
+r_wrapped_url: https://www.reading.am/p/4AAn/http://std.org/text/songinfo/whocares.html
+r_page_description: "(Lyrics by: Steve Rubin, Music by: Anna Karlin and Dexter Kozen)"
+r_page_title: 'Severe Tire Damage: Who Cares'
+r_title: 'Severe Tire Damage: Who Cares'
+r_id: '701705'
+r_page_id: '514994'
+---
+
