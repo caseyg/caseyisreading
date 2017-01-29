@@ -1,0 +1,17 @@
+---
+title: '701644'
+r_url: http://venturebeat.com/2017/01/27/adobe-will-stop-selling-contribute-and-director-on-february-1-drop-shockwave-for-mac-support-on-march-14/
+r_date: 2017-01-29 18:55:33.018000000 Z
+r_wrapped_url: https://www.reading.am/p/4Azj/http://venturebeat.com/2017/01/27/adobe-will-stop-selling-contribute-and-director-on-february-1-drop-shockwave-for-mac-support-on-march-14/
+r_page_description: Adobe today announced Adobe Contribute and Adobe Director will
+  no longer be for sale nor supported as of February 1, 2017. At the same time, Adobe
+  is also stopping Shockwave for Mac updates and support on March 14, 2017 after the
+  last release of the product.
+r_page_title: Adobe will stop selling Contribute and Director on February 1, drop
+  Shockwave for Mac support on March 14
+r_title: Adobe will stop selling Contribute and Director on February 1, drop Shockwave
+  for Mac support on March 14
+r_id: '701644'
+r_page_id: '514939'
+---
+

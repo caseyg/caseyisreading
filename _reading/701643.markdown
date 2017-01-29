@@ -1,0 +1,14 @@
+---
+title: '701643'
+r_url: http://www.quark.com/Solutions/Content-Automation/Content-Automation-Software.aspx
+r_date: 2017-01-29 18:55:32.120000000 Z
+r_wrapped_url: https://www.reading.am/p/4Azi/http://www.quark.com/Solutions/Content-Automation/Content-Automation-Software.aspx
+r_page_description: A platform of products that seamlessly work together to address
+  challenges at every stage of the content lifecycle
+r_page_title: "\r"
+"\tContent Automation ": " Overview\r"
+r_title: "\r"
+r_id: '701643'
+r_page_id: '514941'
+---
+
