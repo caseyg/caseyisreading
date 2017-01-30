@@ -1,0 +1,15 @@
+---
+title: '701752'
+r_url: https://en.wikipedia.org/wiki/Orphan_works
+r_date: 2017-01-30 00:01:42.897000000 Z
+r_wrapped_url: https://www.reading.am/p/4ABb/https://en.wikipedia.org/wiki/Orphan_works
+r_page_description: An orphan work is a copyright protected work for which rightsholders
+  are positively indeterminate or uncontactable. Sometimes the names of the originators
+  or rightsholders are known, yet it is impossible to contact them because additional
+  details cannot be found.[1] A...
+r_page_title: Orphan works - Wikipedia
+r_title: Orphan works - Wikipedia
+r_id: '701752'
+r_page_id: '515037'
+---
+

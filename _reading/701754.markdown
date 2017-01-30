@@ -1,0 +1,14 @@
+---
+title: '701754'
+r_url: https://en.wikipedia.org/wiki/Manuel_Castells
+r_date: 2017-01-30 00:05:25.682000000 Z
+r_wrapped_url: https://www.reading.am/p/4ABd/https://en.wikipedia.org/wiki/Manuel_Castells
+r_page_description: 'Manuel Castells (Spanish: Manuel Castells Oliván, pronounced: [kaˈsteʎs];
+  born 1942) is a Spanish sociologist especially associated with research on the information
+  society, communication and globalization.'
+r_page_title: Manuel Castells - Wikipedia
+r_title: Manuel Castells - Wikipedia
+r_id: '701754'
+r_page_id: '515039'
+---
+
