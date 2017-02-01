@@ -1,0 +1,14 @@
+---
+title: '702757'
+r_url: https://www.youtube.com/watch?v=sMb2f_-m7iM
+r_date: 2017-02-01 19:02:25.289000000 Z
+r_wrapped_url: https://www.reading.am/p/4AUv/https://www.youtube.com/watch?v=sMb2f_-m7iM
+r_page_description: Einstein on the beach, a four acts Opera by Philip Glass, Robert
+  Wilson, choreography by Lucinda Childs. November 11th 2012, Palacio de Bellas Artes,
+  Mexico city.
+r_page_title: Einstein on the beach
+r_title: Einstein on the beach
+r_id: '702757'
+r_page_id: '515812'
+---
+
