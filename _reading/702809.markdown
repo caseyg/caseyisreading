@@ -1,0 +1,12 @@
+---
+title: '702809'
+r_url: https://www.youtube.com/watch?v=TJ2H1Ipr9FA
+r_date: 2017-02-01 22:24:06.971000000 Z
+r_wrapped_url: https://www.reading.am/p/4AVp/https://www.youtube.com/watch?v=TJ2H1Ipr9FA
+r_page_description: https://www.youtube.com/playlist?list=PLirLVoOHstO5pYKp_AiWAs9ullp4ieNSl
+r_page_title: Einstein on the Beach - Train
+r_title: Einstein on the Beach - Train
+r_id: '702809'
+r_page_id: '515857'
+---
+

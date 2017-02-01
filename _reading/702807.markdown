@@ -1,0 +1,13 @@
+---
+title: '702807'
+r_url: http://www.imaginenationcollective.com/
+r_date: 2017-02-01 22:20:46.605000000 Z
+r_wrapped_url: https://www.reading.am/p/4AVn/http://www.imaginenationcollective.com/
+r_page_description: "The international LARP collective. A collective of game designers,
+  role \r"
+r_page_title: Your Imagine Nation
+r_title: Your Imagine Nation
+r_id: '702807'
+r_page_id: '515856'
+---
+
