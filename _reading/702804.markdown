@@ -1,0 +1,13 @@
+---
+title: '702804'
+r_url: https://www.nytimes.com/interactive/projects/college-mobility/rhode-island-school-of-design
+r_date: 2017-02-01 22:15:17.321000000 Z
+r_wrapped_url: https://www.reading.am/p/4AVj/https://www.nytimes.com/interactive/projects/college-mobility/rhode-island-school-of-design
+r_page_description: See how Rhode Island School of Design compares to more than 2,000
+  American colleges.
+r_page_title: Economic diversity and student outcomes at Rhode Island School of Design
+r_title: Economic diversity and student outcomes at Rhode Island School of Design
+r_id: '702804'
+r_page_id: '515854'
+---
+
