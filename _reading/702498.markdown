@@ -1,0 +1,13 @@
+---
+title: '702498'
+r_url: http://www.vox.com/a/president-trump-inauguration-speech-transcript-annotations
+r_date: 2017-01-31 20:29:29.138000000 Z
+r_wrapped_url: https://www.reading.am/p/4AQ3/http://www.vox.com/a/president-trump-inauguration-speech-transcript-annotations
+r_page_description: A transcript of Donald Trump’s inauguration speech, with annotations
+  from policy reporters across the Vox newsroom
+r_page_title: President Trump's inauguration speech, annotated
+r_title: President Trump's inauguration speech, annotated
+r_id: '702498'
+r_page_id: '515615'
+---
+

@@ -1,0 +1,14 @@
+---
+title: '701824'
+r_url: https://www.youtube.com/watch?v=q4ZU7zUxdM8
+r_date: 2017-01-30 05:10:37.447000000 Z
+r_wrapped_url: https://www.reading.am/p/4ACq/https://www.youtube.com/watch?v=q4ZU7zUxdM8
+r_page_description: Corning's proprietary fusion manufacturing process is at the core
+  of its innovation, providing precision glass that is smooth, flat, and dimensionally
+  stable from millimeters thick to microns thin.
+r_page_title: 'The Fusion Process: At the Core of Corning''s Glass Innovations'
+r_title: 'The Fusion Process: At the Core of Corning''s Glass Innovations'
+r_id: '701824'
+r_page_id: '515092'
+---
+

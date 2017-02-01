@@ -1,0 +1,13 @@
+---
+title: '702739'
+r_url: https://en.wikipedia.org/wiki/Antoni_Muntadas
+r_date: 2017-02-01 17:51:06.828000000 Z
+r_wrapped_url: https://www.reading.am/p/4AUc/https://en.wikipedia.org/wiki/Antoni_Muntadas
+r_page_description: Antoni Muntadas (born in 1942 in Barcelona), often known mononymously
+  as Muntadas, is a multidisciplinary installation and media artist.
+r_page_title: Antoni Muntadas - Wikipedia
+r_title: Antoni Muntadas - Wikipedia
+r_id: '702739'
+r_page_id: '515795'
+---
+

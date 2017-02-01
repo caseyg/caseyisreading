@@ -1,0 +1,15 @@
+---
+title: '702174'
+r_url: https://en.wikipedia.org/wiki/Diff%C3%A9rance
+r_date: 2017-01-31 03:42:33.608000000 Z
+r_wrapped_url: https://www.reading.am/p/4AJs/https://en.wikipedia.org/wiki/Diff%C3%A9rance
+r_page_description: Différance is a French term coined by Jacques Derrida. It is a
+  central concept in Derrida's deconstruction, a critical outlook concerned with the
+  relationship between text and meaning. The term différance means "difference and
+  deferral of meaning."
+r_page_title: Différance - Wikipedia
+r_title: Différance - Wikipedia
+r_id: '702174'
+r_page_id: '515360'
+---
+

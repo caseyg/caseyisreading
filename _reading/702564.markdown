@@ -1,0 +1,12 @@
+---
+title: '702564'
+r_url: https://en.wikipedia.org/wiki/Affordance
+r_date: 2017-02-01 01:29:59.919000000 Z
+r_wrapped_url: https://www.reading.am/p/4ARb/https://en.wikipedia.org/wiki/Affordance
+r_page_description: ''
+r_page_title: Affordance - Wikipedia
+r_title: Affordance - Wikipedia
+r_id: '702564'
+r_page_id: '515669'
+---
+

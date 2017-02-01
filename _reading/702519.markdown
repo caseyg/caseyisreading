@@ -1,0 +1,13 @@
+---
+title: '702519'
+r_url: http://ux.stackexchange.com/questions/101384/typography-in-roadmarkings
+r_date: 2017-01-31 21:36:21.433000000 Z
+r_wrapped_url: https://www.reading.am/p/4AQp/http://ux.stackexchange.com/questions/101384/typography-in-roadmarkings
+r_page_description: what kind of letter shapes function best for horizontal signing
+  ?
+r_page_title: Typography in roadmarkings
+r_title: Typography in roadmarkings
+r_id: '702519'
+r_page_id: '515635'
+---
+

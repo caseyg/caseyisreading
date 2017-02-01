@@ -1,0 +1,12 @@
+---
+title: '701916'
+r_url: http://www.nytimes.com/books/97/05/18/reviews/pynchon-luddite.html
+r_date: 2017-01-30 15:42:08.134000000 Z
+r_wrapped_url: https://www.reading.am/p/4AE1/http://www.nytimes.com/books/97/05/18/reviews/pynchon-luddite.html
+r_page_description: ''
+r_page_title: http://www.nytimes.com/books/97/05/18/reviews/pynchon-luddite.html
+r_title: http://www.nytimes.com/books/97/05/18/reviews/pynchon-luddite.html
+r_id: '701916'
+r_page_id: '507544'
+---
+

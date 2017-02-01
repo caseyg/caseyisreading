@@ -1,0 +1,18 @@
+---
+title: '702494'
+r_url: http://www.politifact.com/truth-o-meter/statements/2017/jan/26/donald-trump/donald-trumps-inaugural-speech-polled-well-not-wel/
+r_date: 2017-01-31 20:25:55.281000000 Z
+r_wrapped_url: https://www.reading.am/p/4APY/http://www.politifact.com/truth-o-meter/statements/2017/jan/26/donald-trump/donald-trumps-inaugural-speech-polled-well-not-wel/
+r_page_description: During an interview with ABC News’ David Muir, President Donald
+  Trump -- as he has been known to do -- took the opportunity to tout some of his
+  poll numbers. "A poll just came out on my inauguration speech which was extraordinary
+  that people loved it," Trump said Jan. 25, 2017. "Loved and liked. And it was an
+  extraordinary poll." So, is he right? We took a closer look. When we contacted the
+  White House, they told us that the poll in question was the Politico/Morning Consult
+  poll released on Jan. 25, five days after the inauguration. The poll surveyed ...
+r_page_title: How well did Trump's inaugural speech poll?
+r_title: How well did Trump's inaugural speech poll?
+r_id: '702494'
+r_page_id: '515611'
+---
+

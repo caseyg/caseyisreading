@@ -1,0 +1,14 @@
+---
+title: '702227'
+r_url: https://www.nytimes.com/2017/01/30/us/politics/trump-immigration-ban-memo.html
+r_date: 2017-01-31 06:54:59.571000000 Z
+r_wrapped_url: https://www.reading.am/p/4AKn/https://www.nytimes.com/2017/01/30/us/politics/trump-immigration-ban-memo.html
+r_page_description: A draft of the so-called dissent cable has garnered more than
+  100 signatures as it warns of the dangers of the new travel ban.
+r_page_title: 'White House to Dissenting U.S. Diplomats: ‘Get With the Program’ or
+  Leave'
+r_title: 'White House to Dissenting U.S. Diplomats: ‘Get With the Program’ or Leave'
+r_id: '702227'
+r_page_id: '515292'
+---
+

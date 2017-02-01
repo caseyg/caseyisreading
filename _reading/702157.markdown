@@ -1,0 +1,14 @@
+---
+title: '702157'
+r_url: http://www.eastgate.com/
+r_date: 2017-01-31 02:25:07.226000000 Z
+r_wrapped_url: https://www.reading.am/p/4AJa/http://www.eastgate.com/
+r_page_description: Storyspace is widely considered the tool of choice for hypertext
+  writers. Whether your idea of an ideal writing environment is a snug cabin in the
+  woods or your note-strewn desk, whether you write…
+r_page_title: 'Eastgate: Serious Hypertext'
+r_title: 'Eastgate: Serious Hypertext'
+r_id: '702157'
+r_page_id: '35812'
+---
+

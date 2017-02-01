@@ -1,0 +1,14 @@
+---
+title: '702497'
+r_url: https://qz.com/896768/a-robots-analysis-of-trumps-inauguration-speech-reveals-what-he-was-feeling-while-taking-the-oath-of-office/
+r_date: 2017-01-31 20:29:04.869000000 Z
+r_wrapped_url: https://www.reading.am/p/4AQ2/https://qz.com/896768/a-robots-analysis-of-trumps-inauguration-speech-reveals-what-he-was-feeling-while-taking-the-oath-of-office/
+r_page_description: There was some surprise, anger, and "happy-sadness."
+r_page_title: A computer analysis of Trump's inauguration speech reveals what he was
+  feeling while taking the oath of office
+r_title: A computer analysis of Trump's inauguration speech reveals what he was feeling
+  while taking the oath of office
+r_id: '702497'
+r_page_id: '515614'
+---
+

@@ -1,0 +1,15 @@
+---
+title: '702183'
+r_url: https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas
+r_date: 2017-01-31 03:57:42.897000000 Z
+r_wrapped_url: https://www.reading.am/p/4AJB/https://en.wikipedia.org/wiki/Algirdas_Julien_Greimas
+r_page_description: Algirdas Julien Greimas (French: [alɡiʁdas ʒyljɛ̃ gʁɛmas];[1]
+  born Algirdas Julius Greimas; 9 March 1917 – 27 February 1992), was a French-Lithuanian
+  literary scientist, known among other things for the Greimas Square (le carré sémiotique).
+  He is, along with Roland Barthes, considered...
+r_page_title: Algirdas Julien Greimas - Wikipedia
+r_title: Algirdas Julien Greimas - Wikipedia
+r_id: '702183'
+r_page_id: '515366'
+---
+

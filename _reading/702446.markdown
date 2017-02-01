@@ -1,0 +1,15 @@
+---
+title: '702446'
+r_url: http://dan-ball.jp/en/javagame/dust/
+r_date: 2017-01-31 18:52:29.743000000 Z
+r_wrapped_url: https://www.reading.am/p/4AP9/http://dan-ball.jp/en/javagame/dust/
+r_page_description: 'Game overview :When whirlwind picks up the leaves, flow of the
+  wind is visible and interesting.Simulation game that reproduces such phenomenon
+  with powder (dot)!Let''s vote by playing various uploaded works.Genre    : Physics
+  simulation gameControls : Left click...'
+r_page_title: 'Physics Simulation Game '
+r_title: 'Physics Simulation Game '
+r_id: '702446'
+r_page_id: '515571'
+---
+

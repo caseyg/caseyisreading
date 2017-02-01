@@ -1,0 +1,14 @@
+---
+title: '702144'
+r_url: http://www.cnn.com/2017/01/28/politics/donald-trump-travel-ban/index.html
+r_date: 2017-01-31 02:07:55.710000000 Z
+r_wrapped_url: https://www.reading.am/p/4AHW/http://www.cnn.com/2017/01/28/politics/donald-trump-travel-ban/index.html
+r_page_description: When President Donald Trump declared at the Pentagon Friday he
+  was enacting strict new measures to prevent domestic terror attacks, there were
+  few within his government who knew exactly what he meant.
+r_page_title: Confusion hampered implementation of administration's travel ban
+r_title: Confusion hampered implementation of administration's travel ban
+r_id: '702144'
+r_page_id: '514842'
+---
+

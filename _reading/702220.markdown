@@ -1,0 +1,12 @@
+---
+title: '702220'
+r_url: http://www.potw.org/archive/potw351.html
+r_date: 2017-01-31 06:43:54.342000000 Z
+r_wrapped_url: https://www.reading.am/p/4AKf/http://www.potw.org/archive/potw351.html
+r_page_description: "     William Butler Yeats (1865-1939)"
+r_page_title: The Second Coming - Yeats
+r_title: The Second Coming - Yeats
+r_id: '702220'
+r_page_id: '515397'
+---
+

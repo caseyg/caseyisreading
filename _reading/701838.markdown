@@ -1,0 +1,14 @@
+---
+title: '701838'
+r_url: https://www.youtube.com/watch?v=WynU4eVoVAI
+r_date: 2017-01-30 06:30:08.889000000 Z
+r_wrapped_url: https://www.reading.am/p/4ACE/https://www.youtube.com/watch?v=WynU4eVoVAI
+r_page_description: In this conversation with Herb Dann, he talks about his time at
+  Corning Incorporated and his work on Pyrex products. Dann worked as a designer and
+  in product development for Corning Inc. Watch a second interview with Dann https://www.youtube.com/watch?v=CESW46j0ins.
+r_page_title: 'Herb Dann Session 1: Rakow Research Library Conversation Series'
+r_title: 'Herb Dann Session 1: Rakow Research Library Conversation Series'
+r_id: '701838'
+r_page_id: '515105'
+---
+

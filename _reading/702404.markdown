@@ -1,0 +1,14 @@
+---
+title: '702404'
+r_url: http://www.curbed.com/2017/1/27/14359504/womens-march-public-transportation-ridership
+r_date: 2017-01-31 17:31:38.897000000 Z
+r_wrapped_url: https://www.reading.am/p/4ANq/http://www.curbed.com/2017/1/27/14359504/womens-march-public-transportation-ridership
+r_page_description: Over three million people came out for the Women’s March in D.C.
+  and 500 other "sister marches" around the U.S. Was it an equally big day for public
+  transit?
+r_page_title: Women’s March drew record ridership for public transit around the country
+r_title: Women’s March drew record ridership for public transit around the country
+r_id: '702404'
+r_page_id: '515543'
+---
+

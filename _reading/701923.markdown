@@ -1,0 +1,16 @@
+---
+title: '701923'
+r_url: https://www.wired.com/2010/05/the-facebook-suicide-bomb-manifesto/
+r_date: 2017-01-30 16:10:04.673000000 Z
+r_wrapped_url: https://www.reading.am/p/4AE8/https://www.wired.com/2010/05/the-facebook-suicide-bomb-manifesto/
+r_page_description: Sean Dockray wrote:This article has been reproduced in a new format
+  and may be missing content or contain faulty links. Contact wiredlabs@wired.com
+  to report an issue. Everyone now wants to know how to remove themselves from social
+  networks. It has become absolutely clear that our relationships to others are mere
+  points in the aggregation of…
+r_page_title: The Facebook Suicide Bomb Manifesto
+r_title: The Facebook Suicide Bomb Manifesto
+r_id: '701923'
+r_page_id: '515170'
+---
+

@@ -1,0 +1,15 @@
+---
+title: '702178'
+r_url: https://en.wikipedia.org/wiki/Oulipo
+r_date: 2017-01-31 03:53:23.856000000 Z
+r_wrapped_url: https://www.reading.am/p/4AJw/https://en.wikipedia.org/wiki/Oulipo
+r_page_description: 'Oulipo (French pronunciation: ​[ulipo], short for French: Ouvroir
+  de littérature potentielle; roughly translated: "workshop of potential literature")
+  is a loose gathering of (mainly) French-speaking writers and mathematicians who
+  seek to create works using constrained writing techniques. It was founded in 1960...'
+r_page_title: Oulipo - Wikipedia
+r_title: Oulipo - Wikipedia
+r_id: '702178'
+r_page_id: '515363'
+---
+

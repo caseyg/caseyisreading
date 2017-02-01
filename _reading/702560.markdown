@@ -1,0 +1,15 @@
+---
+title: '702560'
+r_url: https://en.wikipedia.org/wiki/Gorilla_Glass
+r_date: 2017-02-01 01:13:51.749000000 Z
+r_wrapped_url: https://www.reading.am/p/4AR7/https://en.wikipedia.org/wiki/Gorilla_Glass
+r_page_description: Gorilla Glass is a brand of specialized toughened glass developed
+  and manufactured by Corning, now in its fifth generation,[1] designed to be thin,
+  light and damage-resistant. Gorilla Glass is unique to Corning; but close equivalents
+  exist, including Asahi Glass Co....
+r_page_title: Gorilla Glass - Wikipedia
+r_title: Gorilla Glass - Wikipedia
+r_id: '702560'
+r_page_id: '515665'
+---
+

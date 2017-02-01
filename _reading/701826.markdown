@@ -1,0 +1,16 @@
+---
+title: '701826'
+r_url: https://www.youtube.com/watch?v=Oxz2H9x79SY
+r_date: 2017-01-30 05:11:15.017000000 Z
+r_wrapped_url: https://www.reading.am/p/4ACs/https://www.youtube.com/watch?v=Oxz2H9x79SY
+r_page_description: 'Explore the latest technologies inspired by Corning’s “A Day
+  Made of Glass” video series and showcased as part of the 2015 “Realizing the Vision”
+  symposium. The event, hosted by Corning, was attended by thought leaders and designers
+  to discuss how highly engineered glass, with companion technologies, could help
+  shape our world. Learn more at: http://theglassage.com/'
+r_page_title: 'Inspired by Glass: Realizing the Vision Symposium'
+r_title: 'Inspired by Glass: Realizing the Vision Symposium'
+r_id: '701826'
+r_page_id: '515093'
+---
+

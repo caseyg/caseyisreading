@@ -1,0 +1,16 @@
+---
+title: '702407'
+r_url: http://blog.mailchimp.com/introducing-facebook-ad-campaigns/
+r_date: 2017-01-31 17:33:29.493000000 Z
+r_wrapped_url: https://www.reading.am/p/4ANt/http://blog.mailchimp.com/introducing-facebook-ad-campaigns/
+r_page_description: Today, we’re beginning our rollout of Facebook Ad Campaigns to
+  help our customers reach new customers and engage with current ones. Whether your
+  goal is to grow your audience or sell more stuff (or both), you can now do it in
+  the same place you do all of your email marketing. And with MailChimp’s reporting,
+  you can find out which ads generate the most new customers and revenue.
+r_page_title: 'Introducing Facebook Ad Campaigns '
+r_title: 'Introducing Facebook Ad Campaigns '
+r_id: '702407'
+r_page_id: '515545'
+---
+
