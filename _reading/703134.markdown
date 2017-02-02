@@ -1,0 +1,15 @@
+---
+title: '703134'
+r_url: https://www.partnershiponai.org/
+r_date: 2017-02-02 23:14:58.685000000 Z
+r_wrapped_url: https://www.reading.am/p/4B21/https://www.partnershiponai.org/
+r_page_description: Engagement of ExpertsThe regular engagement of experts across
+  multiple disciplines (including but not limited to psychology, philosophy, economics,
+  finance, sociology, public policy, and law) to discuss and provide guidance on emerging
+  issues related to the impact of AI on society.Third-Party...
+r_page_title: 'Home '
+r_title: 'Home '
+r_id: '703134'
+r_page_id: '516113'
+---
+

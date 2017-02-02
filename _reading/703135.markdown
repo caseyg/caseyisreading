@@ -1,0 +1,11 @@
+---
+title: '703135'
+r_url: https://www.partnershiponai.org/tenets/
+r_date: 2017-02-02 23:18:38.852000000 Z
+r_id: '703135'
+r_wrapped_url: https://www.reading.am/p/4B22/https://www.partnershiponai.org/tenets/
+r_page_id: '516114'
+r_page_title: 'Tenets '
+r_title: 'Tenets '
+---
+

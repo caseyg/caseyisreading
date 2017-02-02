@@ -1,0 +1,15 @@
+---
+title: '703132'
+r_url: https://www.bloomberg.com/news/articles/2017-02-01/who-will-pay-for-san-francisco-s-tilting-sinking-millennium-tower
+r_date: 2017-02-02 23:09:13.566000000 Z
+r_wrapped_url: https://www.reading.am/p/4B1Y/https://www.bloomberg.com/news/articles/2017-02-01/who-will-pay-for-san-francisco-s-tilting-sinking-millennium-tower
+r_page_description: The Millennium Tower is still sinking, and residents might be
+  stuck paying for the fixes themselves.
+r_page_title: Residents Might Be Stuck Paying for San Francisco's $750 Million Tilting
+  Tower
+r_title: Residents Might Be Stuck Paying for San Francisco's $750 Million Tilting
+  Tower
+r_id: '703132'
+r_page_id: '516111'
+---
+
