@@ -1,0 +1,14 @@
+---
+title: '703152'
+r_url: http://codepen.io/gabriellewee/post/how-to-create-direction-aware-css-only-hover-effects
+r_date: 2017-02-02 23:52:54.062000000 Z
+r_wrapped_url: https://www.reading.am/p/4B2j/http://codepen.io/gabriellewee/post/how-to-create-direction-aware-css-only-hover-effects
+r_page_description: Overview A couple of tutorials for direction-aware CSS-only hover
+  effects.RequiredThese tutorials are intended for people who have at least a basic
+  knowledge of HTML and are proficient to advanced...
+r_page_title: How to Create Direction-Aware CSS-Only Hover Effects
+r_title: How to Create Direction-Aware CSS-Only Hover Effects
+r_id: '703152'
+r_page_id: '516130'
+---
+
