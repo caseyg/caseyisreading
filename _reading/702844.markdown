@@ -1,0 +1,14 @@
+---
+title: '702844'
+r_url: https://en.wikipedia.org/wiki/Dore_Ashton
+r_date: 2017-02-02 01:01:11.767000000 Z
+r_wrapped_url: https://www.reading.am/p/4AW1/https://en.wikipedia.org/wiki/Dore_Ashton
+r_page_description: Dore Ashton (born in 1928, Newark, New Jersey) is a writer, professor
+  and critic of modern and contemporary art.[1] She is the author or editor of more
+  than thirty books on art, including Noguchi East and West, About Rothko, American...
+r_page_title: Dore Ashton - Wikipedia
+r_title: Dore Ashton - Wikipedia
+r_id: '702844'
+r_page_id: '515889'
+---
+

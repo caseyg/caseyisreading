@@ -1,0 +1,13 @@
+---
+title: '702846'
+r_url: https://www.youtube.com/watch?v=FHc6rV0-jP0
+r_date: 2017-02-02 01:05:45.331000000 Z
+r_wrapped_url: https://www.reading.am/p/4AW3/https://www.youtube.com/watch?v=FHc6rV0-jP0
+r_page_description: Art historian and critic Dore Ashton talks about artist Philip
+  Guston. Part of a larger work in progress.
+r_page_title: Dore Ashton
+r_title: Dore Ashton
+r_id: '702846'
+r_page_id: '515891'
+---
+
