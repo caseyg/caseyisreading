@@ -1,0 +1,13 @@
+---
+title: '703144'
+r_url: http://dlib.nyu.edu/findingaids/html/fales/groupmaterial/
+r_date: 2017-02-02 23:36:14.808000000 Z
+r_wrapped_url: https://www.reading.am/p/4B2b/http://dlib.nyu.edu/findingaids/html/fales/groupmaterial/
+r_page_description: Print / View Finding Aid as Single PageGuide to the Group Material
+  Archive 1976-2009 (bulk 1979-1996) MSS 215
+r_page_title: Guide to the Group Material Archive
+r_title: Guide to the Group Material Archive
+r_id: '703144'
+r_page_id: '516123'
+---
+
