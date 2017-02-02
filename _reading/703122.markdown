@@ -1,0 +1,13 @@
+---
+title: '703122'
+r_url: https://www.nytimes.com/2017/02/02/arts/design/ari-wiseman-deputy-director-solomon-r-guggenheim-museum-steps-down.html
+r_date: 2017-02-02 22:18:55.961000000 Z
+r_wrapped_url: https://www.reading.am/p/4B1N/https://www.nytimes.com/2017/02/02/arts/design/ari-wiseman-deputy-director-solomon-r-guggenheim-museum-steps-down.html
+r_page_description: The departure of Ari Wiseman, who is leaving to start a studio
+  with his brother David Wiseman, comes as the museum also has no chief curator.
+r_page_title: The Guggenheim Museum’s Deputy Director Steps Down
+r_title: The Guggenheim Museum’s Deputy Director Steps Down
+r_id: '703122'
+r_page_id: '516102'
+---
+
