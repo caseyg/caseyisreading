@@ -1,0 +1,12 @@
+---
+title: '702903'
+r_url: http://mypersonality.org/wiki/
+r_date: 2017-02-02 03:19:28.929000000 Z
+r_wrapped_url: https://www.reading.am/p/4AX2/http://mypersonality.org/wiki/
+r_page_description: Welcome to the myPersonality Project Website
+r_page_title: start [myPersonality Project]
+r_title: start [myPersonality Project]
+r_id: '702903'
+r_page_id: '515933'
+---
+
