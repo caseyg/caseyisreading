@@ -1,0 +1,13 @@
+---
+title: '703128'
+r_url: https://www.nytimes.com/2017/01/31/dining/instant-pot-electric-pressure-cooker-recipes.html
+r_date: 2017-02-02 22:56:47.397000000 Z
+r_wrapped_url: https://www.reading.am/p/4B1U/https://www.nytimes.com/2017/01/31/dining/instant-pot-electric-pressure-cooker-recipes.html
+r_page_description: The electric pressure cooker is the kitchen gadget of the moment.
+  Here’s what it does (and doesn’t do) well.
+r_page_title: Why Do Cooks Love the Instant Pot? I Bought One to Find Out
+r_title: Why Do Cooks Love the Instant Pot? I Bought One to Find Out
+r_id: '703128'
+r_page_id: '516107'
+---
+

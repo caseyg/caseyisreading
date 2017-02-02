@@ -1,0 +1,13 @@
+---
+title: '703129'
+r_url: https://www.nytimes.com/interactive/2017/02/01/dining/instant-pot-recipes-user-tips-pressure-cooker.html
+r_date: 2017-02-02 22:56:55.134000000 Z
+r_wrapped_url: https://www.reading.am/p/4B1V/https://www.nytimes.com/interactive/2017/02/01/dining/instant-pot-recipes-user-tips-pressure-cooker.html
+r_page_description: Readers respond to Melissa Clark’s story on the Instant Pot, an
+  electric pressure cooker that is gaining in popularity.
+r_page_title: Instant Pot Tips From Readers
+r_title: Instant Pot Tips From Readers
+r_id: '703129'
+r_page_id: '516108'
+---
+
