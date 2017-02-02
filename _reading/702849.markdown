@@ -1,0 +1,13 @@
+---
+title: '702849'
+r_url: https://www.youtube.com/watch?v=fl4HxJ1DB8g
+r_date: 2017-02-02 01:11:16.768000000 Z
+r_wrapped_url: https://www.reading.am/p/4AW6/https://www.youtube.com/watch?v=fl4HxJ1DB8g
+r_page_description: Entrevista a Dore Ashton realitzada a Barcelona l'any 2008 i emesa
+  al programa de llibres d'Emilio Manzano.
+r_page_title: Entrevista a Dore Ashton a Barcelona
+r_title: Entrevista a Dore Ashton a Barcelona
+r_id: '702849'
+r_page_id: '515893'
+---
+
