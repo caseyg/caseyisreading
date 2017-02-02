@@ -1,0 +1,13 @@
+---
+title: '703009'
+r_url: http://johncage.org/library.cfm
+r_date: 2017-02-02 15:33:43.265000000 Z
+r_wrapped_url: https://www.reading.am/p/4AYR/http://johncage.org/library.cfm
+r_page_description: The official site for information about the life and works of
+  John Cage, administered by the John Cage Trust.
+r_page_title: John Cage's LibraryJohn Cage Library
+r_title: John Cage's LibraryJohn Cage Library
+r_id: '703009'
+r_page_id: '516013'
+---
+

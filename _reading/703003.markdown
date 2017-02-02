@@ -1,0 +1,14 @@
+---
+title: '703003'
+r_url: https://www.nytimes.com/2017/01/11/us/rex-tillerson-confirmation-hearings.html
+r_date: 2017-02-02 15:27:01.363000000 Z
+r_wrapped_url: https://www.reading.am/p/4AYK/https://www.nytimes.com/2017/01/11/us/rex-tillerson-confirmation-hearings.html
+r_page_description: The former chief executive of Exxon Mobil found himself on the
+  defensive over his reluctance to declare that some dictators were violators of human
+  rights.
+r_page_title: In Rocky Hearing, Rex Tillerson Tries to Separate From Trump
+r_title: In Rocky Hearing, Rex Tillerson Tries to Separate From Trump
+r_id: '703003'
+r_page_id: '516007'
+---
+
