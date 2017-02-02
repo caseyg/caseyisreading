@@ -1,0 +1,13 @@
+---
+title: '703124'
+r_url: https://www.nytimes.com/2017/02/02/technology/uber-ceo-travis-kalanick-trump-advisory-council.html
+r_date: 2017-02-02 22:24:27.166000000 Z
+r_wrapped_url: https://www.reading.am/p/4B1Q/https://www.nytimes.com/2017/02/02/technology/uber-ceo-travis-kalanick-trump-advisory-council.html
+r_page_description: Travis Kalanick plans to step down from the president’s council,
+  according to an email he sent to employees.
+r_page_title: Uber C.E.O. to Leave Trump Advisory Council After Criticism
+r_title: Uber C.E.O. to Leave Trump Advisory Council After Criticism
+r_id: '703124'
+r_page_id: '516097'
+---
+

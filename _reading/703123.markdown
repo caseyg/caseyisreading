@@ -1,0 +1,13 @@
+---
+title: '703123'
+r_url: https://www.guggenheim.org/staff/ari-wiseman
+r_date: 2017-02-02 22:23:01.732000000 Z
+r_wrapped_url: https://www.reading.am/p/4B1P/https://www.guggenheim.org/staff/ari-wiseman
+r_page_description: Staff profile for Ari Wiseman, Deputy Director, Solomon R. Guggenheim
+  Foundation.
+r_page_title: Ari Wiseman
+r_title: Ari Wiseman
+r_id: '703123'
+r_page_id: '516103'
+---
+
