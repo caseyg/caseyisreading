@@ -1,0 +1,14 @@
+---
+title: '703002'
+r_url: https://www.nytimes.com/2017/02/01/us/politics/rex-tillerson-secretary-of-state-confirmed.html
+r_date: 2017-02-02 15:21:01.780000000 Z
+r_wrapped_url: https://www.reading.am/p/4AYJ/https://www.nytimes.com/2017/02/01/us/politics/rex-tillerson-secretary-of-state-confirmed.html
+r_page_description: The former Exxon Mobil chief was confirmed by the Senate in a
+  56-to-43 vote. He takes his post at a time many traditional American allies are
+  questioning the policies of President Trump.
+r_page_title: Rex Tillerson Is Confirmed as Secretary of State Amid Record Opposition
+r_title: Rex Tillerson Is Confirmed as Secretary of State Amid Record Opposition
+r_id: '703002'
+r_page_id: '516006'
+---
+
