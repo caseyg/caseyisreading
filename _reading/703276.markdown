@@ -1,0 +1,12 @@
+---
+title: '703276'
+r_url: http://smalldata.industries/
+r_date: 2017-02-03 14:39:07.061000000 Z
+r_wrapped_url: https://www.reading.am/p/4B4s/http://smalldata.industries/
+r_page_description: 'We are a consultancy providing services to support the collection, '
+r_page_title: Home
+r_title: Home
+r_id: '703276'
+r_page_id: '516237'
+---
+
