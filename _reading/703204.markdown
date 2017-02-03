@@ -1,0 +1,13 @@
+---
+title: '703204'
+r_url: http://www.businesswire.com/news/home/20170202006227/en/Amazon.com-Announces-Fourth-Quarter-Sales-22-43.7
+r_date: 2017-02-03 02:41:12.902000000 Z
+r_wrapped_url: https://www.reading.am/p/4B3d/http://www.businesswire.com/news/home/20170202006227/en/Amazon.com-Announces-Fourth-Quarter-Sales-22-43.7
+r_page_description: 'Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results
+  for its fourth quarter ended December 31, 2016. Operating cash flow increased 3'
+r_page_title: 'Amazon.com Announces Fourth Quarter Sales up 22% to $43.7 Billion '
+r_title: 'Amazon.com Announces Fourth Quarter Sales up 22% to $43.7 Billion '
+r_id: '703204'
+r_page_id: '516174'
+---
+
