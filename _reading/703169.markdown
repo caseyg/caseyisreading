@@ -1,0 +1,14 @@
+---
+title: '703169'
+r_url: http://www.moredarkthanshark.org/eno_int_interview-feb13.html
+r_date: 2017-02-03 01:13:24.648000000 Z
+r_wrapped_url: https://www.reading.am/p/4B2B/http://www.moredarkthanshark.org/eno_int_interview-feb13.html
+r_page_description: Brian Eno is MORE DARK THAN SHARK - an archive of interviews,
+  articles, albums, lyrics and other information about the ambient music master, visual
+  artist and producer of David Bowie, U2 and Coldplay.
+r_page_title: Brian Eno is MORE DARK THAN SHARK
+r_title: Brian Eno is MORE DARK THAN SHARK
+r_id: '703169'
+r_page_id: '516146'
+---
+
