@@ -1,0 +1,14 @@
+---
+title: '703287'
+r_url: https://www.nytimes.com/2017/02/03/us/politics/betsy-devos-nominee-education-secretary.html
+r_date: 2017-02-03 15:04:38.858000000 Z
+r_wrapped_url: https://www.reading.am/p/4B4D/https://www.nytimes.com/2017/02/03/us/politics/betsy-devos-nominee-education-secretary.html
+r_page_description: President Trump’s nominee for education secretary faces ridicule
+  and opposition not only from liberal groups, but also from many in the charter school
+  movement.
+r_page_title: Betsy DeVos, Pick for Secretary of Education, Is the Most Jeered
+r_title: Betsy DeVos, Pick for Secretary of Education, Is the Most Jeered
+r_id: '703287'
+r_page_id: '516238'
+---
+

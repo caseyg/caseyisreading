@@ -1,0 +1,13 @@
+---
+title: '703289'
+r_url: https://www.nytimes.com/2016/11/06/us/politics/michelle-obama-2016-presidential-election-first-lady.html
+r_date: 2017-02-03 15:12:24.780000000 Z
+r_wrapped_url: https://www.reading.am/p/4B4F/https://www.nytimes.com/2016/11/06/us/politics/michelle-obama-2016-presidential-election-first-lady.html
+r_page_description: Dismissed early on by critics, the first lady has evolved into
+  a powerful presence on the campaign trail.
+r_page_title: 'The Closer: Michelle Obama'
+r_title: 'The Closer: Michelle Obama'
+r_id: '703289'
+r_page_id: '516239'
+---
+
