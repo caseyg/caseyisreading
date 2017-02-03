@@ -1,0 +1,16 @@
+---
+title: '703187'
+r_url: https://www.nytimes.com/video/us/politics/100000004908426/protests-force-speech-cancellation.html
+r_date: 2017-02-03 02:00:59.539000000 Z
+r_wrapped_url: https://www.reading.am/p/4B2V/https://www.nytimes.com/video/us/politics/100000004908426/protests-force-speech-cancellation.html
+r_page_description: Protests at the University of California, Berkeley, forced the
+  cancellation of a speech by the right-wing writer Milo Yiannopoulos on Wednesday.
+  He responded with his own video posted to YouTube later that night, saying that
+  the left had become antithetical to free speech. President Trump also weighed in
+  with a tweet.
+r_page_title: Protests Force Speech Cancellation
+r_title: Protests Force Speech Cancellation
+r_id: '703187'
+r_page_id: '516159'
+---
+
