@@ -1,0 +1,13 @@
+---
+title: '703161'
+r_url: https://en.wikipedia.org/wiki/Mattman_%26_Robin
+r_date: 2017-02-03 00:49:56.273000000 Z
+r_wrapped_url: https://www.reading.am/p/4B2t/https://en.wikipedia.org/wiki/Mattman_%26_Robin
+r_page_description: Mattman &amp; Robin is a Swedish songwriting and production duo
+  composed of Mattias Larsson and Robin Fredriksson.
+r_page_title: Mattman & Robin - Wikipedia
+r_title: Mattman & Robin - Wikipedia
+r_id: '703161'
+r_page_id: '516138'
+---
+
