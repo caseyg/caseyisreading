@@ -1,0 +1,13 @@
+---
+title: '703398'
+r_url: http://kottke.org/17/02/authoritarian-structures-and-the-open-web
+r_date: 2017-02-03 23:04:45.693000000 Z
+r_wrapped_url: https://www.reading.am/p/4B6y/http://kottke.org/17/02/authoritarian-structures-and-the-open-web
+r_page_description: Jesse Kriss wonders whether we've been acclimating ourselves to
+  a more authoritarian system for some time, not just through politi
+r_page_title: Authoritarian structures and the open web
+r_title: Authoritarian structures and the open web
+r_id: '703398'
+r_page_id: '516336'
+---
+
