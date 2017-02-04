@@ -1,0 +1,14 @@
+---
+title: '703590'
+r_url: http://money.cnn.com/2017/02/04/technology/super-bowl-lady-gaga-drones/index.html
+r_date: 2017-02-04 19:08:05.931000000 Z
+r_wrapped_url: https://www.reading.am/p/4B9S/http://money.cnn.com/2017/02/04/technology/super-bowl-lady-gaga-drones/index.html
+r_page_description: Lady Gaga's Super Bowl halftime show will feature hundreds --
+  yes, hundreds -- of lit-up drones, a source with knowledge of the show's production
+  told CNNMoney.
+r_page_title: Lady Gaga's Super Bowl show to feature hundreds of drones
+r_title: Lady Gaga's Super Bowl show to feature hundreds of drones
+r_id: '703590'
+r_page_id: '516478'
+---
+
