@@ -1,0 +1,12 @@
+---
+title: '703781'
+r_url: http://tampub.uta.fi/handle/10024/66937
+r_date: 2017-02-05 20:12:09.920000000 Z
+r_id: '703781'
+r_wrapped_url: https://www.reading.am/p/4Bda/http://tampub.uta.fi/handle/10024/66937
+r_page_id: '516651'
+r_page_title: 'On the Edge of the Magic Circle: Understanding Pervasive Games and
+  Role-Playing'
+r_title: 'On the Edge of the Magic Circle: Understanding Pervasive Games and Role-Playing'
+---
+
