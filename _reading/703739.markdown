@@ -1,0 +1,13 @@
+---
+title: '703739'
+r_url: https://archive.org/stream/pipppasseswithan00browuoft/pipppasseswithan00browuoft_djvu.txt
+r_date: 2017-02-05 17:25:53.573000000 Z
+r_id: '703739'
+r_wrapped_url: https://www.reading.am/p/4Bcr/https://archive.org/stream/pipppasseswithan00browuoft/pipppasseswithan00browuoft_djvu.txt
+r_page_id: '516612'
+r_page_title: Full text of "Pippa passes. With an introd. by Arthur Symons and a portrait
+  of Browning by J.C. Armytage"
+r_title: Full text of "Pippa passes. With an introd. by Arthur Symons and a portrait
+  of Browning by J.C. Armytage"
+---
+
