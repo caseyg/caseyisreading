@@ -1,0 +1,11 @@
+---
+title: '703667'
+r_url: https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.bopsecrets.org%2FFrench%2Fgraffiti.htm&edit-text=
+r_date: 2017-02-05 00:59:59.897000000 Z
+r_id: '703667'
+r_wrapped_url: https://www.reading.am/p/4Bbc/https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.bopsecrets.org%2FFrench%2Fgraffiti.htm&edit-text=
+r_page_id: '516543'
+r_page_title: Google Translate
+r_title: Google Translate
+---
+
