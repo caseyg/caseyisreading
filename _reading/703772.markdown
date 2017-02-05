@@ -1,0 +1,11 @@
+---
+title: '703772'
+r_url: https://en.wikipedia.org/wiki/Dulce_et_decorum_est_pro_patria_mori
+r_date: 2017-02-05 20:02:08.665000000 Z
+r_id: '703772'
+r_wrapped_url: https://www.reading.am/p/4Bd1/https://en.wikipedia.org/wiki/Dulce_et_decorum_est_pro_patria_mori
+r_page_id: '516642'
+r_page_title: Dulce et decorum est pro patria mori - Wikipedia
+r_title: Dulce et decorum est pro patria mori - Wikipedia
+---
+

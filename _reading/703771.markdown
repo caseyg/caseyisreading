@@ -1,0 +1,11 @@
+---
+title: '703771'
+r_url: https://en.wikipedia.org/wiki/The_President%27s_Analyst
+r_date: 2017-02-05 20:01:56.420000000 Z
+r_id: '703771'
+r_wrapped_url: https://www.reading.am/p/4BcZ/https://en.wikipedia.org/wiki/The_President%27s_Analyst
+r_page_id: '516641'
+r_page_title: The President's Analyst - Wikipedia
+r_title: The President's Analyst - Wikipedia
+---
+
