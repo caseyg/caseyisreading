@@ -1,0 +1,14 @@
+---
+title: '703826'
+r_url: https://helpx.adobe.com/illustrator/how-to/illustrator-create-pattern-brush.html
+r_date: 2017-02-05 22:22:39.890000000 Z
+r_wrapped_url: https://www.reading.am/p/4BdW/https://helpx.adobe.com/illustrator/how-to/illustrator-create-pattern-brush.html
+r_page_description: Learn how to create a Pattern Brush, a new feature in Illustrator
+  CC. This video shows you how to paint a pattern—made of individual tiles—that repeats
+  along the path.
+r_page_title: Create a Pattern brush
+r_title: Create a Pattern brush
+r_id: '703826'
+r_page_id: '516686'
+---
+
