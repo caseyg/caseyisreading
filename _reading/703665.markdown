@@ -1,0 +1,11 @@
+---
+title: '703665'
+r_url: https://en.wikipedia.org/wiki/May_1968_events_in_France
+r_date: 2017-02-05 00:51:16.344000000 Z
+r_id: '703665'
+r_wrapped_url: https://www.reading.am/p/4Bba/https://en.wikipedia.org/wiki/May_1968_events_in_France
+r_page_id: '516541'
+r_page_title: May 1968 events in France - Wikipedia
+r_title: May 1968 events in France - Wikipedia
+---
+
