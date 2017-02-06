@@ -1,0 +1,13 @@
+---
+title: '703875'
+r_url: https://www.nytimes.com/2017/02/05/us/politics/trump-white-house-aides-strategy.html
+r_date: 2017-02-06 02:08:57.461000000 Z
+r_id: '703875'
+r_wrapped_url: https://www.reading.am/p/4BeM/https://www.nytimes.com/2017/02/05/us/politics/trump-white-house-aides-strategy.html
+r_page_id: '516719'
+r_page_title: After 2 Weeks, Trump’s Bungles Have Aides Rethinking Strategy - The
+  New York Times
+r_title: After 2 Weeks, Trump’s Bungles Have Aides Rethinking Strategy - The New York
+  Times
+---
+
