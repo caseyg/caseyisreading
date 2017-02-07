@@ -1,0 +1,13 @@
+---
+title: '704104'
+r_url: http://www.billoreilly.com/video/video-of-the-day?vid=-305286774943659178
+r_date: 2017-02-07 01:39:26.833000000 Z
+r_wrapped_url: https://www.reading.am/p/4BiJ/http://www.billoreilly.com/video/video-of-the-day?vid=-305286774943659178
+r_page_description: Bill sits down with President Donald Trump to discuss foreign
+  and nation policy.
+r_page_title: Bill O'Reilly's Super Bowl Interview with President Trump
+r_title: Bill O'Reilly's Super Bowl Interview with President Trump
+r_id: '704104'
+r_page_id: '516886'
+---
+
