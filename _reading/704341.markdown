@@ -1,0 +1,12 @@
+---
+title: '704341'
+r_url: https://en.wikipedia.org/wiki/Nick_Land
+r_date: 2017-02-08 01:49:39.454000000 Z
+r_wrapped_url: https://www.reading.am/p/4BnP/https://en.wikipedia.org/wiki/Nick_Land
+r_page_description: ''
+r_page_title: Nick Land - Wikipedia
+r_title: Nick Land - Wikipedia
+r_id: '704341'
+r_page_id: '517084'
+---
+

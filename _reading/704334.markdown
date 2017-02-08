@@ -1,0 +1,15 @@
+---
+title: '704334'
+r_url: https://en.wikipedia.org/wiki/Curtis_Yarvin
+r_date: 2017-02-08 01:45:55.422000000 Z
+r_wrapped_url: https://www.reading.am/p/4BnG/https://en.wikipedia.org/wiki/Curtis_Yarvin
+r_page_description: Curtis Guy Yarvin (born 1973), also known by his pen name Mencius
+  Moldbug, is an American computer scientist, political theorist, and neoreactionary
+  thinker.[1] His writings have played a foundational role in the formation of the
+  neoreactionary movement.[5] He is the...
+r_page_title: Curtis Yarvin - Wikipedia
+r_title: Curtis Yarvin - Wikipedia
+r_id: '704334'
+r_page_id: '517077'
+---
+

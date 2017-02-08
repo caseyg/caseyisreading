@@ -1,0 +1,14 @@
+---
+title: '704328'
+r_url: http://makerdao.com/
+r_date: 2017-02-08 01:31:29.520000000 Z
+r_wrapped_url: https://www.reading.am/p/4BnA/http://makerdao.com/
+r_page_description: is a decentralized autonomous organization on the Ethereum blockchain
+  seeking to minimize the price volatility of its own stable token Dai against the
+  IMF’s currency basket SDR.
+r_page_title: http://makerdao.com/
+r_title: http://makerdao.com/
+r_id: '704328'
+r_page_id: '517073'
+---
+

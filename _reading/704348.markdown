@@ -1,0 +1,15 @@
+---
+title: '704348'
+r_url: http://blog.makerdao.com/2016/12/02/2017-product-roadmap/
+r_date: 2017-02-08 02:02:11.378000000 Z
+r_wrapped_url: https://www.reading.am/p/4BnW/http://blog.makerdao.com/2016/12/02/2017-product-roadmap/
+r_page_description: As 2016 draws to a close, it is time to start planning and estimating
+  our work for the coming year. We have created a product roadmap that will help us
+  in that effort and bring visibility to our progress and priorities for our stakeholders.
+  This roadmap does not cover all
+r_page_title: 2017 Product Roadmap
+r_title: 2017 Product Roadmap
+r_id: '704348'
+r_page_id: '517090'
+---
+

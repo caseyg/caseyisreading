@@ -1,0 +1,15 @@
+---
+title: '704342'
+r_url: https://en.wikipedia.org/wiki/Arnold_Kling
+r_date: 2017-02-08 01:49:41.549000000 Z
+r_wrapped_url: https://www.reading.am/p/4BnQ/https://en.wikipedia.org/wiki/Arnold_Kling
+r_page_description: 'Arnold Kling (born 1954) is an American economist, scholar, and
+  blogger known for his writings on EconLog, an economics blog, along with Bryan Caplan
+  and David R. Henderson.[1] Kling now has his own blog, askblog which sports the
+  motto: "taking...'
+r_page_title: Arnold Kling - Wikipedia
+r_title: Arnold Kling - Wikipedia
+r_id: '704342'
+r_page_id: '517085'
+---
+

@@ -1,0 +1,15 @@
+---
+title: '704336'
+r_url: https://en.wikipedia.org/wiki/Whig_history
+r_date: 2017-02-08 01:46:35.682000000 Z
+r_wrapped_url: https://www.reading.am/p/4BnJ/https://en.wikipedia.org/wiki/Whig_history
+r_page_description: Whig history (or Whig historiography) is an approach to historiography
+  that presents the past as an inevitable progression towards ever greater liberty
+  and enlightenment, culminating in modern forms of liberal democracy and constitutional
+  monarchy. In general, Whig historians emphasize the...
+r_page_title: Whig history - Wikipedia
+r_title: Whig history - Wikipedia
+r_id: '704336'
+r_page_id: '517079'
+---
+
