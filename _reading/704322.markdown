@@ -1,0 +1,12 @@
+---
+title: '704322'
+r_url: http://spring2017.designforthe.net/library
+r_date: 2017-02-08 01:11:39.875000000 Z
+r_wrapped_url: https://www.reading.am/p/4Bnu/http://spring2017.designforthe.net/library
+r_page_description: ''
+r_page_title: 'Design for the Net '
+r_title: 'Design for the Net '
+r_id: '704322'
+r_page_id: '517068'
+---
+

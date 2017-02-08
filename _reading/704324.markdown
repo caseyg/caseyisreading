@@ -1,0 +1,13 @@
+---
+title: '704324'
+r_url: https://www.nytimes.com/video/technology/100000004574648/china-internet-wechat.html
+r_date: 2017-02-08 01:15:51.838000000 Z
+r_wrapped_url: https://www.reading.am/p/4Bnw/https://www.nytimes.com/video/technology/100000004574648/china-internet-wechat.html
+r_page_description: What was once known as the land of cheap rip-offs may now offer
+  a glimpse of the future — and American companies are taking notice.
+r_page_title: How China Is Changing Your Internet
+r_title: How China Is Changing Your Internet
+r_id: '704324'
+r_page_id: '517070'
+---
+

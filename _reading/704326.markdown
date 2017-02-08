@@ -1,0 +1,11 @@
+---
+title: '704326'
+r_url: http://urbit.org/fora/posts/~2017.2.1..22.36.47..9f54~/
+r_date: 2017-02-08 01:21:12.726000000 Z
+r_id: '704326'
+r_wrapped_url: https://www.reading.am/p/4Bny/http://urbit.org/fora/posts/~2017.2.1..22.36.47..9f54~/
+r_page_id: '517072'
+r_page_title: Urbit - A personal server
+r_title: Urbit - A personal server
+---
+

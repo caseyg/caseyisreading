@@ -1,0 +1,11 @@
+---
+title: '704323'
+r_url: https://urbit.org/blog/2017.1-update/
+r_date: 2017-02-08 01:12:42.219000000 Z
+r_id: '704323'
+r_wrapped_url: https://www.reading.am/p/4Bnv/https://urbit.org/blog/2017.1-update/
+r_page_id: '517069'
+r_page_title: Urbit - A personal server
+r_title: Urbit - A personal server
+---
+
