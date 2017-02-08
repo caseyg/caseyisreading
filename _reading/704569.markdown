@@ -1,0 +1,14 @@
+---
+title: '704569'
+r_url: http://cooper.edu/about/president/campus-conversations
+r_date: 2017-02-08 22:23:55.091000000 Z
+r_wrapped_url: https://www.reading.am/p/4BrK/http://cooper.edu/about/president/campus-conversations
+r_page_description: The Cooper Union, open since 1859, grants degrees in art, architecture
+  and engineering and offers courses in continuing education in New York City's East
+  Village.
+r_page_title: 'Campus Conversations '
+r_title: 'Campus Conversations '
+r_id: '704569'
+r_page_id: '517247'
+---
+
