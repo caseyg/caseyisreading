@@ -1,0 +1,15 @@
+---
+title: '704561'
+r_url: https://en.wikipedia.org/wiki/Where_the_Sidewalk_Ends
+r_date: 2017-02-08 21:46:36.778000000 Z
+r_wrapped_url: https://www.reading.am/p/4BrB/https://en.wikipedia.org/wiki/Where_the_Sidewalk_Ends
+r_page_description: Where the Sidewalk Ends is a 1974 children's poetry collection
+  written and illustrated by Shel Silverstein. It was published by Harper and Row
+  Publishers. The book's poems address many common childhood concerns and also present
+  purely fanciful stories. Based on...
+r_page_title: Where the Sidewalk Ends - Wikipedia
+r_title: Where the Sidewalk Ends - Wikipedia
+r_id: '704561'
+r_page_id: '517239'
+---
+
