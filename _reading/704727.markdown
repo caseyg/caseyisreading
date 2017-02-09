@@ -1,0 +1,12 @@
+---
+title: '704727'
+r_url: https://getremarkable.com
+r_date: 2017-02-09 19:19:49.620000000 Z
+r_wrapped_url: https://www.reading.am/p/4But/https://getremarkable.com
+r_page_description: The paper tablet
+r_page_title: reMarkable
+r_title: reMarkable
+r_id: '704727'
+r_page_id: '503274'
+---
+
