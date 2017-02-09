@@ -1,0 +1,14 @@
+---
+title: '704767'
+r_url: http://www.reuters.com/article/us-usa-intel-whitehouse-idUSKBN15N29X
+r_date: 2017-02-09 21:56:52.354000000 Z
+r_wrapped_url: https://www.reading.am/p/4Bva/http://www.reuters.com/article/us-usa-intel-whitehouse-idUSKBN15N29X
+r_page_description: Intel Corp (INTC.O) chose the White House Oval Office as its backdrop
+  to announce a $7 billion investment in a previously shelved Arizona factory, which
+  it said would create 3,000 jobs when it is up and running.
+r_page_title: Intel uses White House Oval Office for splash on Arizona factory
+r_title: Intel uses White House Oval Office for splash on Arizona factory
+r_id: '704767'
+r_page_id: '517405'
+---
+
