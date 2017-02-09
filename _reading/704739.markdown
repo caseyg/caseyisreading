@@ -1,0 +1,14 @@
+---
+title: '704739'
+r_url: http://hyperallergic.com/357004/metropolitan-museum-gives-unrestricted-access-to-375000-images/
+r_date: 2017-02-09 19:49:18.444000000 Z
+r_wrapped_url: https://www.reading.am/p/4BuF/http://hyperallergic.com/357004/metropolitan-museum-gives-unrestricted-access-to-375000-images/
+r_page_description: Under the institution’s new Open Access policy, images of hundreds
+  of thousands of works from its collection are available to copy, remix, and distribute
+  freely.
+r_page_title: Metropolitan Museum Gives Unrestricted Access to 375,000 Images
+r_title: Metropolitan Museum Gives Unrestricted Access to 375,000 Images
+r_id: '704739'
+r_page_id: '517380'
+---
+

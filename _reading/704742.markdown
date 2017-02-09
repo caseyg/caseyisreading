@@ -1,0 +1,13 @@
+---
+title: '704742'
+r_url: https://www.nytimes.com/2017/02/08/opinion/american-universities-must-take-a-stand.html
+r_date: 2017-02-09 19:58:04.709000000 Z
+r_wrapped_url: https://www.reading.am/p/4BuJ/https://www.nytimes.com/2017/02/08/opinion/american-universities-must-take-a-stand.html
+r_page_description: Our cause is not partisan. It is to defend the pursuit of science,
+  truth and freedom of thought.
+r_page_title: American Universities Must Take a Stand
+r_title: American Universities Must Take a Stand
+r_id: '704742'
+r_page_id: '517383'
+---
+
