@@ -1,0 +1,15 @@
+---
+title: '704744'
+r_url: http://www.antiochcollege.edu/news/archive/statement-coretta-scott-king-center-sen-warren
+r_date: 2017-02-09 20:09:37.863000000 Z
+r_wrapped_url: https://www.reading.am/p/4BuL/http://www.antiochcollege.edu/news/archive/statement-coretta-scott-king-center-sen-warren
+r_page_description: As the only Coretta Scott King Center in the world, we strongly
+  object to the silencing of Senator Elizabeth Warren yesterday on the U.S. Senate
+  floor as she attempted to read a letter penned by Coretta Scott King to members
+  of the Senate Judiciary Committee in 1986.
+r_page_title: 'Statement from Coretta Scott King Center on Sen. Warren '
+r_title: 'Statement from Coretta Scott King Center on Sen. Warren '
+r_id: '704744'
+r_page_id: '517385'
+---
+
