@@ -1,0 +1,13 @@
+---
+title: '704750'
+r_url: http://cooper.edu/events-and-exhibitions/events/bullets-and-tiffany-blue
+r_date: 2017-02-09 20:52:18.815000000 Z
+r_wrapped_url: https://www.reading.am/p/4BuS/http://cooper.edu/events-and-exhibitions/events/bullets-and-tiffany-blue
+r_page_description: A free, public conversation about guns with Tom Sachs, a sculptor,
+  and Tom Healy, a writer
+r_page_title: Bullets and (Tiffany) Blue
+r_title: Bullets and (Tiffany) Blue
+r_id: '704750'
+r_page_id: '517390'
+---
+

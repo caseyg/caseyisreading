@@ -1,0 +1,16 @@
+---
+title: '704752'
+r_url: https://techcrunch.com/2017/02/02/medium-subscriptions/
+r_date: 2017-02-09 20:56:29.638000000 Z
+r_wrapped_url: https://www.reading.am/p/4BuU/https://techcrunch.com/2017/02/02/medium-subscriptions/
+r_page_description: Medium CEO Ev Williams announced today at Upfront Summit that
+  his company will launch a consumer subscription product, with the first version
+  coming this quarter. This could help develop an additional revenue stream apart
+  from advertisements. Finding a strong revenue source is critical, since Medium decided to
+  lay off 50 staff, close its New York office, and announce a new direction last month.
+r_page_title: Medium plans to launch a consumer subscription product this quarter
+r_title: Medium plans to launch a consumer subscription product this quarter
+r_id: '704752'
+r_page_id: '516331'
+---
+
