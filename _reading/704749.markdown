@@ -1,0 +1,14 @@
+---
+title: '704749'
+r_url: http://kensegall.com/2017/02/the-making-of-apples-hal/
+r_date: 2017-02-09 20:43:38.692000000 Z
+r_wrapped_url: https://www.reading.am/p/4BuR/http://kensegall.com/2017/02/the-making-of-apples-hal/
+r_page_description: I used to devote hours to feverishly writing up my annual Super
+  Bowl ad review. And then, one day, the thrill was gone. Between the lack of surprise
+  (so many spots are released early now) and the g…
+r_page_title: The making of Apple's HAL
+r_title: The making of Apple's HAL
+r_id: '704749'
+r_page_id: '516517'
+---
+
