@@ -1,0 +1,12 @@
+---
+title: '704737'
+r_url: http://www.manovich.net
+r_date: 2017-02-09 19:46:44.288000000 Z
+r_wrapped_url: https://www.reading.am/p/4BuD/http://www.manovich.net
+r_page_description: 'Lev Manovich: photos, bio, complete CV.'
+r_page_title: Lev Manovich
+r_title: Lev Manovich
+r_id: '704737'
+r_page_id: '517378'
+---
+

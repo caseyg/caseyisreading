@@ -1,0 +1,13 @@
+---
+title: '704733'
+r_url: http://culturecodes.co/
+r_date: 2017-02-09 19:34:10.522000000 Z
+r_wrapped_url: https://www.reading.am/p/4Buz/http://culturecodes.co/
+r_page_description: A collection of culture decks, core values, mission statements,
+  and more from real companies.
+r_page_title: Home
+r_title: Home
+r_id: '704733'
+r_page_id: '517375'
+---
+
