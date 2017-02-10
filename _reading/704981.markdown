@@ -1,0 +1,15 @@
+---
+title: '704981'
+r_url: http://www.filfre.net/2017/02/the-eastgate-school-of-serious-hypertext/
+r_date: 2017-02-10 22:23:12.978000000 Z
+r_wrapped_url: https://www.reading.am/p/4ByR/http://www.filfre.net/2017/02/the-eastgate-school-of-serious-hypertext/
+r_page_description: A quarter of a century after Ted Nelson first coined the term,
+  hypertext finally stepped into the spotlight in 1987. As we’ve seen in an earlier
+  article, the primary driver of its long-delayed public recognition was Apple’s HyperCard,
+  which in the wake of its premier at the MacWorld show in August went on to become…
+r_page_title: The Eastgate School of “Serious” Hypertext
+r_title: The Eastgate School of “Serious” Hypertext
+r_id: '704981'
+r_page_id: '517574'
+---
+
