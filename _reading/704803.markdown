@@ -1,0 +1,14 @@
+---
+title: '704803'
+r_url: http://www.thingsmagazine.net/telegraph/
+r_date: 2017-02-10 01:40:14.641000000 Z
+r_wrapped_url: https://www.reading.am/p/4BvM/http://www.thingsmagazine.net/telegraph/
+r_page_description: This late 18th century townhouse was also the base station for
+  the British Admiralty’s Shutter Telegraph system, opened in 1795 and providing a
+  line-of-sight link between the Admiralty in Whi…
+r_page_title: Telegraph
+r_title: Telegraph
+r_id: '704803'
+r_page_id: '517434'
+---
+

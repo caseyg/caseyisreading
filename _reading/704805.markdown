@@ -1,0 +1,13 @@
+---
+title: '704805'
+r_url: http://www.rightmove.co.uk/property-for-sale/property-34978005.html
+r_date: 2017-02-10 01:41:31.642000000 Z
+r_wrapped_url: https://www.reading.am/p/4BvP/http://www.rightmove.co.uk/property-for-sale/property-34978005.html
+r_page_description: 5 bedroom terraced house for sale in West Square, Kennington,
+  London, SE11 £3,000,000. Marketed by Winkworth, Kennington Sales
+r_page_title: Check out this property for sale on Rightmove!
+r_title: Check out this property for sale on Rightmove!
+r_id: '704805'
+r_page_id: '517435'
+---
+

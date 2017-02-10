@@ -1,0 +1,12 @@
+---
+title: '704806'
+r_url: https://en.wikipedia.org/wiki/Semaphore_line
+r_date: 2017-02-10 01:41:36.111000000 Z
+r_wrapped_url: https://www.reading.am/p/4BvQ/https://en.wikipedia.org/wiki/Semaphore_line
+r_page_description: ''
+r_page_title: Semaphore line - Wikipedia
+r_title: Semaphore line - Wikipedia
+r_id: '704806'
+r_page_id: '517436'
+---
+

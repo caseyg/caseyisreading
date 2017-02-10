@@ -1,0 +1,12 @@
+---
+title: '704807'
+r_url: http://www.vauxhallandkennington.org.uk/telegraph.shtml
+r_date: 2017-02-10 01:41:38.291000000 Z
+r_wrapped_url: https://www.reading.am/p/4BvR/http://www.vauxhallandkennington.org.uk/telegraph.shtml
+r_page_description: The Optical Telegraph, West Square
+r_page_title: Optical Telegraph
+r_title: Optical Telegraph
+r_id: '704807'
+r_page_id: '517437'
+---
+
