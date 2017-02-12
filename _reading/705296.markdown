@@ -1,0 +1,15 @@
+---
+title: '705296'
+r_url: https://rawgit.com/danburzo/snippets/master/snippets/css/flexbox-app-layout/flexbox-app-layout.html
+r_date: 2017-02-12 17:11:42.964000000 Z
+r_wrapped_url: https://www.reading.am/p/4BEh/https://rawgit.com/danburzo/snippets/master/snippets/css/flexbox-app-layout/flexbox-app-layout.html
+r_page_description: The mass of men lead lives of quiet desperation. What is called
+  resignation is confirmed desperation. From the desperate city you go into the desperate
+  country, and have to console yourself with the bravery of minks and muskrats. A
+  stereotyped...
+r_page_title: Flexbox Layout
+r_title: Flexbox Layout
+r_id: '705296'
+r_page_id: '517802'
+---
+
