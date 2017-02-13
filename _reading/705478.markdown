@@ -1,0 +1,16 @@
+---
+title: '705478'
+r_url: https://www.youtube.com/watch?v=MyHIXVifN4Q
+r_date: 2017-02-13 05:22:08.684000000 Z
+r_wrapped_url: https://www.reading.am/p/4BHq/https://www.youtube.com/watch?v=MyHIXVifN4Q
+r_page_description: Juelich is now one of the largest centers for computational science
+  in Europe. Today, over 200 groups from university and research are part of the user-groups.
+  This video provides an overview of the advantages of Blue Gene® and how it's helping
+  scientists and researchers to solve some of the most challenging computational science
+  problems.
+r_page_title: IBM Blue Gene - Juelich
+r_title: IBM Blue Gene - Juelich
+r_id: '705478'
+r_page_id: '517951'
+---
+
