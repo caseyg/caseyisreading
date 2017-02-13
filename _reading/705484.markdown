@@ -1,0 +1,12 @@
+---
+title: '705484'
+r_url: https://en.wikipedia.org/wiki/Julian_Jaynes
+r_date: 2017-02-13 05:38:09.015000000 Z
+r_wrapped_url: https://www.reading.am/p/4BHw/https://en.wikipedia.org/wiki/Julian_Jaynes
+r_page_description: ''
+r_page_title: Julian Jaynes - Wikipedia
+r_title: Julian Jaynes - Wikipedia
+r_id: '705484'
+r_page_id: '517957'
+---
+

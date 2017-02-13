@@ -1,0 +1,13 @@
+---
+title: '705487'
+r_url: http://v2.nl/archive/people/joel-ryan
+r_date: 2017-02-13 05:41:09.940000000 Z
+r_wrapped_url: https://www.reading.am/p/4BHz/http://v2.nl/archive/people/joel-ryan
+r_page_description: Joel Ryan (NL/US) is a composer, inventor and scientist - a pioneer
+  in the design of musical instruments based on real time digital signal processing.
+r_page_title: Joel Ryan
+r_title: Joel Ryan
+r_id: '705487'
+r_page_id: '517960'
+---
+
