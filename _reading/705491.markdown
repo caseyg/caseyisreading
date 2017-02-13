@@ -1,0 +1,13 @@
+---
+title: '705491'
+r_url: http://v2.nl/publishing/making-art-of-databases
+r_date: 2017-02-13 05:44:44.601000000 Z
+r_wrapped_url: https://www.reading.am/p/4BHD/http://v2.nl/publishing/making-art-of-databases
+r_page_description: '"Making Art of Databases" is a series of essays on experiments
+  deploying databases in interactive, dynamic artworks.'
+r_page_title: Making Art of Databases
+r_title: Making Art of Databases
+r_id: '705491'
+r_page_id: '517964'
+---
+
