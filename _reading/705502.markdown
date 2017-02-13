@@ -1,0 +1,15 @@
+---
+title: '705502'
+r_url: https://en.wikipedia.org/wiki/STEIM
+r_date: 2017-02-13 06:10:45.235000000 Z
+r_wrapped_url: https://www.reading.am/p/4BHQ/https://en.wikipedia.org/wiki/STEIM
+r_page_description: STEIM (STudio for Electro Instrumental Music) is a center for
+  research and development of new musical instruments in the electronic performing
+  arts, located in Amsterdam, Netherlands. Electronic music in STEIM's context is
+  always strongly related to the physical and direct...
+r_page_title: STEIM - Wikipedia
+r_title: STEIM - Wikipedia
+r_id: '705502'
+r_page_id: '517974'
+---
+

@@ -1,0 +1,11 @@
+---
+title: '705500'
+r_url: http://www.artservices.org/
+r_date: 2017-02-13 06:09:08.686000000 Z
+r_id: '705500'
+r_wrapped_url: https://www.reading.am/p/4BHN/http://www.artservices.org/
+r_page_id: '517972'
+r_page_title: "• Artservices •"
+r_title: "• Artservices •"
+---
+
