@@ -1,0 +1,13 @@
+---
+title: '705992'
+r_url: https://aeon.co/essays/trust-the-inside-story-of-the-rise-and-fall-of-ethereum
+r_date: 2017-02-15 06:01:37.504000000 Z
+r_wrapped_url: https://www.reading.am/p/4BSh/https://aeon.co/essays/trust-the-inside-story-of-the-rise-and-fall-of-ethereum
+r_page_description: 'Blockchain enthusiasts crave a world without bankers, lawyers
+  or fat-cat executives. There''s just one problem: trust'
+r_page_title: 'Trust: the inside story of the rise and fall of Ethereum – E J Spode '
+r_title: 'Trust: the inside story of the rise and fall of Ethereum – E J Spode '
+r_id: '705992'
+r_page_id: '518347'
+---
+
