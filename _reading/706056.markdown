@@ -1,0 +1,20 @@
+---
+title: '706056'
+r_url: https://www.moma.org/calendar/events/2872
+r_date: 2017-02-15 17:17:55.359000000 Z
+r_wrapped_url: https://www.reading.am/p/4BTo/https://www.moma.org/calendar/events/2872
+r_page_description: 'Lecture/panel. February 24 &amp; 25. Kate Moger presents a public
+  gallery talk entitled Mark Leckey: Animism, Technology, and The Long Tail. Leckey’s
+  multi-media practice is one that fluctuates between modes of artistic and alchemic
+  production. Reflecting upon scholar Matteo Pasquinelli''s articulation that “animism
+  is a sort of artificial intelligence made in the absence of electricity,” the talk
+  will investigate the relationships between technology, spirituality, and affect
+  in Mark Leckey’s work. Moger will focus on key works in the artist’s retrospective,
+  revealing the spiritual component of feedback loops and the blurring of the boundaries
+  between ritual and habit, self and smart fridge, and artist and wizard.'
+r_page_title: 'Mark Leckey: Animism, Technology, and The Long Tail '
+r_title: 'Mark Leckey: Animism, Technology, and The Long Tail '
+r_id: '706056'
+r_page_id: '518400'
+---
+
