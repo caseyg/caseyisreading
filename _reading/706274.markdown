@@ -1,0 +1,12 @@
+---
+title: '706274'
+r_url: https://en.wikipedia.org/wiki/List_of_fictional_colors
+r_date: 2017-02-16 21:21:42.079000000 Z
+r_wrapped_url: https://www.reading.am/p/4BX9/https://en.wikipedia.org/wiki/List_of_fictional_colors
+r_page_description: From Wikipedia, the free encyclopedia
+r_page_title: List of fictional colors - Wikipedia, the free encyclopedia
+r_title: List of fictional colors - Wikipedia, the free encyclopedia
+r_id: '706274'
+r_page_id: '474680'
+---
+
