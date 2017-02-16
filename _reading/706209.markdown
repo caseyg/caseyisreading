@@ -1,0 +1,14 @@
+---
+title: '706209'
+r_url: https://www.nytimes.com/2017/02/09/world/europe/netherlands-prisons-shortage.html
+r_date: 2017-02-16 15:16:25.831000000 Z
+r_wrapped_url: https://www.reading.am/p/4BW2/https://www.nytimes.com/2017/02/09/world/europe/netherlands-prisons-shortage.html
+r_page_description: In a nation where about a third of cells sit empty, the Netherlands
+  has rented some to other governments, and it has turned some jails into refugee
+  shelters.
+r_page_title: 'Dutch Get Creative to Solve a Prison Problem: Too Many Empty Cells'
+r_title: 'Dutch Get Creative to Solve a Prison Problem: Too Many Empty Cells'
+r_id: '706209'
+r_page_id: '518528'
+---
+
