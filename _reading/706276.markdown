@@ -1,0 +1,13 @@
+---
+title: '706276'
+r_url: http://www.themorgan.org/exhibitions/emily-dickinson
+r_date: 2017-02-16 21:26:30.378000000 Z
+r_wrapped_url: https://www.reading.am/p/4BXb/http://www.themorgan.org/exhibitions/emily-dickinson
+r_page_description: One of the most popular and enigmatic American writers of the
+  nineteenth century, Emily Dickinson (1830–1886) wrote almost 1,800 poems.
+r_page_title: I’m Nobody! Who are you? The Life and Poetry of Emily Dickinson
+r_title: I’m Nobody! Who are you? The Life and Poetry of Emily Dickinson
+r_id: '706276'
+r_page_id: '518576'
+---
+
