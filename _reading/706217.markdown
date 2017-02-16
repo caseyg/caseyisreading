@@ -1,0 +1,13 @@
+---
+title: '706217'
+r_url: https://www.theatlantic.com/technology/archive/2017/02/google-gets-out-of-the-satellite-business/515841/
+r_date: 2017-02-16 15:39:55.994000000 Z
+r_wrapped_url: https://www.reading.am/p/4BWa/https://www.theatlantic.com/technology/archive/2017/02/google-gets-out-of-the-satellite-business/515841/
+r_page_description: A startup says a 50-trillion-pixel image of Earth, refreshed daily,
+  is coming later this year.  
+r_page_title: A New Juggernaut in the Earth-Observing Satellite Industry
+r_title: A New Juggernaut in the Earth-Observing Satellite Industry
+r_id: '706217'
+r_page_id: '516997'
+---
+
