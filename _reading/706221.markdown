@@ -1,0 +1,14 @@
+---
+title: '706221'
+r_url: https://www.nytimes.com/2017/02/16/sports/bighorn-sheep-hunting.html
+r_date: 2017-02-16 15:54:18.399000000 Z
+r_wrapped_url: https://www.reading.am/p/4BWe/https://www.nytimes.com/2017/02/16/sports/bighorn-sheep-hunting.html
+r_page_description: Permits to hunt bighorn sheep are auctioned for hundreds of thousands
+  of dollars — and that money has helped revive wild sheep populations and expand
+  their territory.
+r_page_title: 'The Ultimate Pursuit in Hunting: Sheep'
+r_title: 'The Ultimate Pursuit in Hunting: Sheep'
+r_id: '706221'
+r_page_id: '518539'
+---
+
