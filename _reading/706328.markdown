@@ -1,0 +1,12 @@
+---
+title: '706328'
+r_url: https://www.youtube.com/watch?v=4cK2MPgAHRk
+r_date: 2017-02-17 04:03:29.606000000 Z
+r_wrapped_url: https://www.reading.am/p/4BY5/https://www.youtube.com/watch?v=4cK2MPgAHRk
+r_page_description: BBC Arena Documentary about the author, Philip K. Dick, from 1994.
+r_page_title: Philip K. Dick - A Day In The Afterlife (complete)
+r_title: Philip K. Dick - A Day In The Afterlife (complete)
+r_id: '706328'
+r_page_id: '518420'
+---
+
