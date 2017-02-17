@@ -1,0 +1,16 @@
+---
+title: '706320'
+r_url: http://theweek.com/speedreads/538379/samsung-warns-customers-not-discuss-personal-information-front-smart-tvs
+r_date: 2017-02-17 03:34:13.790000000 Z
+r_wrapped_url: https://www.reading.am/p/4BXW/http://theweek.com/speedreads/538379/samsung-warns-customers-not-discuss-personal-information-front-smart-tvs
+r_page_description: Samsung has confirmed that its "smart TV" sets are listening to
+  customers' every word, and the company is warning customers not to speak about personal
+  information while near the TV sets.
+r_page_title: Samsung warns customers not to discuss personal information in front
+  of smart TVs
+r_title: Samsung warns customers not to discuss personal information in front of smart
+  TVs
+r_id: '706320'
+r_page_id: '518615'
+---
+
