@@ -1,0 +1,13 @@
+---
+title: '706606'
+r_url: https://www.citylab.com/navigator/2017/02/baltimore-vacant-home-exhibition/517050/
+r_date: 2017-02-18 18:04:26.573000000 Z
+r_wrapped_url: https://www.reading.am/p/4C3S/https://www.citylab.com/navigator/2017/02/baltimore-vacant-home-exhibition/517050/
+r_page_description: An art installation celebrates the spirit of boarded-up blocks
+  of Baltimore and Japan.
+r_page_title: 'Preserving the Stories of Baltimore''s Vacant Homes '
+r_title: 'Preserving the Stories of Baltimore''s Vacant Homes '
+r_id: '706606'
+r_page_id: '518836'
+---
+
