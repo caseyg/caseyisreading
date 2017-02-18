@@ -1,0 +1,15 @@
+---
+title: '706546'
+r_url: https://granta.com/go-ask-the-time/
+r_date: 2017-02-18 04:11:12.533000000 Z
+r_wrapped_url: https://www.reading.am/p/4C2Q/https://granta.com/go-ask-the-time/
+r_page_description: "'The difference between the two understandings of the story is
+  related, in part, to the decline of religious faith, but it is also related to a
+  change in the way we approach the enigma of time.' Two Italian stories, amongst
+  photographs and images, are investigated in 'Go Ask the Time' by John Berger."
+r_page_title: Go ask the Time
+r_title: Go ask the Time
+r_id: '706546'
+r_page_id: '509815'
+---
+
