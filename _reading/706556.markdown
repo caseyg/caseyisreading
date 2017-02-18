@@ -1,0 +1,14 @@
+---
+title: '706556'
+r_url: https://www.nytimes.com/2017/02/17/nyregion/nyu-accelerated-graduation.html
+r_date: 2017-02-18 05:33:47.403000000 Z
+r_wrapped_url: https://www.reading.am/p/4C31/https://www.nytimes.com/2017/02/17/nyregion/nyu-accelerated-graduation.html
+r_page_description: New York University will offer more classes, broaden its allowance
+  for transfer credits and advise students on creating schedules to finish in three
+  years.
+r_page_title: College Costs Too Much? N.Y.U. Paves Way to Graduate Faster
+r_title: College Costs Too Much? N.Y.U. Paves Way to Graduate Faster
+r_id: '706556'
+r_page_id: '518800'
+---
+
