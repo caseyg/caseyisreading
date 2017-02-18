@@ -1,0 +1,15 @@
+---
+title: '706542'
+r_url: http://evgrieve.com/2017/02/m2m-is-closing-this-weekend-on-3rd.html
+r_date: 2017-02-18 03:37:51.189000000 Z
+r_wrapped_url: https://www.reading.am/p/4C2L/http://evgrieve.com/2017/02/m2m-is-closing-this-weekend-on-3rd.html
+r_page_description: M2M, the Asian convenient store that opened in 2002 on Third Avenue
+  at 11th Street, is closing tomorrow, workers confirmed.The closure was expected
+  at some point early this year after Wagamama, the London-based chain of Japanese
+  restaurants, signed a lease...
+r_page_title: M2M is closing this weekend on 3rd Avenue
+r_title: M2M is closing this weekend on 3rd Avenue
+r_id: '706542'
+r_page_id: '518790'
+---
+
