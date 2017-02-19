@@ -1,0 +1,13 @@
+---
+title: '706744'
+r_url: https://www.nytimes.com/2017/02/17/movies/netflix-and-chill-sure-but-there-are-others-too.html
+r_date: 2017-02-19 02:31:05.295000000 Z
+r_wrapped_url: https://www.reading.am/p/4C6f/https://www.nytimes.com/2017/02/17/movies/netflix-and-chill-sure-but-there-are-others-too.html
+r_page_description: Netflix may be the most popular movie and TV streaming service,
+  but Hulu, Vudu and more also offer pleasures.
+r_page_title: "‘Netflix and Chill’? Sure. But There Are Others, Too."
+r_title: "‘Netflix and Chill’? Sure. But There Are Others, Too."
+r_id: '706744'
+r_page_id: '518959'
+---
+
