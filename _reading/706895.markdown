@@ -1,0 +1,13 @@
+---
+title: '706895'
+r_url: https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber
+r_date: 2017-02-19 23:07:08.854000000 Z
+r_wrapped_url: https://www.reading.am/p/4C8R/https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber
+r_page_description: "As most of you know, I left Uber in December and joined Stripe
+  in January. \r"
+r_page_title: Reflecting on one very, very strange year at Uber
+r_title: Reflecting on one very, very strange year at Uber
+r_id: '706895'
+r_page_id: '519059'
+---
+
