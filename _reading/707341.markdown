@@ -1,0 +1,14 @@
+---
+title: '707341'
+r_url: https://cooper.edu/students/student-affairs/careers/about-us/statements
+r_date: 2017-02-21 19:20:19.433000000 Z
+r_wrapped_url: https://www.reading.am/p/4Cgx/https://cooper.edu/students/student-affairs/careers/about-us/statements
+r_page_description: The Cooper Union, open since 1859, grants degrees in art, architecture
+  and engineering and offers courses in continuing education in New York City's East
+  Village.
+r_page_title: 'Statements '
+r_title: 'Statements '
+r_id: '707341'
+r_page_id: '519424'
+---
+
