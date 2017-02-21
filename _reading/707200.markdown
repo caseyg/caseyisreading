@@ -1,0 +1,12 @@
+---
+title: '707200'
+r_url: http://knutepunkt.org/week/program/
+r_date: 2017-02-21 00:52:34.610000000 Z
+r_wrapped_url: https://www.reading.am/p/4Ce7/http://knutepunkt.org/week/program/
+r_page_description: 'Program: Monday 20th'
+r_page_title: 'Program '
+r_title: 'Program '
+r_id: '707200'
+r_page_id: '519314'
+---
+
