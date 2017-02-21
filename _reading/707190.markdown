@@ -1,0 +1,14 @@
+---
+title: '707190'
+r_url: http://the.ventriloqui.st/summerschool/
+r_date: 2017-02-21 00:15:49.641000000 Z
+r_wrapped_url: https://www.reading.am/p/4CdW/http://the.ventriloqui.st/summerschool/
+r_page_description: From August 8–13 2016. A week of workshops about the role of illusion
+  in design practices. With Kristina Ketola Bore, João Doria, Talk Magazine (Eric
+  Hu + Harry Gassel), Anu Vahtra and Nicole Killian.
+r_page_title: The Ventriloquist Summerschool 2016
+r_title: The Ventriloquist Summerschool 2016
+r_id: '707190'
+r_page_id: '519310'
+---
+
