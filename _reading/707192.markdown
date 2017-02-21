@@ -1,0 +1,12 @@
+---
+title: '707192'
+r_url: http://afmuseet.no/en/hjem
+r_date: 2017-02-21 00:20:29.440000000 Z
+r_wrapped_url: https://www.reading.am/p/4CdY/http://afmuseet.no/en/hjem
+r_page_description: Astrup Fearnley Museet's homepage
+r_page_title: Home
+r_title: Home
+r_id: '707192'
+r_page_id: '519311'
+---
+
